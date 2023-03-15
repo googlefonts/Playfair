@@ -1,0 +1,51 @@
+RMX Scaler settings
+*******************
+
+Scaling for wide display
+UC (Upright)
+120%
+0
+-20
+
+UC (Italic)
+120%
+0
+-5
+
+LC (Upright)
+120%
+0
+-20
+
+LC (Italic)
+120%
+0
+-9
+
+SC (Upright)
+120%
+0
+-13
+
+SC (Italic)
+120%
+0
+-5
+
+Inferior numerals (Upright)
+120%
+0
+-55
+
+
+Scaling for wide agate
+LC
+120%
+0
+-25
+
+UC
+120%
+0
+-7
+
