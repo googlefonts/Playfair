@@ -1,6 +1,0 @@
-    sources:
-      - Playfair.glyphs
-      - Playfair-Italic.glyphs
-    familyName: Playfair
-    buildOtf: false
-    buildVariable: false
