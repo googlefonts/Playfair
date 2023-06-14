@@ -7,7 +7,7 @@
       - wght
       - ital
     familyName: Playfair
-    buildStatic: false
+    buildStatic: true
     stat:
       Playfair[opsz,wdth,wght].ttf:
       - name: Optical size
@@ -29,8 +29,8 @@
           value: 21
         - name: 32pt
           value: 32
-        #- name: 36pt
-        #  value: 36
+        - name: 41pt
+          value: 41
         - name: 48pt
           value: 48
         - name: 72pt
@@ -95,8 +95,8 @@
           value: 21
         - name: 32pt
           value: 32
-        #- name: 36pt
-        #  value: 36
+        - name: 41pt
+          value: 41
         - name: 48pt
           value: 48
         - name: 72pt
