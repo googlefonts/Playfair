@@ -2640,6 +2640,7 @@ name = typoLineGap;
 value = 0;
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -2905,6 +2906,7 @@ name = typoLineGap;
 value = 0;
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3179,6 +3181,7 @@ size = 30;
 );
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3445,6 +3448,7 @@ size = 30;
 );
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3720,6 +3724,7 @@ size = 40;
 );
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -4003,6 +4008,7 @@ size = 40;
 );
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -4284,6 +4290,7 @@ size = 30;
 );
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -4568,6 +4575,7 @@ size = 30;
 );
 },
 {
+disabled = 1;
 name = "Axis Location";
 value = (
 {
