@@ -17,6 +17,11 @@ abstract: 'An open source, three axes variable font.'
 keywords:
   - typeface
   - font
-license: OFL-1.1-RFN
-version: '2.000'
-date-released: '2022-03-01'
+license: OFL-1.1
+<<<<<<< HEAD
+version: '2.101'
+date-released: '2022-11-28'
+=======
+version: '2.200'
+date-released: '2024-11-05'
+>>>>>>> two_dot_two
