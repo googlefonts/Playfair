@@ -60,7 +60,7 @@ shapes = (
 ref = i.smcp;
 },
 {
-pos = (54,0);
+pos = (53,0);
 ref = caroncomb.smcp;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = i.smcp;
 },
 {
-pos = (-7,0);
+pos = (3,0);
 ref = caroncomb.smcp;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = i.smcp;
 },
 {
-pos = (25,0);
+pos = (-1,0);
 ref = caroncomb.smcp;
 }
 );

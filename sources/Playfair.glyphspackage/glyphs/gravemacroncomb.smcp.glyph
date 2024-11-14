@@ -52,7 +52,7 @@ pos = (0,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 428;
+width = 429;
 },
 {
 anchors = (
@@ -78,7 +78,7 @@ pos = (0,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 384;
+width = 400;
 },
 {
 anchors = (
@@ -104,7 +104,7 @@ pos = (0,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 425;
+width = 450;
 },
 {
 anchors = (
@@ -197,7 +197,7 @@ pos = (0,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 397;
+width = 412;
 },
 {
 anchors = (
@@ -226,7 +226,7 @@ pos = (0,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 480;
+width = 496;
 }
 );
 metricLeft = acute;

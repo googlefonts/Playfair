@@ -77,7 +77,7 @@ shapes = (
 ref = e.smcp;
 },
 {
-pos = (113,0);
+pos = (158,0);
 ref = brevecomb.smcp;
 },
 {
@@ -94,7 +94,7 @@ shapes = (
 ref = e.smcp;
 },
 {
-pos = (182,0);
+pos = (204,0);
 ref = brevecomb.smcp;
 },
 {
@@ -128,7 +128,7 @@ shapes = (
 ref = e.smcp;
 },
 {
-pos = (133,0);
+pos = (138,0);
 ref = brevecomb.smcp;
 },
 {

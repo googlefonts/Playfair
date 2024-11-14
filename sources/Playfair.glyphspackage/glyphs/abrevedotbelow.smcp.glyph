@@ -30,7 +30,7 @@ pos = (288,0);
 ref = dotbelowcomb;
 },
 {
-pos = (163,0);
+pos = (208,0);
 ref = brevecomb.smcp;
 }
 );
@@ -47,7 +47,7 @@ pos = (371,0);
 ref = dotbelowcomb;
 },
 {
-pos = (225,0);
+pos = (247,0);
 ref = brevecomb.smcp;
 }
 );
@@ -132,7 +132,7 @@ pos = (337,0);
 ref = dotbelowcomb;
 },
 {
-pos = (200,0);
+pos = (205,0);
 ref = brevecomb.smcp;
 }
 );

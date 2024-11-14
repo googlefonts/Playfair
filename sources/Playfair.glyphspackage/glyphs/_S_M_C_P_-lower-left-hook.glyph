@@ -50,7 +50,7 @@ nodes = (
 );
 }
 );
-width = 384;
+width = 394;
 },
 {
 anchors = (
@@ -148,7 +148,7 @@ nodes = (
 );
 }
 );
-width = 496;
+width = 500;
 },
 {
 anchors = (
@@ -197,7 +197,7 @@ nodes = (
 );
 }
 );
-width = 548;
+width = 558;
 },
 {
 anchors = (
@@ -246,7 +246,7 @@ nodes = (
 );
 }
 );
-width = 403;
+width = 453;
 },
 {
 anchors = (
@@ -295,7 +295,7 @@ nodes = (
 );
 }
 );
-width = 443;
+width = 483;
 },
 {
 anchors = (
@@ -344,7 +344,7 @@ nodes = (
 );
 }
 );
-width = 480;
+width = 490;
 },
 {
 anchors = (
@@ -393,7 +393,7 @@ nodes = (
 );
 }
 );
-width = 534;
+width = 554;
 }
 );
 metricRight = "_SMCP-J-descender-stump";

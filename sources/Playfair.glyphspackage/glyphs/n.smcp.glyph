@@ -30,10 +30,10 @@ width = 688;
 guides = (
 {
 angle = 90;
-pos = (435,130);
+pos = (436,130);
 },
 {
-pos = (79,180);
+pos = (80,180);
 }
 );
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
@@ -73,10 +73,10 @@ width = 1071;
 guides = (
 {
 angle = 90;
-pos = (329,130);
+pos = (330,130);
 },
 {
-pos = (63,180);
+pos = (64,180);
 }
 );
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
@@ -138,10 +138,10 @@ width = 826;
 guides = (
 {
 angle = 90;
-pos = (391,130);
+pos = (392,130);
 },
 {
-pos = (87,180);
+pos = (88,180);
 }
 );
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";

@@ -118,11 +118,11 @@ ref = idotless;
 },
 {
 anchor = top;
-pos = (35,0);
+pos = (34,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-65,-10);
+pos = (-66,-10);
 ref = "_LC-i-stroke";
 }
 );
@@ -136,11 +136,11 @@ ref = idotless;
 },
 {
 anchor = top;
-pos = (41,0);
+pos = (39,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-64,-10);
+pos = (-66,-10);
 ref = "_LC-i-stroke";
 }
 );

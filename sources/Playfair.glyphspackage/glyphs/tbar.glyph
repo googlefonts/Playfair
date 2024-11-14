@@ -6,11 +6,11 @@ layers = (
 guides = (
 {
 angle = 90;
-pos = (344,513);
+pos = (345,513);
 },
 {
 angle = 90;
-pos = (10,513);
+pos = (11,513);
 }
 );
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
@@ -78,11 +78,11 @@ width = 660;
 guides = (
 {
 angle = 90;
-pos = (356,499);
+pos = (357,499);
 },
 {
 angle = 90;
-pos = (2,499);
+pos = (3,499);
 }
 );
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";

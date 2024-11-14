@@ -181,7 +181,7 @@ width = 426;
 guides = (
 {
 angle = 90;
-pos = (91,0);
+pos = (94,0);
 }
 );
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
@@ -483,7 +483,7 @@ max = 400;
 guides = (
 {
 angle = 90;
-pos = (81,0);
+pos = (84,0);
 }
 );
 layerId = "86BD73A9-2786-4E38-A090-68333E5E1DD5";

@@ -22,7 +22,7 @@ shapes = (
 ref = h.smcp;
 },
 {
-pos = (252,0);
+pos = (251,0);
 ref = circumflexcomb.smcp;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = h.smcp;
 },
 {
-pos = (201,0);
+pos = (211,0);
 ref = circumflexcomb.smcp;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = h.smcp;
 },
 {
-pos = (289,0);
+pos = (263,0);
 ref = circumflexcomb.smcp;
 }
 );

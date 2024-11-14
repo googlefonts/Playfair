@@ -126,12 +126,12 @@ ref = idotless;
 },
 {
 anchor = top_low_1;
-pos = (-50,-20);
+pos = (-51,-20);
 ref = dieresiscomb.narrow;
 },
 {
 anchor = top_low_3;
-pos = (120,160);
+pos = (119,160);
 ref = acutecomb.viet;
 }
 );
@@ -145,12 +145,12 @@ ref = idotless;
 },
 {
 anchor = top_low_1;
-pos = (-71,-20);
+pos = (-73,-20);
 ref = dieresiscomb.narrow;
 },
 {
 anchor = top_low_3;
-pos = (137,160);
+pos = (135,160);
 ref = acutecomb.viet;
 }
 );

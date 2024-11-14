@@ -18,22 +18,22 @@ layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 shapes = (
 {
 alignment = -1;
-pos = (56,72);
+pos = (58,72);
 ref = colon;
 }
 );
-width = 398;
+width = 440;
 },
 {
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
 alignment = -1;
-pos = (32,48);
+pos = (29,48);
 ref = colon;
 }
 );
-width = 334;
+width = 352;
 },
 {
 guides = (
@@ -49,45 +49,45 @@ pos = (45,48);
 ref = colon;
 }
 );
-width = 424;
+width = 456;
 },
 {
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
 alignment = -1;
-pos = (49,46);
+pos = (50,46);
 ref = colon;
 }
 );
-width = 400;
+width = 436;
 },
 {
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 shapes = (
 {
 alignment = -1;
-pos = (58,47);
+pos = (59,47);
 ref = colon;
 }
 );
-width = 472;
+width = 512;
 },
 {
 guides = (
 {
-pos = (149,304);
+pos = (147,304);
 }
 );
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
 alignment = -1;
-pos = (34,40);
+pos = (32,40);
 ref = colon;
 }
 );
-width = 358;
+width = 380;
 },
 {
 guides = (
@@ -103,7 +103,7 @@ pos = (45,36);
 ref = colon;
 }
 );
-width = 446;
+width = 478;
 }
 );
 metricLeft = "=colon*1.6";

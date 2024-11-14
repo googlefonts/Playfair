@@ -23,7 +23,7 @@ ref = g.smcp;
 },
 {
 anchor = top;
-pos = (126,0);
+pos = (171,0);
 ref = brevecomb.smcp;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = g.smcp;
 },
 {
-pos = (210,0);
+pos = (232,0);
 ref = brevecomb.smcp;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = g.smcp;
 },
 {
-pos = (192,0);
+pos = (197,0);
 ref = brevecomb.smcp;
 }
 );

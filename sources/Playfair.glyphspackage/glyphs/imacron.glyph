@@ -94,7 +94,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (31,0);
+pos = (30,0);
 ref = macroncomb;
 scale = (0.8,1);
 }
@@ -108,7 +108,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (27,0);
+pos = (25,0);
 ref = macroncomb;
 scale = (0.8,1);
 }

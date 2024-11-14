@@ -94,7 +94,7 @@ width = 909;
 background = {
 shapes = (
 {
-pos = (308,0);
+pos = (462,0);
 ref = A;
 }
 );
@@ -111,7 +111,7 @@ width = 786;
 background = {
 shapes = (
 {
-pos = (178,0);
+pos = (267,0);
 ref = A;
 }
 );
@@ -128,7 +128,7 @@ width = 761;
 background = {
 shapes = (
 {
-pos = (286,0);
+pos = (429,0);
 ref = A;
 }
 );
@@ -145,7 +145,7 @@ width = 882;
 background = {
 shapes = (
 {
-pos = (264,0);
+pos = (396,0);
 ref = A;
 }
 );
@@ -162,7 +162,7 @@ width = 803;
 background = {
 shapes = (
 {
-pos = (244,0);
+pos = (366,0);
 ref = A;
 }
 );
@@ -179,7 +179,7 @@ width = 1002;
 background = {
 shapes = (
 {
-pos = (210,0);
+pos = (315,0);
 ref = A;
 }
 );
@@ -196,7 +196,7 @@ width = 831;
 background = {
 shapes = (
 {
-pos = (184,0);
+pos = (276,0);
 ref = A;
 }
 );
