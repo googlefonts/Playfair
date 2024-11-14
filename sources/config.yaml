@@ -7,7 +7,7 @@ axisOrder:
   - wght
   - ital
 familyName: Playfair
-buildStatic: true
+buildStatic: false
 cleanUp: true
 stat:
   Playfair[opsz,wdth,wght].ttf:
