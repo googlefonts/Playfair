@@ -144,7 +144,10 @@ name = "Use Extension Kerning";
 value = 1;
 },
 {
-disabled = 1;
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
 name = "Feature for Feature Variations";
 value = rlig;
 },
@@ -188,7 +191,7 @@ wght = {
 },
 {
 name = "Variable Font Origin";
-value = "2895B92B-45F5-4972-B85C-1A160E6E6488";
+value = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 }
 );
 date = "2024-11-05 07:24:09 +0000";
@@ -2640,7 +2643,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -2861,7 +2863,7 @@ KernOnUserSetAutopairs = (
 {
 axesValues = (
 1200,
-113,
+114,
 360
 );
 customParameters = (
@@ -2906,7 +2908,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3181,7 +3182,6 @@ size = 30;
 );
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3382,7 +3382,7 @@ KernOnUserSetAutopairs = (
 {
 axesValues = (
 1200,
-113,
+114,
 900
 );
 customParameters = (
@@ -3448,7 +3448,6 @@ size = 30;
 );
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3724,7 +3723,6 @@ size = 40;
 );
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -3946,7 +3944,7 @@ KernOnUserSetAutopairs = (
 {
 axesValues = (
 5,
-113,
+114,
 360
 );
 customParameters = (
@@ -4008,7 +4006,6 @@ size = 40;
 );
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -4290,7 +4287,6 @@ size = 30;
 );
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -4509,7 +4505,7 @@ KernOnUserSetAutopairs = (
 {
 axesValues = (
 5,
-113,
+114,
 900
 );
 customParameters = (
@@ -4575,7 +4571,6 @@ size = 30;
 );
 },
 {
-disabled = 1;
 name = "Axis Location";
 value = (
 {
@@ -4808,11 +4803,31 @@ axesValues = (
 100,
 360
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 instanceInterpolations = {
-"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.15109;
-"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.12669;
-"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.39284;
-"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.32938;
+"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.14314;
+"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.12002;
+"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.40079;
+"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.33605;
 };
 name = Light;
 weightClass = 300;
@@ -4823,15 +4838,35 @@ axesValues = (
 100,
 400
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 instanceInterpolations = {
-"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.1399;
-"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.0291;
-"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.1173;
-"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.00938;
-"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.01119;
-"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.36374;
-"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.30498;
-"F497C50F-30EB-4580-9148-0005B36D0333" = 0.0244;
+"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.13254;
+"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.02969;
+"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.11113;
+"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.00889;
+"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.0106;
+"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.3711;
+"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.31116;
+"F497C50F-30EB-4580-9148-0005B36D0333" = 0.02489;
 };
 name = Regular;
 },
@@ -4841,15 +4876,35 @@ axesValues = (
 100,
 475
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
 instanceInterpolations = {
-"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.11892;
-"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.08366;
-"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.09971;
-"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.02698;
-"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.03218;
-"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.30918;
-"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.25924;
-"F497C50F-30EB-4580-9148-0005B36D0333" = 0.07015;
+"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.11266;
+"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.08535;
+"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.09446;
+"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.02556;
+"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.03048;
+"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.31544;
+"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.26448;
+"F497C50F-30EB-4580-9148-0005B36D0333" = 0.07157;
 };
 name = Medium;
 weightClass = 500;
@@ -4860,15 +4915,35 @@ axesValues = (
 100,
 550
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 instanceInterpolations = {
-"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.09793;
-"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.13822;
-"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.08211;
-"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.04457;
-"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.05316;
-"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.25462;
-"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.21349;
-"F497C50F-30EB-4580-9148-0005B36D0333" = 0.11589;
+"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.09278;
+"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.14102;
+"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.07779;
+"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.04223;
+"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.05036;
+"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.25977;
+"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.21781;
+"F497C50F-30EB-4580-9148-0005B36D0333" = 0.11824;
 };
 name = SemiBold;
 weightClass = 600;
@@ -4879,15 +4954,35 @@ axesValues = (
 100,
 650
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
 instanceInterpolations = {
-"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.06995;
-"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.21097;
-"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.05865;
-"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.06803;
-"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.08114;
-"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.18187;
-"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.15249;
-"F497C50F-30EB-4580-9148-0005B36D0333" = 0.17689;
+"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.06627;
+"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.21524;
+"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.05556;
+"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.06445;
+"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.07687;
+"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.18555;
+"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.15558;
+"F497C50F-30EB-4580-9148-0005B36D0333" = 0.18047;
 };
 isBold = 1;
 name = Bold;
@@ -4899,15 +4994,35 @@ axesValues = (
 100,
 750
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 instanceInterpolations = {
-"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.04197;
-"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.28372;
-"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.03519;
-"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.09149;
-"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.10912;
-"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.10912;
-"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.09149;
-"F497C50F-30EB-4580-9148-0005B36D0333" = 0.23789;
+"2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.03976;
+"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.28946;
+"2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.03334;
+"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.08668;
+"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.10338;
+"7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7" = 0.11133;
+"DF17D77B-A5C4-4843-826A-BC0F1C4CB224" = 0.09335;
+"F497C50F-30EB-4580-9148-0005B36D0333" = 0.2427;
 };
 name = ExtraBold;
 weightClass = 800;
@@ -4918,11 +5033,31 @@ axesValues = (
 100,
 900
 );
+customParameters = (
+{
+disabled = 1;
+name = "Axis Location";
+value = (
+{
+Axis = "Optical size";
+Location = 12;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
+);
 instanceInterpolations = {
-"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.39284;
-"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.12669;
-"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.15109;
-"F497C50F-30EB-4580-9148-0005B36D0333" = 0.32938;
+"29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.40079;
+"41FE8A15-28AA-4FFF-A503-D6748EB37864" = 0.12002;
+"58AEE805-6805-4A0B-A273-5ABBCB55D365" = 0.14314;
+"F497C50F-30EB-4580-9148-0005B36D0333" = 0.33605;
 };
 name = Black;
 weightClass = 900;
@@ -155282,7 +155417,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2003 The Playfair Project Authors (https://github.com/googlefonts/Playfair)";
+value = "Copyright 2005–2024 The Playfair Project Authors (https://github.com/googlefonts/Playfair)";
 }
 );
 },
