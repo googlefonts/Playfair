@@ -5,8 +5,44 @@ layers = (
 {
 anchors = (
 {
-name = "#exit";
-pos = (525,0);
+name = bottom_1;
+pos = (109,0);
+},
+{
+name = bottom_2;
+pos = (469,0);
+},
+{
+name = bottom_3;
+pos = (828,0);
+},
+{
+name = bottom_4;
+pos = (1188,0);
+},
+{
+name = caret_1;
+pos = (359.667,0);
+},
+{
+name = caret_2;
+pos = (719.333,0);
+},
+{
+name = top_1;
+pos = (324,771);
+},
+{
+name = top_2;
+pos = (684,771);
+},
+{
+name = top_3;
+pos = (1043,771);
+},
+{
+name = top_4;
+pos = (1403,771);
 }
 );
 background = {
@@ -254,8 +290,44 @@ width = 1079;
 {
 anchors = (
 {
-name = "#exit";
-pos = (637,0);
+name = bottom_1;
+pos = (138,0);
+},
+{
+name = bottom_2;
+pos = (557,0);
+},
+{
+name = bottom_3;
+pos = (976,0);
+},
+{
+name = bottom_4;
+pos = (1394,0);
+},
+{
+name = caret_1;
+pos = (418.667,0);
+},
+{
+name = caret_2;
+pos = (837.333,0);
+},
+{
+name = top_1;
+pos = (353,771);
+},
+{
+name = top_2;
+pos = (772,771);
+},
+{
+name = top_3;
+pos = (1191,771);
+},
+{
+name = top_4;
+pos = (1609,771);
 }
 );
 background = {
@@ -503,8 +575,44 @@ width = 1256;
 {
 anchors = (
 {
-name = "#exit";
-pos = (591,0);
+name = bottom_1;
+pos = (132,0);
+},
+{
+name = bottom_2;
+pos = (543,0);
+},
+{
+name = bottom_3;
+pos = (953,0);
+},
+{
+name = bottom_4;
+pos = (1363,0);
+},
+{
+name = caret_1;
+pos = (410.333,0);
+},
+{
+name = caret_2;
+pos = (820.667,0);
+},
+{
+name = top_1;
+pos = (348,771);
+},
+{
+name = top_2;
+pos = (759,771);
+},
+{
+name = top_3;
+pos = (1169,771);
+},
+{
+name = top_4;
+pos = (1579,771);
 }
 );
 background = {
@@ -752,8 +860,44 @@ width = 1231;
 {
 anchors = (
 {
-name = "#exit";
-pos = (701,0);
+name = bottom_1;
+pos = (173,0);
+},
+{
+name = bottom_2;
+pos = (665,0);
+},
+{
+name = bottom_3;
+pos = (1156,0);
+},
+{
+name = bottom_4;
+pos = (1648,0);
+},
+{
+name = caret_1;
+pos = (491.667,0);
+},
+{
+name = caret_2;
+pos = (983.333,0);
+},
+{
+name = top_1;
+pos = (389,771);
+},
+{
+name = top_2;
+pos = (881,771);
+},
+{
+name = top_3;
+pos = (1372,771);
+},
+{
+name = top_4;
+pos = (1864,771);
 }
 );
 background = {
@@ -1004,8 +1148,44 @@ width = 1475;
 {
 anchors = (
 {
-name = "#exit";
-pos = (606,0);
+name = bottom_1;
+pos = (138,0);
+},
+{
+name = bottom_2;
+pos = (556,0);
+},
+{
+name = bottom_3;
+pos = (974,0);
+},
+{
+name = bottom_4;
+pos = (1392,0);
+},
+{
+name = caret_1;
+pos = (418,0);
+},
+{
+name = caret_2;
+pos = (836,0);
+},
+{
+name = top_1;
+pos = (353,773);
+},
+{
+name = top_2;
+pos = (771,773);
+},
+{
+name = top_3;
+pos = (1189,773);
+},
+{
+name = top_4;
+pos = (1607,773);
 }
 );
 background = {
@@ -1253,8 +1433,44 @@ width = 1254;
 {
 anchors = (
 {
-name = "#exit";
-pos = (706,0);
+name = bottom_1;
+pos = (171,0);
+},
+{
+name = bottom_2;
+pos = (655,0);
+},
+{
+name = bottom_3;
+pos = (1139,0);
+},
+{
+name = bottom_4;
+pos = (1623,0);
+},
+{
+name = caret_1;
+pos = (484,0);
+},
+{
+name = caret_2;
+pos = (968,0);
+},
+{
+name = top_1;
+pos = (386,773);
+},
+{
+name = top_2;
+pos = (870,773);
+},
+{
+name = top_3;
+pos = (1354,773);
+},
+{
+name = top_4;
+pos = (1838,773);
 }
 );
 background = {
@@ -1502,8 +1718,44 @@ width = 1452;
 {
 anchors = (
 {
-name = "#exit";
-pos = (754,0);
+name = bottom_1;
+pos = (170,0);
+},
+{
+name = bottom_2;
+pos = (657,0);
+},
+{
+name = bottom_3;
+pos = (1143,0);
+},
+{
+name = bottom_4;
+pos = (1629,0);
+},
+{
+name = caret_1;
+pos = (486.333,0);
+},
+{
+name = caret_2;
+pos = (972.667,0);
+},
+{
+name = top_1;
+pos = (386,773);
+},
+{
+name = top_2;
+pos = (873,773);
+},
+{
+name = top_3;
+pos = (1359,773);
+},
+{
+name = top_4;
+pos = (1845,773);
 }
 );
 background = {
@@ -1751,8 +2003,44 @@ width = 1459;
 {
 anchors = (
 {
-name = "#exit";
-pos = (804,0);
+name = bottom_1;
+pos = (211,0);
+},
+{
+name = bottom_2;
+pos = (780,0);
+},
+{
+name = bottom_3;
+pos = (1349,0);
+},
+{
+name = bottom_4;
+pos = (1917,0);
+},
+{
+name = caret_1;
+pos = (568.667,0);
+},
+{
+name = caret_2;
+pos = (1137.333,0);
+},
+{
+name = top_1;
+pos = (427,773);
+},
+{
+name = top_2;
+pos = (996,773);
+},
+{
+name = top_3;
+pos = (1565,773);
+},
+{
+name = top_4;
+pos = (2133,773);
 }
 );
 background = {

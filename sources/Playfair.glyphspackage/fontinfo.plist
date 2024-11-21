@@ -2620,7 +2620,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -2885,7 +2885,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -3138,7 +3138,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -3404,7 +3404,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -3683,7 +3683,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -3966,7 +3966,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -4243,7 +4243,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -4527,7 +4527,7 @@ value = -390;
 },
 {
 name = winAscent;
-value = 1076;
+value = 1177;
 },
 {
 name = winDescent;
@@ -4803,26 +4803,6 @@ axesValues = (
 100,
 360
 );
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 300;
-}
-);
-}
-);
 instanceInterpolations = {
 "2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.14314;
 "2AEC198B-4747-4E5F-80A7-B5A71C2761F9" = 0.12002;
@@ -4837,26 +4817,6 @@ axesValues = (
 550,
 100,
 400
-);
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 400;
-}
-);
-}
 );
 instanceInterpolations = {
 "2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.13254;
@@ -4875,26 +4835,6 @@ axesValues = (
 550,
 100,
 475
-);
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 500;
-}
-);
-}
 );
 instanceInterpolations = {
 "2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.11266;
@@ -4915,26 +4855,6 @@ axesValues = (
 100,
 550
 );
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 600;
-}
-);
-}
-);
 instanceInterpolations = {
 "2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.09278;
 "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.14102;
@@ -4953,26 +4873,6 @@ axesValues = (
 550,
 100,
 650
-);
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 700;
-}
-);
-}
 );
 instanceInterpolations = {
 "2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.06627;
@@ -4994,26 +4894,6 @@ axesValues = (
 100,
 750
 );
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 800;
-}
-);
-}
-);
 instanceInterpolations = {
 "2895B92B-45F5-4972-B85C-1A160E6E6488" = 0.03976;
 "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.28946;
@@ -5032,26 +4912,6 @@ axesValues = (
 550,
 100,
 900
-);
-customParameters = (
-{
-disabled = 1;
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 12;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 900;
-}
-);
-}
 );
 instanceInterpolations = {
 "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A" = 0.40079;
@@ -155233,7 +155093,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2005–2024 The Playfair Project Authors (https://github.com/googlefonts/Playfair)";
+value = "Copyright 2005 The Playfair Project Authors (https://github.com/googlefonts/Playfair)";
 }
 );
 },
@@ -155400,5 +155260,5 @@ KernOnRegenerateGroups = 1;
 KernOnVersion = "1.33";
 };
 versionMajor = 2;
-versionMinor = 202;
+versionMinor = 203;
 }

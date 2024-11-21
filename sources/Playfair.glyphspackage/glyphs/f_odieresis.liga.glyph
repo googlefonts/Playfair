@@ -7,76 +7,24 @@ layers = (
 {
 anchors = (
 {
-name = "#entry";
-pos = (109,256);
-},
-{
-name = "%entry";
-pos = (-158,0);
-},
-{
-name = 2ndTittle;
-pos = (700,512);
-},
-{
-name = "^entry";
-pos = (4,0);
-},
-{
-name = _stem;
-pos = (109,256);
-},
-{
-name = bar;
-pos = (109,512);
-},
-{
 name = bottom_1;
-pos = (590,0);
+pos = (219,0);
 },
 {
-name = center;
-pos = (155,512);
+name = bottom_2;
+pos = (656,0);
 },
 {
-name = center_1;
-pos = (590,257);
-},
-{
-name = ogonek_1;
-pos = (675,0);
-},
-{
-name = stem;
-pos = (109,256);
-},
-{
-name = top;
-pos = (326,771);
+name = caret_1;
+pos = (437,0);
 },
 {
 name = top_1;
-pos = (590,512);
+pos = (219,771);
 },
 {
-name = top_low_1_1;
-pos = (590,492);
-},
-{
-name = top_low_2_1;
-pos = (590,472);
-},
-{
-name = top_low_3_1;
-pos = (590,452);
-},
-{
-name = top_low_4_1;
-pos = (590,432);
-},
-{
-name = topright_1;
-pos = (817,512);
+name = top_2;
+pos = (656,771);
 }
 );
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
@@ -202,76 +150,24 @@ width = 874;
 {
 anchors = (
 {
-name = "#entry";
-pos = (136,256);
-},
-{
-name = "%entry";
-pos = (-157,0);
-},
-{
-name = 2ndTittle;
-pos = (811,512);
-},
-{
-name = "^entry";
-pos = (5,0);
-},
-{
-name = _stem;
-pos = (136,256);
-},
-{
-name = bar;
-pos = (136,512);
-},
-{
 name = bottom_1;
-pos = (694,0);
+pos = (259,0);
 },
 {
-name = center;
-pos = (181,512);
+name = bottom_2;
+pos = (776,0);
 },
 {
-name = center_1;
-pos = (694,257);
-},
-{
-name = ogonek_1;
-pos = (801,0);
-},
-{
-name = stem;
-pos = (136,256);
-},
-{
-name = top;
-pos = (371,771);
+name = caret_1;
+pos = (517,0);
 },
 {
 name = top_1;
-pos = (694,512);
+pos = (259,771);
 },
 {
-name = top_low_1_1;
-pos = (694,492);
-},
-{
-name = top_low_2_1;
-pos = (694,472);
-},
-{
-name = top_low_3_1;
-pos = (694,452);
-},
-{
-name = top_low_4_1;
-pos = (694,432);
-},
-{
-name = topright_1;
-pos = (961,512);
+name = top_2;
+pos = (776,771);
 }
 );
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
@@ -397,76 +293,24 @@ width = 1034;
 {
 anchors = (
 {
-name = "#entry";
-pos = (81,260);
-},
-{
-name = "%entry";
-pos = (-158,0);
-},
-{
-name = 2ndTittle;
-pos = (778,520);
-},
-{
-name = "^entry";
-pos = (4,0);
-},
-{
-name = _stem;
-pos = (81,260);
-},
-{
-name = bar;
-pos = (81,520);
-},
-{
 name = bottom_1;
-pos = (666,0);
+pos = (241,0);
 },
 {
-name = center;
-pos = (171,520);
+name = bottom_2;
+pos = (723,0);
 },
 {
-name = center_1;
-pos = (666,260);
-},
-{
-name = ogonek_1;
-pos = (776,0);
-},
-{
-name = stem;
-pos = (81,260);
-},
-{
-name = top;
-pos = (350,771);
+name = caret_1;
+pos = (482,0);
 },
 {
 name = top_1;
-pos = (666,520);
+pos = (241,771);
 },
 {
-name = top_low_1_1;
-pos = (666,500);
-},
-{
-name = top_low_2_1;
-pos = (666,480);
-},
-{
-name = top_low_3_1;
-pos = (666,460);
-},
-{
-name = top_low_4_1;
-pos = (666,440);
-},
-{
-name = topright_1;
-pos = (923,520);
+name = top_2;
+pos = (723,771);
 }
 );
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
@@ -592,76 +436,24 @@ width = 964;
 {
 anchors = (
 {
-name = "#entry";
-pos = (108,260);
-},
-{
-name = "%entry";
-pos = (-157,0);
-},
-{
-name = 2ndTittle;
-pos = (874,520);
-},
-{
-name = "^entry";
-pos = (5,0);
-},
-{
-name = _stem;
-pos = (108,260);
-},
-{
-name = bar;
-pos = (108,520);
-},
-{
 name = bottom_1;
-pos = (747,0);
+pos = (275,0);
 },
 {
-name = center;
-pos = (198,520);
+name = bottom_2;
+pos = (826,0);
 },
 {
-name = center_1;
-pos = (747,260);
-},
-{
-name = ogonek_1;
-pos = (864,0);
-},
-{
-name = stem;
-pos = (108,260);
-},
-{
-name = top;
-pos = (412,771);
+name = caret_1;
+pos = (550.5,0);
 },
 {
 name = top_1;
-pos = (748,520);
+pos = (275,771);
 },
 {
-name = top_low_1_1;
-pos = (748,500);
-},
-{
-name = top_low_2_1;
-pos = (748,480);
-},
-{
-name = top_low_3_1;
-pos = (748,460);
-},
-{
-name = top_low_4_1;
-pos = (748,440);
-},
-{
-name = topright_1;
-pos = (1047,520);
+name = top_2;
+pos = (826,771);
 }
 );
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
@@ -787,76 +579,24 @@ width = 1101;
 {
 anchors = (
 {
-name = "#entry";
-pos = (180,256);
-},
-{
-name = "%entry";
-pos = (-158,0);
-},
-{
-name = 2ndTittle;
-pos = (846,512);
-},
-{
-name = "^entry";
-pos = (4,0);
-},
-{
-name = _stem;
-pos = (180,256);
-},
-{
-name = bar;
-pos = (180,512);
-},
-{
 name = bottom_1;
-pos = (745,0);
+pos = (263,0);
 },
 {
-name = center;
-pos = (226,512);
+name = bottom_2;
+pos = (789,0);
 },
 {
-name = center_1;
-pos = (745,257);
-},
-{
-name = ogonek_1;
-pos = (828,0);
-},
-{
-name = stem;
-pos = (180,256);
-},
-{
-name = top;
-pos = (426,773);
+name = caret_1;
+pos = (526,0);
 },
 {
 name = top_1;
-pos = (745,512);
+pos = (263,773);
 },
 {
-name = top_low_1_1;
-pos = (745,492);
-},
-{
-name = top_low_2_1;
-pos = (745,472);
-},
-{
-name = top_low_3_1;
-pos = (745,452);
-},
-{
-name = top_low_4_1;
-pos = (745,432);
-},
-{
-name = topright_1;
-pos = (972,512);
+name = top_2;
+pos = (789,773);
 }
 );
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
@@ -982,76 +722,24 @@ width = 1052;
 {
 anchors = (
 {
-name = "#entry";
-pos = (223,256);
-},
-{
-name = "%entry";
-pos = (-157,0);
-},
-{
-name = 2ndTittle;
-pos = (1046,512);
-},
-{
-name = "^entry";
-pos = (5,0);
-},
-{
-name = _stem;
-pos = (223,256);
-},
-{
-name = bar;
-pos = (223,512);
-},
-{
 name = bottom_1;
-pos = (899,0);
+pos = (320,0);
 },
 {
-name = center;
-pos = (269,512);
+name = bottom_2;
+pos = (961,0);
 },
 {
-name = center_1;
-pos = (899,257);
-},
-{
-name = ogonek_1;
-pos = (999,0);
-},
-{
-name = stem;
-pos = (223,256);
-},
-{
-name = top;
-pos = (503,773);
+name = caret_1;
+pos = (640.5,0);
 },
 {
 name = top_1;
-pos = (898,512);
+pos = (320,773);
 },
 {
-name = top_low_1_1;
-pos = (898,492);
-},
-{
-name = top_low_2_1;
-pos = (898,472);
-},
-{
-name = top_low_3_1;
-pos = (898,452);
-},
-{
-name = top_low_4_1;
-pos = (898,432);
-},
-{
-name = topright_1;
-pos = (1181,512);
+name = top_2;
+pos = (961,773);
 }
 );
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
@@ -1177,76 +865,24 @@ width = 1281;
 {
 anchors = (
 {
-name = "#entry";
-pos = (110,260);
-},
-{
-name = "%entry";
-pos = (-159,0);
-},
-{
-name = 2ndTittle;
-pos = (811,520);
-},
-{
-name = "^entry";
-pos = (3,0);
-},
-{
-name = _stem;
-pos = (110,260);
-},
-{
-name = bar;
-pos = (110,520);
-},
-{
 name = bottom_1;
-pos = (694,0);
+pos = (246,0);
 },
 {
-name = center;
-pos = (200,520);
+name = bottom_2;
+pos = (737,0);
 },
 {
-name = center_1;
-pos = (694,260);
-},
-{
-name = ogonek_1;
-pos = (800,0);
-},
-{
-name = stem;
-pos = (110,260);
-},
-{
-name = top;
-pos = (380,773);
+name = caret_1;
+pos = (491,0);
 },
 {
 name = top_1;
-pos = (694,520);
+pos = (246,773);
 },
 {
-name = top_low_1_1;
-pos = (694,500);
-},
-{
-name = top_low_2_1;
-pos = (694,480);
-},
-{
-name = top_low_3_1;
-pos = (694,460);
-},
-{
-name = top_low_4_1;
-pos = (694,440);
-},
-{
-name = topright_1;
-pos = (951,520);
+name = top_2;
+pos = (737,773);
 }
 );
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
@@ -1372,76 +1008,24 @@ width = 982;
 {
 anchors = (
 {
-name = "#entry";
-pos = (139,260);
-},
-{
-name = "%entry";
-pos = (-159,0);
-},
-{
-name = 2ndTittle;
-pos = (964,520);
-},
-{
-name = "^entry";
-pos = (3,0);
-},
-{
-name = _stem;
-pos = (139,260);
-},
-{
-name = bar;
-pos = (139,520);
-},
-{
 name = bottom_1;
-pos = (827,4);
+pos = (301,0);
 },
 {
-name = center;
-pos = (230,520);
+name = bottom_2;
+pos = (902,0);
 },
 {
-name = center_1;
-pos = (827,264);
-},
-{
-name = ogonek_1;
-pos = (955,4);
-},
-{
-name = stem;
-pos = (139,260);
-},
-{
-name = top;
-pos = (450,773);
+name = caret_1;
+pos = (601.5,0);
 },
 {
 name = top_1;
-pos = (826,524);
+pos = (301,773);
 },
 {
-name = top_low_1_1;
-pos = (826,504);
-},
-{
-name = top_low_2_1;
-pos = (826,484);
-},
-{
-name = top_low_3_1;
-pos = (826,464);
-},
-{
-name = top_low_4_1;
-pos = (826,444);
-},
-{
-name = topright_1;
-pos = (1144,524);
+name = top_2;
+pos = (902,773);
 }
 );
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";

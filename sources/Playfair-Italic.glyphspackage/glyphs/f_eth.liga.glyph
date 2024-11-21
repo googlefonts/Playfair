@@ -7,8 +7,24 @@ layers = (
 {
 anchors = (
 {
+name = bottom_1;
+pos = (129,0);
+},
+{
+name = bottom_2;
+pos = (528,0);
+},
+{
 name = caret_1;
-pos = (301,0);
+pos = (399,0);
+},
+{
+name = top_1;
+pos = (344,771);
+},
+{
+name = top_2;
+pos = (743,771);
 }
 );
 background = {
@@ -195,8 +211,24 @@ width = 798;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (157,0);
+},
+{
+name = bottom_2;
+pos = (613,0);
+},
+{
 name = caret_1;
-pos = (358,0);
+pos = (456,0);
+},
+{
+name = top_1;
+pos = (372,773);
+},
+{
+name = top_2;
+pos = (828,773);
 }
 );
 background = {
@@ -335,8 +367,24 @@ width = 912;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (163,0);
+},
+{
+name = bottom_2;
+pos = (631,0);
+},
+{
 name = caret_1;
-pos = (371,0);
+pos = (468,0);
+},
+{
+name = top_1;
+pos = (378,771);
+},
+{
+name = top_2;
+pos = (846,771);
 }
 );
 background = {
@@ -445,8 +493,24 @@ width = 936;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (153,0);
+},
+{
+name = bottom_2;
+pos = (604,0);
+},
+{
 name = caret_1;
-pos = (350,0);
+pos = (451,0);
+},
+{
+name = top_1;
+pos = (369,771);
+},
+{
+name = top_2;
+pos = (820,771);
 }
 );
 background = {
@@ -555,8 +619,24 @@ width = 902;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (192,0);
+},
+{
+name = bottom_2;
+pos = (717,0);
+},
+{
 name = caret_1;
-pos = (428,0);
+pos = (525,0);
+},
+{
+name = top_1;
+pos = (407,773);
+},
+{
+name = top_2;
+pos = (932,773);
 }
 );
 background = {
@@ -665,8 +745,24 @@ width = 1050;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (192,0);
+},
+{
+name = bottom_2;
+pos = (721,0);
+},
+{
 name = caret_1;
-pos = (431,0);
+pos = (529.5,0);
+},
+{
+name = top_1;
+pos = (408,773);
+},
+{
+name = top_2;
+pos = (937,773);
 }
 );
 background = {
@@ -775,8 +871,24 @@ width = 1059;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (193,0);
+},
+{
+name = bottom_2;
+pos = (724,0);
+},
+{
 name = caret_1;
-pos = (430,0);
+pos = (531,0);
+},
+{
+name = top_1;
+pos = (409,771);
+},
+{
+name = top_2;
+pos = (940,771);
 }
 );
 background = {
@@ -885,8 +997,24 @@ width = 1062;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (242,0);
+},
+{
+name = bottom_2;
+pos = (871,0);
+},
+{
 name = caret_1;
-pos = (530,0);
+pos = (629,0);
+},
+{
+name = top_1;
+pos = (458,773);
+},
+{
+name = top_2;
+pos = (1087,773);
 }
 );
 background = {

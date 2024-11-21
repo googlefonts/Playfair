@@ -7,8 +7,24 @@ layers = (
 {
 anchors = (
 {
+name = bottom_1;
+pos = (138,0);
+},
+{
+name = bottom_2;
+pos = (557,0);
+},
+{
 name = caret_1;
-pos = (320,0);
+pos = (418.5,0);
+},
+{
+name = top_1;
+pos = (353,771);
+},
+{
+name = top_2;
+pos = (772,771);
 }
 );
 background = {
@@ -159,8 +175,24 @@ width = 837;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (159,0);
+},
+{
+name = bottom_2;
+pos = (618,0);
+},
+{
 name = caret_1;
-pos = (362,0);
+pos = (459.5,0);
+},
+{
+name = top_1;
+pos = (374,773);
+},
+{
+name = top_2;
+pos = (833,773);
 }
 );
 background = {
@@ -311,8 +343,24 @@ width = 919;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (171,0);
+},
+{
+name = bottom_2;
+pos = (655,0);
+},
+{
 name = caret_1;
-pos = (367,0);
+pos = (484,0);
+},
+{
+name = top_1;
+pos = (386,771);
+},
+{
+name = top_2;
+pos = (870,771);
 }
 );
 background = {
@@ -463,8 +511,24 @@ width = 968;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (160,0);
+},
+{
+name = bottom_2;
+pos = (625,0);
+},
+{
 name = caret_1;
-pos = (364,0);
+pos = (465,0);
+},
+{
+name = top_1;
+pos = (376,771);
+},
+{
+name = top_2;
+pos = (841,771);
 }
 );
 background = {
@@ -615,8 +679,24 @@ width = 930;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (196,0);
+},
+{
+name = bottom_2;
+pos = (729,0);
+},
+{
 name = caret_1;
-pos = (416,0);
+pos = (533.5,0);
+},
+{
+name = top_1;
+pos = (411,773);
+},
+{
+name = top_2;
+pos = (944,773);
 }
 );
 background = {
@@ -767,8 +847,24 @@ width = 1067;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (207,0);
+},
+{
+name = bottom_2;
+pos = (767,0);
+},
+{
 name = caret_1;
-pos = (461,0);
+pos = (560,0);
+},
+{
+name = top_1;
+pos = (423,773);
+},
+{
+name = top_2;
+pos = (983,773);
 }
 );
 background = {
@@ -919,8 +1015,24 @@ width = 1120;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (205,0);
+},
+{
+name = bottom_2;
+pos = (762,0);
+},
+{
 name = caret_1;
-pos = (436,0);
+pos = (556.5,0);
+},
+{
+name = top_1;
+pos = (421,771);
+},
+{
+name = top_2;
+pos = (978,771);
 }
 );
 background = {
@@ -1071,8 +1183,24 @@ width = 1113;
 {
 anchors = (
 {
+name = bottom_1;
+pos = (251,0);
+},
+{
+name = bottom_2;
+pos = (898,0);
+},
+{
 name = caret_1;
-pos = (528,0);
+pos = (647.5,0);
+},
+{
+name = top_1;
+pos = (467,773);
+},
+{
+name = top_2;
+pos = (1114,773);
 }
 );
 background = {

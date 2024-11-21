@@ -5,6 +5,12 @@ kernLeft = KO_f;
 kernRight = KO_fi;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (300.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -175,6 +181,12 @@ nodes = (
 width = 601;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (362.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -351,6 +363,12 @@ nodes = (
 width = 725;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (348.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -525,6 +543,12 @@ nodes = (
 width = 697;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (327,0);
+}
+);
 background = {
 shapes = (
 {
@@ -691,6 +715,12 @@ nodes = (
 width = 654;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (415.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -867,6 +897,12 @@ nodes = (
 width = 831;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (423,0);
+}
+);
 background = {
 shapes = (
 {
@@ -1043,6 +1079,12 @@ nodes = (
 width = 846;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (390.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -1203,6 +1245,12 @@ nodes = (
 width = 781;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (458,0);
+}
+);
 background = {
 shapes = (
 {

@@ -5,6 +5,28 @@ kernLeft = KO_f;
 kernRight = KO_f_t.liga;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (99,0);
+},
+{
+name = bottom_2;
+pos = (443,0);
+},
+{
+name = caret_1;
+pos = (344,0);
+},
+{
+name = top_1;
+pos = (315,771);
+},
+{
+name = top_2;
+pos = (659,771);
+}
+);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
@@ -89,6 +111,28 @@ nodes = (
 width = 688;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (96,0);
+},
+{
+name = bottom_2;
+pos = (431,0);
+},
+{
+name = caret_1;
+pos = (334.5,0);
+},
+{
+name = top_1;
+pos = (311,771);
+},
+{
+name = top_2;
+pos = (646,771);
+}
+);
 background = {
 shapes = (
 {
@@ -263,6 +307,28 @@ nodes = (
 width = 669;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (141,0);
+},
+{
+name = bottom_2;
+pos = (564,0);
+},
+{
+name = caret_1;
+pos = (423,0);
+},
+{
+name = top_1;
+pos = (356,773);
+},
+{
+name = top_2;
+pos = (779,773);
+}
+);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
@@ -347,6 +413,28 @@ nodes = (
 width = 846;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (133,0);
+},
+{
+name = bottom_2;
+pos = (540,0);
+},
+{
+name = caret_1;
+pos = (407.5,0);
+},
+{
+name = top_1;
+pos = (348,771);
+},
+{
+name = top_2;
+pos = (755,771);
+}
+);
 background = {
 shapes = (
 {
@@ -521,6 +609,28 @@ nodes = (
 width = 815;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (176,0);
+},
+{
+name = bottom_2;
+pos = (670,0);
+},
+{
+name = caret_1;
+pos = (494,0);
+},
+{
+name = top_1;
+pos = (391,773);
+},
+{
+name = top_2;
+pos = (885,773);
+}
+);
 background = {
 shapes = (
 {
@@ -695,6 +805,28 @@ nodes = (
 width = 988;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (158,0);
+},
+{
+name = bottom_2;
+pos = (620,0);
+},
+{
+name = caret_1;
+pos = (462,0);
+},
+{
+name = top_1;
+pos = (374,773);
+},
+{
+name = top_2;
+pos = (836,773);
+}
+);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
@@ -779,6 +911,28 @@ nodes = (
 width = 924;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (140,0);
+},
+{
+name = bottom_2;
+pos = (565,0);
+},
+{
+name = caret_1;
+pos = (425,0);
+},
+{
+name = top_1;
+pos = (356,771);
+},
+{
+name = top_2;
+pos = (781,771);
+}
+);
 background = {
 shapes = (
 {
@@ -953,6 +1107,28 @@ nodes = (
 width = 850;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (205,0);
+},
+{
+name = bottom_2;
+pos = (760,0);
+},
+{
+name = caret_1;
+pos = (555.5,0);
+},
+{
+name = top_1;
+pos = (421,773);
+},
+{
+name = top_2;
+pos = (976,773);
+}
+);
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {

@@ -4,6 +4,28 @@ glyphname = f_init.ligature;
 kernLeft = KO_f;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (78,0);
+},
+{
+name = bottom_2;
+pos = (235,0);
+},
+{
+name = caret_1;
+pos = (156.5,0);
+},
+{
+name = top_1;
+pos = (78,771);
+},
+{
+name = top_2;
+pos = (235,771);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 name = "Needlepoint SemiCondensed";
 shapes = (
@@ -58,6 +80,28 @@ nodes = (
 width = 313;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (105,0);
+},
+{
+name = bottom_2;
+pos = (315,0);
+},
+{
+name = caret_1;
+pos = (210,0);
+},
+{
+name = top_1;
+pos = (105,773);
+},
+{
+name = top_2;
+pos = (315,773);
+}
+);
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 name = "Agate Black SemiExpanded";
 shapes = (
@@ -112,6 +156,28 @@ nodes = (
 width = 420;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (92,0);
+},
+{
+name = bottom_2;
+pos = (277,0);
+},
+{
+name = caret_1;
+pos = (184.5,0);
+},
+{
+name = top_1;
+pos = (92,773);
+},
+{
+name = top_2;
+pos = (277,773);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 name = "Agate Black SemiCondensed";
 shapes = (
@@ -166,6 +232,28 @@ nodes = (
 width = 369;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (119,0);
+},
+{
+name = bottom_2;
+pos = (356,0);
+},
+{
+name = caret_1;
+pos = (237.5,0);
+},
+{
+name = top_1;
+pos = (119,773);
+},
+{
+name = top_2;
+pos = (356,773);
+}
+);
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 name = "Agate SemiExpanded";
 shapes = (
@@ -220,6 +308,28 @@ nodes = (
 width = 475;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (97,0);
+},
+{
+name = bottom_2;
+pos = (290,0);
+},
+{
+name = caret_1;
+pos = (193,0);
+},
+{
+name = top_1;
+pos = (97,773);
+},
+{
+name = top_2;
+pos = (290,773);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 name = "Agate SemiCondensed";
 shapes = (
@@ -274,6 +384,28 @@ nodes = (
 width = 386;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (95,0);
+},
+{
+name = bottom_2;
+pos = (284,0);
+},
+{
+name = caret_1;
+pos = (189.5,0);
+},
+{
+name = top_1;
+pos = (95,771);
+},
+{
+name = top_2;
+pos = (284,771);
+}
+);
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 name = "Needlepoint Black SemiExpanded";
 shapes = (
@@ -328,6 +460,28 @@ nodes = (
 width = 379;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (85,0);
+},
+{
+name = bottom_2;
+pos = (256,0);
+},
+{
+name = caret_1;
+pos = (170.5,0);
+},
+{
+name = top_1;
+pos = (85,771);
+},
+{
+name = top_2;
+pos = (256,771);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 name = "Needlepoint Black SemiCondensed";
 shapes = (
@@ -382,6 +536,28 @@ nodes = (
 width = 341;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (92,0);
+},
+{
+name = bottom_2;
+pos = (275,0);
+},
+{
+name = caret_1;
+pos = (183,0);
+},
+{
+name = top_1;
+pos = (92,771);
+},
+{
+name = top_2;
+pos = (275,771);
+}
+);
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 name = "Needlepoint SemiExpanded";
 shapes = (
@@ -436,6 +612,28 @@ nodes = (
 width = 366;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (78,0);
+},
+{
+name = bottom_2;
+pos = (235,0);
+},
+{
+name = caret_1;
+pos = (156.5,0);
+},
+{
+name = top_1;
+pos = (78,771);
+},
+{
+name = top_2;
+pos = (235,771);
+}
+);
 associatedMasterId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 attr = {
 axisRules = (
@@ -502,6 +700,28 @@ nodes = (
 width = 313;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (92,0);
+},
+{
+name = bottom_2;
+pos = (275,0);
+},
+{
+name = caret_1;
+pos = (183,0);
+},
+{
+name = top_1;
+pos = (92,771);
+},
+{
+name = top_2;
+pos = (275,771);
+}
+);
 associatedMasterId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 attr = {
 axisRules = (
@@ -568,6 +788,28 @@ nodes = (
 width = 366;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (85,0);
+},
+{
+name = bottom_2;
+pos = (256,0);
+},
+{
+name = caret_1;
+pos = (170.5,0);
+},
+{
+name = top_1;
+pos = (85,771);
+},
+{
+name = top_2;
+pos = (256,771);
+}
+);
 associatedMasterId = "F497C50F-30EB-4580-9148-0005B36D0333";
 attr = {
 axisRules = (
@@ -634,6 +876,28 @@ nodes = (
 width = 341;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (95,0);
+},
+{
+name = bottom_2;
+pos = (284,0);
+},
+{
+name = caret_1;
+pos = (189.5,0);
+},
+{
+name = top_1;
+pos = (95,771);
+},
+{
+name = top_2;
+pos = (284,771);
+}
+);
 associatedMasterId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 attr = {
 axisRules = (
@@ -700,6 +964,28 @@ nodes = (
 width = 379;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (97,0);
+},
+{
+name = bottom_2;
+pos = (290,0);
+},
+{
+name = caret_1;
+pos = (193,0);
+},
+{
+name = top_1;
+pos = (97,773);
+},
+{
+name = top_2;
+pos = (290,773);
+}
+);
 associatedMasterId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 attr = {
 axisRules = (
@@ -766,6 +1052,28 @@ nodes = (
 width = 386;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (119,0);
+},
+{
+name = bottom_2;
+pos = (356,0);
+},
+{
+name = caret_1;
+pos = (237.5,0);
+},
+{
+name = top_1;
+pos = (119,773);
+},
+{
+name = top_2;
+pos = (356,773);
+}
+);
 associatedMasterId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 attr = {
 axisRules = (
@@ -832,6 +1140,28 @@ nodes = (
 width = 475;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (92,0);
+},
+{
+name = bottom_2;
+pos = (277,0);
+},
+{
+name = caret_1;
+pos = (184.5,0);
+},
+{
+name = top_1;
+pos = (92,773);
+},
+{
+name = top_2;
+pos = (277,773);
+}
+);
 associatedMasterId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 attr = {
 axisRules = (
@@ -898,6 +1228,28 @@ nodes = (
 width = 369;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (105,0);
+},
+{
+name = bottom_2;
+pos = (315,0);
+},
+{
+name = caret_1;
+pos = (210,0);
+},
+{
+name = top_1;
+pos = (105,773);
+},
+{
+name = top_2;
+pos = (315,773);
+}
+);
 associatedMasterId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 attr = {
 axisRules = (

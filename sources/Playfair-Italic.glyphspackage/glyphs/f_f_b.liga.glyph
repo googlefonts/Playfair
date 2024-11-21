@@ -5,6 +5,40 @@ kernLeft = KO_f;
 kernRight = KO_p;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (114,0);
+},
+{
+name = bottom_2;
+pos = (485,0);
+},
+{
+name = bottom_3;
+pos = (855,0);
+},
+{
+name = caret_1;
+pos = (370.333,0);
+},
+{
+name = caret_2;
+pos = (740.667,0);
+},
+{
+name = top_1;
+pos = (329,771);
+},
+{
+name = top_2;
+pos = (700,771);
+},
+{
+name = top_3;
+pos = (1070,771);
+}
+);
 background = {
 shapes = (
 {
@@ -235,6 +269,40 @@ nodes = (
 width = 1111;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (135,0);
+},
+{
+name = bottom_2;
+pos = (547,0);
+},
+{
+name = bottom_3;
+pos = (959,0);
+},
+{
+name = caret_1;
+pos = (412,0);
+},
+{
+name = caret_2;
+pos = (824,0);
+},
+{
+name = top_1;
+pos = (350,773);
+},
+{
+name = top_2;
+pos = (762,773);
+},
+{
+name = top_3;
+pos = (1174,773);
+}
+);
 background = {
 shapes = (
 {
@@ -465,6 +533,40 @@ nodes = (
 width = 1236;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (143,0);
+},
+{
+name = bottom_2;
+pos = (572,0);
+},
+{
+name = bottom_3;
+pos = (1000,0);
+},
+{
+name = caret_1;
+pos = (428.333,0);
+},
+{
+name = caret_2;
+pos = (856.667,0);
+},
+{
+name = top_1;
+pos = (358,771);
+},
+{
+name = top_2;
+pos = (787,771);
+},
+{
+name = top_3;
+pos = (1215,771);
+}
+);
 background = {
 shapes = (
 {
@@ -695,6 +797,40 @@ nodes = (
 width = 1285;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (135,0);
+},
+{
+name = bottom_2;
+pos = (550,0);
+},
+{
+name = bottom_3;
+pos = (965,0);
+},
+{
+name = caret_1;
+pos = (415,0);
+},
+{
+name = caret_2;
+pos = (830,0);
+},
+{
+name = top_1;
+pos = (351,771);
+},
+{
+name = top_2;
+pos = (766,771);
+},
+{
+name = top_3;
+pos = (1181,771);
+}
+);
 background = {
 shapes = (
 {
@@ -925,6 +1061,40 @@ nodes = (
 width = 1245;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (170,0);
+},
+{
+name = bottom_2;
+pos = (651,0);
+},
+{
+name = bottom_3;
+pos = (1132,0);
+},
+{
+name = caret_1;
+pos = (481.333,0);
+},
+{
+name = caret_2;
+pos = (962.667,0);
+},
+{
+name = top_1;
+pos = (385,773);
+},
+{
+name = top_2;
+pos = (866,773);
+},
+{
+name = top_3;
+pos = (1347,773);
+}
+);
 background = {
 shapes = (
 {
@@ -1155,6 +1325,40 @@ nodes = (
 width = 1444;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (178,0);
+},
+{
+name = bottom_2;
+pos = (681,0);
+},
+{
+name = bottom_3;
+pos = (1184,0);
+},
+{
+name = caret_1;
+pos = (502.667,0);
+},
+{
+name = caret_2;
+pos = (1005.333,0);
+},
+{
+name = top_1;
+pos = (394,773);
+},
+{
+name = top_2;
+pos = (897,773);
+},
+{
+name = top_3;
+pos = (1400,773);
+}
+);
 background = {
 shapes = (
 {
@@ -1385,6 +1589,40 @@ nodes = (
 width = 1508;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (177,0);
+},
+{
+name = bottom_2;
+pos = (676,0);
+},
+{
+name = bottom_3;
+pos = (1175,0);
+},
+{
+name = caret_1;
+pos = (499.333,0);
+},
+{
+name = caret_2;
+pos = (998.667,0);
+},
+{
+name = top_1;
+pos = (393,771);
+},
+{
+name = top_2;
+pos = (892,771);
+},
+{
+name = top_3;
+pos = (1391,771);
+}
+);
 background = {
 shapes = (
 {
@@ -1615,6 +1853,40 @@ nodes = (
 width = 1498;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (216,0);
+},
+{
+name = bottom_2;
+pos = (793,0);
+},
+{
+name = bottom_3;
+pos = (1370,0);
+},
+{
+name = caret_1;
+pos = (577.333,0);
+},
+{
+name = caret_2;
+pos = (1154.667,0);
+},
+{
+name = top_1;
+pos = (432,773);
+},
+{
+name = top_2;
+pos = (1009,773);
+},
+{
+name = top_3;
+pos = (1586,773);
+}
+);
 background = {
 shapes = (
 {

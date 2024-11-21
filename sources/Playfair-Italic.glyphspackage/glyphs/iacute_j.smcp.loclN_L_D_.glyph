@@ -5,44 +5,8 @@ layers = (
 {
 anchors = (
 {
-name = right;
-pos = (594,717);
-},
-{
-name = top_left;
-pos = (373,840);
-},
-{
-name = top_left_1;
-pos = (308,608);
-},
-{
-name = top_low_1;
-pos = (685.416,820);
-},
-{
-name = top_low_2;
-pos = (679.832,800);
-},
-{
-name = top_low_3;
-pos = (674.248,780);
-},
-{
-name = top_low_4;
-pos = (668.664,760);
-},
-{
-name = top_low_5;
-pos = (663.079,740);
-},
-{
-name = top_right;
-pos = (691,840);
-},
-{
-name = top_right_1;
-pos = (626,608);
+name = caret_1;
+pos = (414,0);
 }
 );
 guides = (
@@ -207,44 +171,8 @@ width = 828;
 {
 anchors = (
 {
-name = right;
-pos = (588,717);
-},
-{
-name = top_left;
-pos = (374,840);
-},
-{
-name = top_left_1;
-pos = (309,608);
-},
-{
-name = top_low_1;
-pos = (696.416,820);
-},
-{
-name = top_low_2;
-pos = (690.832,800);
-},
-{
-name = top_low_3;
-pos = (685.248,780);
-},
-{
-name = top_low_4;
-pos = (679.664,760);
-},
-{
-name = top_low_5;
-pos = (674.079,740);
-},
-{
-name = top_right;
-pos = (702,840);
-},
-{
-name = top_right_1;
-pos = (637,608);
+name = caret_1;
+pos = (415,0);
 }
 );
 guides = (
@@ -409,44 +337,8 @@ width = 830;
 {
 anchors = (
 {
-name = right;
-pos = (698,717);
-},
-{
-name = top_left;
-pos = (424,840);
-},
-{
-name = top_left_1;
-pos = (359,608);
-},
-{
-name = top_low_1;
-pos = (796.416,820);
-},
-{
-name = top_low_2;
-pos = (790.832,800);
-},
-{
-name = top_low_3;
-pos = (785.248,780);
-},
-{
-name = top_low_4;
-pos = (779.664,760);
-},
-{
-name = top_low_5;
-pos = (774.079,740);
-},
-{
-name = top_right;
-pos = (802,840);
-},
-{
-name = top_right_1;
-pos = (737,608);
+name = caret_1;
+pos = (495.5,0);
 }
 );
 guides = (
@@ -611,44 +503,8 @@ width = 991;
 {
 anchors = (
 {
-name = right;
-pos = (669,717);
-},
-{
-name = top_left;
-pos = (373,840);
-},
-{
-name = top_left_1;
-pos = (309,608);
-},
-{
-name = top_low_1;
-pos = (775.416,820);
-},
-{
-name = top_low_2;
-pos = (769.832,800);
-},
-{
-name = top_low_3;
-pos = (764.248,780);
-},
-{
-name = top_low_4;
-pos = (758.664,760);
-},
-{
-name = top_low_5;
-pos = (753.079,740);
-},
-{
-name = top_right;
-pos = (781,840);
-},
-{
-name = top_right_1;
-pos = (717,608);
+name = caret_1;
+pos = (459,0);
 }
 );
 guides = (
@@ -813,44 +669,8 @@ width = 918;
 {
 anchors = (
 {
-name = right;
-pos = (673,717);
-},
-{
-name = top_left;
-pos = (414,840);
-},
-{
-name = top_left_1;
-pos = (349,608);
-},
-{
-name = top_low_1;
-pos = (786.416,820);
-},
-{
-name = top_low_2;
-pos = (780.832,800);
-},
-{
-name = top_low_3;
-pos = (775.248,780);
-},
-{
-name = top_low_4;
-pos = (769.664,760);
-},
-{
-name = top_low_5;
-pos = (764.079,740);
-},
-{
-name = top_right;
-pos = (792,840);
-},
-{
-name = top_right_1;
-pos = (727,608);
+name = caret_1;
+pos = (495.5,0);
 }
 );
 guides = (
@@ -1015,44 +835,8 @@ width = 991;
 {
 anchors = (
 {
-name = right;
-pos = (735,717);
-},
-{
-name = top_left;
-pos = (384,840);
-},
-{
-name = top_left_1;
-pos = (319,608);
-},
-{
-name = top_low_1;
-pos = (846.416,820);
-},
-{
-name = top_low_2;
-pos = (840.832,800);
-},
-{
-name = top_low_3;
-pos = (835.248,780);
-},
-{
-name = top_low_4;
-pos = (829.664,760);
-},
-{
-name = top_low_5;
-pos = (824.079,740);
-},
-{
-name = top_right;
-pos = (852,840);
-},
-{
-name = top_right_1;
-pos = (787,608);
+name = caret_1;
+pos = (537,0);
 }
 );
 guides = (
@@ -1217,44 +1001,8 @@ width = 1074;
 {
 anchors = (
 {
-name = right;
-pos = (783,717);
-},
-{
-name = top_left;
-pos = (433,840);
-},
-{
-name = top_left_1;
-pos = (369,608);
-},
-{
-name = top_low_1;
-pos = (895.416,820);
-},
-{
-name = top_low_2;
-pos = (889.832,800);
-},
-{
-name = top_low_3;
-pos = (884.248,780);
-},
-{
-name = top_low_4;
-pos = (878.664,760);
-},
-{
-name = top_low_5;
-pos = (873.079,740);
-},
-{
-name = top_right;
-pos = (901,840);
-},
-{
-name = top_right_1;
-pos = (837,608);
+name = caret_1;
+pos = (564,0);
 }
 );
 guides = (
@@ -1419,44 +1167,8 @@ width = 1128;
 {
 anchors = (
 {
-name = right;
-pos = (851,717);
-},
-{
-name = top_left;
-pos = (444,840);
-},
-{
-name = top_left_1;
-pos = (379,608);
-},
-{
-name = top_low_1;
-pos = (956.416,820);
-},
-{
-name = top_low_2;
-pos = (950.832,800);
-},
-{
-name = top_low_3;
-pos = (945.248,780);
-},
-{
-name = top_low_4;
-pos = (939.664,760);
-},
-{
-name = top_low_5;
-pos = (934.079,740);
-},
-{
-name = top_right;
-pos = (962,840);
-},
-{
-name = top_right_1;
-pos = (897,608);
+name = caret_1;
+pos = (629.5,0);
 }
 );
 guides = (

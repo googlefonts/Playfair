@@ -7,36 +7,24 @@ layers = (
 {
 anchors = (
 {
-name = "#entry";
-pos = (109,256);
-},
-{
-name = "%entry";
-pos = (-112,0);
-},
-{
-name = "^entry";
-pos = (4,0);
-},
-{
-name = _stem;
-pos = (109,256);
-},
-{
-name = bar;
-pos = (109,512);
-},
-{
 name = bottom_1;
-pos = (613,0);
+pos = (228,0);
 },
 {
-name = stem;
-pos = (436,256);
+name = bottom_2;
+pos = (683,0);
 },
 {
-name = thorn;
-pos = (526,256);
+name = caret_1;
+pos = (455,0);
+},
+{
+name = top_1;
+pos = (228,771);
+},
+{
+name = top_2;
+pos = (683,771);
 }
 );
 guides = (
@@ -190,36 +178,24 @@ width = 910;
 {
 anchors = (
 {
-name = "#entry";
-pos = (180,256);
-},
-{
-name = "%entry";
-pos = (-154,0);
-},
-{
-name = "^entry";
-pos = (4,0);
-},
-{
-name = _stem;
-pos = (180,256);
-},
-{
-name = bar;
-pos = (180,512);
-},
-{
 name = bottom_1;
-pos = (744,0);
+pos = (281,0);
 },
 {
-name = stem;
-pos = (559,256);
+name = bottom_2;
+pos = (842,0);
 },
 {
-name = thorn;
-pos = (649,256);
+name = caret_1;
+pos = (561.5,0);
+},
+{
+name = top_1;
+pos = (281,773);
+},
+{
+name = top_2;
+pos = (842,773);
 }
 );
 guides = (
@@ -373,36 +349,24 @@ width = 1123;
 {
 anchors = (
 {
-name = "#entry";
-pos = (223,256);
-},
-{
-name = "%entry";
-pos = (-197.8,0);
-},
-{
-name = "^entry";
-pos = (5,0);
-},
-{
-name = _stem;
-pos = (223,256);
-},
-{
-name = bar;
-pos = (223,512);
-},
-{
 name = bottom_1;
-pos = (898,0);
+pos = (340,0);
 },
 {
-name = stem;
-pos = (686,256);
+name = bottom_2;
+pos = (1019,0);
 },
 {
-name = thorn;
-pos = (776,256);
+name = caret_1;
+pos = (679,0);
+},
+{
+name = top_1;
+pos = (340,773);
+},
+{
+name = top_2;
+pos = (1019,773);
 }
 );
 guides = (
@@ -556,36 +520,24 @@ width = 1358;
 {
 anchors = (
 {
-name = "#entry";
-pos = (81,260);
-},
-{
-name = "%entry";
-pos = (-108,0);
-},
-{
-name = "^entry";
-pos = (4,0);
-},
-{
-name = _stem;
-pos = (81,260);
-},
-{
-name = bar;
-pos = (81,520);
-},
-{
 name = bottom_1;
-pos = (683,4);
+pos = (238,0);
 },
 {
-name = stem;
-pos = (418,260);
+name = bottom_2;
+pos = (715,0);
 },
 {
-name = thorn;
-pos = (598,260);
+name = caret_1;
+pos = (476.5,0);
+},
+{
+name = top_1;
+pos = (238,771);
+},
+{
+name = top_2;
+pos = (715,771);
 }
 );
 guides = (
@@ -739,36 +691,24 @@ width = 953;
 {
 anchors = (
 {
-name = "#entry";
-pos = (108,260);
-},
-{
-name = "%entry";
-pos = (-132,0);
-},
-{
-name = "^entry";
-pos = (5,0);
-},
-{
-name = _stem;
-pos = (108,260);
-},
-{
-name = bar;
-pos = (108,520);
-},
-{
 name = bottom_1;
-pos = (778,0);
+pos = (276,0);
 },
 {
-name = stem;
-pos = (488,260);
+name = bottom_2;
+pos = (829,0);
 },
 {
-name = thorn;
-pos = (668,260);
+name = caret_1;
+pos = (552.5,0);
+},
+{
+name = top_1;
+pos = (276,771);
+},
+{
+name = top_2;
+pos = (829,771);
 }
 );
 guides = (
@@ -922,36 +862,24 @@ width = 1105;
 {
 anchors = (
 {
-name = "#entry";
-pos = (136,256);
-},
-{
-name = "%entry";
-pos = (-148,0);
-},
-{
-name = "^entry";
-pos = (5,0);
-},
-{
-name = _stem;
-pos = (136,256);
-},
-{
-name = bar;
-pos = (136,512);
-},
-{
 name = bottom_1;
-pos = (730,0);
+pos = (264,0);
 },
 {
-name = stem;
-pos = (526,256);
+name = bottom_2;
+pos = (791,0);
 },
 {
-name = thorn;
-pos = (616,256);
+name = caret_1;
+pos = (527.5,0);
+},
+{
+name = top_1;
+pos = (264,771);
+},
+{
+name = top_2;
+pos = (791,771);
 }
 );
 guides = (
@@ -1105,36 +1033,24 @@ width = 1055;
 {
 anchors = (
 {
-name = "#entry";
-pos = (110,260);
-},
-{
-name = "%entry";
-pos = (-150,0);
-},
-{
-name = "^entry";
-pos = (3.9,0);
-},
-{
-name = _stem;
-pos = (110,260);
-},
-{
-name = bar;
-pos = (110,520);
-},
-{
 name = bottom_1;
-pos = (738,0);
+pos = (265,0);
 },
 {
-name = stem;
-pos = (473.4,260);
+name = bottom_2;
+pos = (794,0);
 },
 {
-name = thorn;
-pos = (653,260);
+name = caret_1;
+pos = (529,0);
+},
+{
+name = top_1;
+pos = (265,773);
+},
+{
+name = top_2;
+pos = (794,773);
 }
 );
 guides = (
@@ -1288,36 +1204,24 @@ width = 1058;
 {
 anchors = (
 {
-name = "#entry";
-pos = (139,260);
-},
-{
-name = "%entry";
-pos = (-175,0);
-},
-{
-name = "^entry";
-pos = (3.9,0);
-},
-{
-name = _stem;
-pos = (139,260);
-},
-{
-name = bar;
-pos = (139,520);
-},
-{
 name = bottom_1;
-pos = (866,0);
+pos = (317,0);
 },
 {
-name = stem;
-pos = (567,260);
+name = bottom_2;
+pos = (951,0);
 },
 {
-name = thorn;
-pos = (747,260);
+name = caret_1;
+pos = (634,0);
+},
+{
+name = top_1;
+pos = (317,773);
+},
+{
+name = top_2;
+pos = (951,773);
 }
 );
 guides = (
