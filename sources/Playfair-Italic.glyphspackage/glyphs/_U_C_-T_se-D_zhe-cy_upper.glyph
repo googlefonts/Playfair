@@ -1331,10 +1331,9 @@ nodes = (
 );
 }
 );
-width = 1136;
+width = 1137;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 metricRight = "=|";
 userData = {
 KernOnSpecialSpacing = {

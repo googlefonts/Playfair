@@ -1592,10 +1592,9 @@ nodes = (
 );
 }
 );
-width = 1558;
+width = 1559;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 metricRight = "=|";
 userData = {
 KernOnSpecialSpacing = {

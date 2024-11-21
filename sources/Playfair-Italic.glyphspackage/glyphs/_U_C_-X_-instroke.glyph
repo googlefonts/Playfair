@@ -818,6 +818,5 @@ nodes = (
 width = 987;
 }
 );
-metricLeft = "=_cap.UC-X-instroke";
 metricRight = "=|";
 }

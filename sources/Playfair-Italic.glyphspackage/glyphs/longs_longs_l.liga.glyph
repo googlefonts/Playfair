@@ -113,7 +113,7 @@ nodes = (
 );
 }
 );
-width = 882;
+width = 881;
 },
 {
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
@@ -224,7 +224,7 @@ nodes = (
 );
 }
 );
-width = 1034;
+width = 1033;
 },
 {
 guides = (
@@ -341,7 +341,7 @@ nodes = (
 );
 }
 );
-width = 1022;
+width = 1021;
 },
 {
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
@@ -452,7 +452,7 @@ nodes = (
 );
 }
 );
-width = 984;
+width = 983;
 },
 {
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
@@ -563,7 +563,7 @@ nodes = (
 );
 }
 );
-width = 1199;
+width = 1198;
 },
 {
 guides = (
@@ -680,7 +680,7 @@ nodes = (
 );
 }
 );
-width = 1251;
+width = 1252;
 },
 {
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";

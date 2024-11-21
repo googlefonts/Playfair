@@ -309,7 +309,6 @@ width = 544;
 }
 );
 metricLeft = "=|";
-metricRight = "=|_corner.UC-left-serif";
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

@@ -292,5 +292,4 @@ nodes = (
 width = 429;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 }

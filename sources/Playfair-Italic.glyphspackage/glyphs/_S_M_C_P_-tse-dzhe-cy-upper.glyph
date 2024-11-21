@@ -945,9 +945,8 @@ nodes = (
 );
 }
 );
-width = 1135;
+width = 1136;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 metricRight = "=|";
 }

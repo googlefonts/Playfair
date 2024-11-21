@@ -109,7 +109,7 @@ nodes = (
 );
 }
 );
-width = 516;
+width = 515;
 },
 {
 anchors = (
@@ -436,6 +436,5 @@ nodes = (
 width = 593;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 metricRight = "=|";
 }

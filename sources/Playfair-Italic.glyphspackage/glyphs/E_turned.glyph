@@ -1549,6 +1549,5 @@ width = 916;
 }
 );
 metricLeft = "=|E";
-metricRight = "=|_corner.UC-left-serif";
 unicode = 398;
 }

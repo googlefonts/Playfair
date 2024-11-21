@@ -1820,5 +1820,4 @@ nodes = (
 width = 799;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 }

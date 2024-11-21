@@ -3,6 +3,24 @@ color = 5;
 glyphname = exclam.smcp;
 layers = (
 {
+anchors = (
+{
+name = "^entry";
+pos = (-71,0);
+},
+{
+name = "^exit";
+pos = (224,0);
+},
+{
+name = _Ldot;
+pos = (69,0);
+},
+{
+name = center;
+pos = (57,0);
+}
+);
 background = {
 shapes = (
 {
@@ -15,17 +33,62 @@ ref = exclamdown.smcp;
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(100,-14,o),
+(129,16,o),
+(129,50,cs),
+(129,82,o),
+(105,106,o),
+(73,106,cs),
+(39,106,o),
+(9,77,o),
+(9,42,cs),
+(9,11,o),
+(34,-14,o),
+(65,-14,cs)
+);
 },
 {
-pos = (3,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(113,199,l),
+(171,376,o),
+(266,541,o),
+(266,581,cs),
+(266,604,o),
+(254,622,o),
+(225,622,cs),
+(200,622,o),
+(183,608,o),
+(174,574,cs),
+(157,500,o),
+(144,347,o),
+(112,199,c)
+);
 }
 );
 width = 256;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-71,0);
+},
+{
+name = "^exit";
+pos = (282,0);
+},
+{
+name = _Ldot;
+pos = (109,0);
+},
+{
+name = center;
+pos = (90,0);
+}
+);
 background = {
 shapes = (
 {
@@ -38,17 +101,62 @@ ref = exclamdown.smcp;
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(154,-14,o),
+(194,26,o),
+(194,77,cs),
+(194,124,o),
+(162,156,o),
+(115,156,cs),
+(64,156,o),
+(24,116,o),
+(24,65,cs),
+(24,19,o),
+(57,-14,o),
+(103,-14,cs)
+);
 },
 {
-pos = (-1,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(186,216,l),
+(251,438,o),
+(296,536,o),
+(296,574,cs),
+(296,605,o),
+(280,622,o),
+(254,622,cs),
+(228,622,o),
+(207,599,o),
+(195,557,cs),
+(186,523,o),
+(152,357,o),
+(120,230,c)
+);
 }
 );
 width = 322;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-71,0);
+},
+{
+name = "^exit";
+pos = (263,0);
+},
+{
+name = _Ldot;
+pos = (93,0);
+},
+{
+name = center;
+pos = (81,0);
+}
+);
 background = {
 shapes = (
 {
@@ -61,22 +169,67 @@ ref = exclamdown.smcp;
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(129,-14,o),
+(158,12,o),
+(158,50,cs),
+(158,84,o),
+(135,106,o),
+(97,106,cs),
+(56,106,o),
+(28,79,o),
+(28,40,cs),
+(28,7,o),
+(52,-14,o),
+(89,-14,cs)
+);
 },
 {
-pos = (1,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(137,199,l),
+(197,376,o),
+(293,529,o),
+(293,573,cs),
+(293,605,o),
+(276,622,o),
+(249,622,cs),
+(219,622,o),
+(202,607,o),
+(191,575,cs),
+(178,530,o),
+(170,376,o),
+(136,199,c)
+);
 }
 );
 width = 304;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-55,0);
+},
+{
+name = "^exit";
+pos = (280,0);
+},
+{
+name = _Ldot;
+pos = (108,0);
+},
+{
+name = center;
+pos = (87,0);
+}
+);
 background = {
 shapes = (
 {
 angle = 180;
-pos = (328,608);
+pos = (344,608);
 ref = exclamdown.smcp;
 }
 );
@@ -84,17 +237,62 @@ ref = exclamdown.smcp;
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(161,-14,o),
+(206,25,o),
+(206,76,cs),
+(206,121,o),
+(168,154,o),
+(114,154,cs),
+(55,154,o),
+(10,115,o),
+(10,64,cs),
+(10,18,o),
+(47,-14,o),
+(102,-14,cs)
+);
 },
 {
-pos = (-7,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(143,199,l),
+(196,333,o),
+(339,425,o),
+(339,528,cs),
+(339,584,o),
+(298,622,o),
+(238,622,cs),
+(163,622,o),
+(112,562,o),
+(112,472,cs),
+(112,401,o),
+(155,325,o),
+(142,199,c)
+);
 }
 );
-width = 289;
+width = 313;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-71,0);
+},
+{
+name = "^exit";
+pos = (363,0);
+},
+{
+name = _Ldot;
+pos = (136,0);
+},
+{
+name = center;
+pos = (117,0);
+}
+);
 background = {
 shapes = (
 {
@@ -107,22 +305,67 @@ ref = exclamdown.smcp;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(190,-14,o),
+(234,25,o),
+(234,77,cs),
+(234,124,o),
+(197,156,o),
+(142,156,cs),
+(82,156,o),
+(38,117,o),
+(38,65,cs),
+(38,18,o),
+(75,-14,o),
+(130,-14,cs)
+);
 },
 {
-pos = (1,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(212,216,l),
+(277,438,o),
+(322,536,o),
+(322,574,cs),
+(322,605,o),
+(306,622,o),
+(280,622,cs),
+(254,622,o),
+(233,599,o),
+(221,557,cs),
+(212,523,o),
+(178,357,o),
+(146,230,c)
+);
 }
 );
 width = 376;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-50,0);
+},
+{
+name = "^exit";
+pos = (381,0);
+},
+{
+name = _Ldot;
+pos = (175,0);
+},
+{
+name = center;
+pos = (153,0);
+}
+);
 background = {
 shapes = (
 {
 angle = 180;
-pos = (450,608);
+pos = (471,608);
 ref = exclamdown.smcp;
 }
 );
@@ -130,22 +373,67 @@ ref = exclamdown.smcp;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(231,-14,o),
+(279,28,o),
+(279,83,cs),
+(279,133,o),
+(238,168,o),
+(181,168,cs),
+(118,168,o),
+(71,126,o),
+(71,71,cs),
+(71,21,o),
+(112,-14,o),
+(169,-14,cs)
+);
 },
 {
-pos = (-16,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(253,235,l),
+(306,361,o),
+(401,444,o),
+(401,522,cs),
+(401,582,o),
+(355,622,o),
+(288,622,cs),
+(215,622,o),
+(174,580,o),
+(174,503,cs),
+(174,430,o),
+(193,381,o),
+(185,245,c)
+);
 }
 );
-width = 410;
+width = 431;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-63,0);
+},
+{
+name = "^exit";
+pos = (329,0);
+},
+{
+name = _Ldot;
+pos = (133,0);
+},
+{
+name = center;
+pos = (112,0);
+}
+);
 background = {
 shapes = (
 {
 angle = 180;
-pos = (387,608);
+pos = (395,608);
 ref = exclamdown.smcp;
 }
 );
@@ -153,22 +441,67 @@ ref = exclamdown.smcp;
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(190,-14,o),
+(237,24,o),
+(237,73,cs),
+(237,120,o),
+(194,153,o),
+(136,153,cs),
+(73,153,o),
+(27,115,o),
+(27,66,cs),
+(27,18,o),
+(69,-14,o),
+(128,-14,cs)
+);
 },
 {
-pos = (-7,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(168,199,l),
+(221,333,o),
+(364,425,o),
+(364,528,cs),
+(364,584,o),
+(323,622,o),
+(263,622,cs),
+(188,622,o),
+(137,562,o),
+(137,472,cs),
+(137,401,o),
+(180,325,o),
+(167,199,c)
+);
 }
 );
-width = 354;
+width = 364;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (-51,0);
+},
+{
+name = "^exit";
+pos = (466,0);
+},
+{
+name = _Ldot;
+pos = (209,0);
+},
+{
+name = center;
+pos = (186,0);
+}
+);
 background = {
 shapes = (
 {
 angle = 180;
-pos = (518,608);
+pos = (538,608);
 ref = exclamdown.smcp;
 }
 );
@@ -176,15 +509,42 @@ ref = exclamdown.smcp;
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-alignment = 1;
-ref = period;
+closed = 1;
+nodes = (
+(273,-14,o),
+(328,30,o),
+(328,88,cs),
+(328,141,o),
+(282,178,o),
+(217,178,cs),
+(145,178,o),
+(92,134,o),
+(92,76,cs),
+(92,23,o),
+(138,-14,o),
+(203,-14,cs)
+);
 },
 {
-pos = (-19,0);
-ref = "_SMCP-exclam-upper";
+closed = 1;
+nodes = (
+(283,235,l),
+(340,361,o),
+(441,444,o),
+(441,522,cs),
+(441,582,o),
+(391,622,o),
+(318,622,cs),
+(239,622,o),
+(194,580,o),
+(194,503,cs),
+(194,430,o),
+(223,381,o),
+(215,245,c)
+);
 }
 );
-width = 479;
+width = 499;
 }
 );
 metricLeft = exclam;

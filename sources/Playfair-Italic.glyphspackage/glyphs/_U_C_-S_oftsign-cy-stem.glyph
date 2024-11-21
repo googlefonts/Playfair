@@ -712,6 +712,4 @@ nodes = (
 width = 610;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
-metricRight = "=_corner.UC-left-serif";
 }

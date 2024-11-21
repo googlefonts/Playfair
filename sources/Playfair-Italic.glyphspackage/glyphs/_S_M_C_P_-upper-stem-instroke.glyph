@@ -260,5 +260,4 @@ nodes = (
 width = 428;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 }

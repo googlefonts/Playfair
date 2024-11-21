@@ -716,6 +716,5 @@ nodes = (
 width = 936;
 }
 );
-metricLeft = "=_cap.UC-X-instroke";
 metricRight = "=_cap.UC-Hadescender-cy-tooth";
 }

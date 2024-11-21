@@ -2762,7 +2762,6 @@ nodes = (
 width = 712;
 }
 );
-metricLeft = "=_corner.UC-right-serif";
 metricRight = "=_part.UC-T-top-bar";
 partsSettings = (
 {

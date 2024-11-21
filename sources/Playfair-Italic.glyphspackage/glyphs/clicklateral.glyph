@@ -3,6 +3,20 @@ color = 5;
 glyphname = clicklateral;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+pos = (34,0);
+},
+{
+name = "#exit";
+pos = (424,0);
+},
+{
+name = center;
+pos = (382,386);
+}
+);
 background = {
 shapes = (
 {
@@ -17,16 +31,41 @@ ref = clickdental;
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(124,0,l),
+(340,773,l),
+(250,773,l),
+(34,0,l)
+);
 },
 {
-pos = (195,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(319,0,l),
+(535,773,l),
+(445,773,l),
+(229,0,l)
+);
 }
 );
 width = 496;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (59,0);
+},
+{
+name = "#exit";
+pos = (501,0);
+},
+{
+name = center;
+pos = (433,386);
+}
+);
 background = {
 shapes = (
 {
@@ -41,16 +80,41 @@ ref = clickdental;
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(149,0,l),
+(365,773,l),
+(275,773,l),
+(59,0,l)
+);
 },
 {
-pos = (221,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(370,0,l),
+(586,773,l),
+(496,773,l),
+(280,0,l)
+);
 }
 );
 width = 572;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (4,0);
+},
+{
+name = "#exit";
+pos = (518,0);
+},
+{
+name = center;
+pos = (459,386);
+}
+);
 background = {
 shapes = (
 {
@@ -65,16 +129,41 @@ ref = clickdental;
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(184,0,l),
+(400,771,l),
+(220,771,l),
+(4,0,l)
+);
 },
 {
-pos = (257,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(441,0,l),
+(657,771,l),
+(477,771,l),
+(261,0,l)
+);
 }
 );
 width = 591;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (30,0);
+},
+{
+name = "#exit";
+pos = (596,0);
+},
+{
+name = center;
+pos = (511,386);
+}
+);
 background = {
 shapes = (
 {
@@ -89,16 +178,41 @@ ref = clickdental;
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(210,0,l),
+(426,771,l),
+(246,771,l),
+(30,0,l)
+);
 },
 {
-pos = (283,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(493,0,l),
+(709,771,l),
+(529,771,l),
+(313,0,l)
+);
 }
 );
 width = 669;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (95,0);
+},
+{
+name = "#exit";
+pos = (607,0);
+},
+{
+name = center;
+pos = (504,386);
+}
+);
 background = {
 shapes = (
 {
@@ -113,16 +227,41 @@ ref = clickdental;
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(185,0,l),
+(401,773,l),
+(311,773,l),
+(95,0,l)
+);
 },
 {
-pos = (256,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(441,0,l),
+(657,773,l),
+(567,773,l),
+(351,0,l)
+);
 }
 );
 width = 679;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (132,0);
+},
+{
+name = "#exit";
+pos = (718,0);
+},
+{
+name = center;
+pos = (578,386);
+}
+);
 background = {
 shapes = (
 {
@@ -137,16 +276,41 @@ ref = clickdental;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(222,0,l),
+(438,773,l),
+(348,773,l),
+(132,0,l)
+);
 },
 {
-pos = (293,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(515,0,l),
+(731,773,l),
+(641,773,l),
+(425,0,l)
+);
 }
 );
 width = 790;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (14,0);
+},
+{
+name = "#exit";
+pos = (548,0);
+},
+{
+name = center;
+pos = (479,386);
+}
+);
 background = {
 shapes = (
 {
@@ -161,16 +325,41 @@ ref = clickdental;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(194,0,l),
+(410,771,l),
+(230,771,l),
+(14,0,l)
+);
 },
 {
-pos = (267,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(461,0,l),
+(677,771,l),
+(497,771,l),
+(281,0,l)
+);
 }
 );
 width = 621;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (61,0);
+},
+{
+name = "#exit";
+pos = (689,0);
+},
+{
+name = center;
+pos = (573,386);
+}
+);
 background = {
 shapes = (
 {
@@ -185,11 +374,22 @@ ref = clickdental;
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-ref = clickdental;
+closed = 1;
+nodes = (
+(241,0,l),
+(457,771,l),
+(277,771,l),
+(61,0,l)
+);
 },
 {
-pos = (314,0);
-ref = clickdental;
+closed = 1;
+nodes = (
+(555,0,l),
+(771,771,l),
+(591,771,l),
+(375,0,l)
+);
 }
 );
 width = 762;

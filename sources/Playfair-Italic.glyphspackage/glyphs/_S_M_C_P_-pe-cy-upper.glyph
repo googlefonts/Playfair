@@ -1071,6 +1071,5 @@ nodes = (
 width = 1145;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 metricRight = "=|";
 }

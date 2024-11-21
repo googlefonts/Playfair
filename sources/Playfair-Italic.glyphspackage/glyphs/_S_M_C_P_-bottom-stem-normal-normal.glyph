@@ -340,7 +340,6 @@ nodes = (
 width = 593;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 metricRight = "=|";
 userData = {
 KernOnSpecialSpacing = {

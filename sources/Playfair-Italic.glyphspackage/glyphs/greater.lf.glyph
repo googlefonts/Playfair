@@ -7,9 +7,15 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(607,355,l),
+(169,582,l),
+(168,581,l),
+(604,355,l),
+(41,129,l),
+(42,128,l)
+);
 }
 );
 width = 608;
@@ -18,9 +24,15 @@ width = 608;
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(612,355,l),
+(174,582,l),
+(173,581,l),
+(609,355,l),
+(46,129,l),
+(47,128,l)
+);
 }
 );
 width = 613;
@@ -29,9 +41,15 @@ width = 613;
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(603,355,l),
+(165,582,l),
+(164,581,l),
+(600,355,l),
+(37,129,l),
+(38,128,l)
+);
 }
 );
 width = 603;
@@ -40,9 +58,15 @@ width = 603;
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(603,355,l),
+(165,582,l),
+(164,581,l),
+(600,355,l),
+(37,129,l),
+(38,128,l)
+);
 }
 );
 width = 603;
@@ -51,9 +75,15 @@ width = 603;
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(612,354,l),
+(196,577,l),
+(151,499,l),
+(400,365,l),
+(76,231,l),
+(110,147,l)
+);
 }
 );
 width = 613;
@@ -62,9 +92,15 @@ width = 613;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(611,354,l),
+(195,577,l),
+(150,499,l),
+(399,365,l),
+(75,231,l),
+(109,147,l)
+);
 }
 );
 width = 612;
@@ -73,9 +109,15 @@ width = 612;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(610,354,l),
+(194,577,l),
+(149,499,l),
+(398,365,l),
+(74,231,l),
+(108,147,l)
+);
 }
 );
 width = 615;
@@ -84,9 +126,15 @@ width = 615;
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-alignment = 3;
-pos = (25,89);
-ref = greater;
+closed = 1;
+nodes = (
+(610,354,l),
+(194,577,l),
+(149,499,l),
+(398,365,l),
+(74,231,l),
+(108,147,l)
+);
 }
 );
 width = 615;

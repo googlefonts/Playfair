@@ -1551,5 +1551,4 @@ width = 921;
 }
 );
 metricLeft = "=|e.smcp";
-metricRight = "=|_corner.UC-left-serif";
 }

@@ -810,6 +810,5 @@ nodes = (
 width = 989;
 }
 );
-metricLeft = "=_cap.UC-X-instroke";
 metricRight = "=_cap.UC-Hadescender-cy-tooth";
 }

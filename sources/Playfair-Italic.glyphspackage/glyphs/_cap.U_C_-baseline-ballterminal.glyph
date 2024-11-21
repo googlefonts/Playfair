@@ -817,7 +817,6 @@ nodes = (
 width = 516;
 }
 );
-metricRight = "=_cap.flag-ascender";
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

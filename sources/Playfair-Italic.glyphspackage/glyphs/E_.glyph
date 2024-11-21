@@ -2081,7 +2081,6 @@ nodes = (
 width = 912;
 }
 );
-metricLeft = "=_corner.UC-left-serif";
 unicode = 69;
 userData = {
 KernOnName = E;
