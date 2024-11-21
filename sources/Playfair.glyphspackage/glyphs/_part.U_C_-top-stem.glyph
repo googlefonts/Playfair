@@ -586,19 +586,6 @@ pos = (206,0);
 }
 );
 associatedMasterId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-0.7,1);
-type = Corner;
-}
-);
 layerId = "657DB812-376E-4424-A78A-C68957F797FB";
 name = NarrowNormal;
 partSelection = {
@@ -716,19 +703,6 @@ pos = (121,0);
 }
 );
 associatedMasterId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "44D05E14-271B-46B6-B17E-D585F68DF776";
 name = WideNormal;
 partSelection = {
@@ -932,19 +906,6 @@ pos = (256,0);
 }
 );
 associatedMasterId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "3D4A4180-9470-4D79-818F-163023D9EA45";
 name = WideNormal;
 partSelection = {
@@ -1416,20 +1377,6 @@ pos = (121,0);
 }
 );
 associatedMasterId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "000DA395-9F5A-41A9-9E08-FBB00447739E";
 name = WideWide;
 partSelection = {
@@ -1456,20 +1403,6 @@ pos = (150,0);
 }
 );
 associatedMasterId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "4B1C0FC9-FCA5-49BF-B6A6-ED057074CC13";
 name = WideWide;
 partSelection = {
@@ -1496,20 +1429,6 @@ pos = (100,0);
 }
 );
 associatedMasterId = "F497C50F-30EB-4580-9148-0005B36D0333";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "D1943A45-36C5-4754-A89B-A24B4B8BEBEC";
 name = WideWide;
 partSelection = {
@@ -1536,20 +1455,6 @@ pos = (130,0);
 }
 );
 associatedMasterId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "DB0E5C0C-FF46-4C9C-8ED1-9BCB5B5F188B";
 name = WideWide;
 partSelection = {
@@ -1581,20 +1486,6 @@ guides = (
 pos = (311,180);
 }
 );
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "501B1628-743E-473D-A8BB-9E5E747C4F6B";
 name = WideWide;
 partSelection = {
@@ -1621,20 +1512,6 @@ pos = (256,0);
 }
 );
 associatedMasterId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "425DA5F2-340F-4E70-8F8A-3317075C2CF9";
 name = WideWide;
 partSelection = {
@@ -1661,20 +1538,6 @@ pos = (150,0);
 }
 );
 associatedMasterId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "BCEDB45F-EEB5-43CA-A270-004B3EED5693";
 name = WideWide;
 partSelection = {
@@ -1706,20 +1569,6 @@ guides = (
 pos = (-13,180);
 }
 );
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (1.2,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,3);
-scale = (-1.2,1);
-type = Corner;
-}
-);
 layerId = "EFF2E4F6-E5DF-4730-97DD-FDCD4F50EF15";
 name = WideWide;
 partSelection = {
@@ -1739,7 +1588,6 @@ nodes = (
 width = 635;
 }
 );
-metricLeft = "_corner.UC-serif";
 metricRight = "=|";
 partsSettings = (
 {

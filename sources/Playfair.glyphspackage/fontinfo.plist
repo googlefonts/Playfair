@@ -18664,17 +18664,10 @@ period.tf.ss14 = -120;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -93;
-"_part.LC-softsign-cy-bowl" = -93;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -113;
 };
 "_LC-question-upper" = {
 period = -126;
 period.tf.ss14 = -229;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -81;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -113;
@@ -18689,13 +18682,7 @@ period.tf.ss14 = -209;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -123;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
-"_part.SMCP-stem" = 0;
-};
-"_SMCP-zhedescender-cy-wings" = {
 "_part.SMCP-stem" = 0;
 };
 "_UC-El-cy-upper" = {
@@ -18707,14 +18694,8 @@ period.tf.ss14 = -209;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -123;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = 0;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = -22;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = 0;
 };
 "_UC-question-upper" = {
 period = -126;
@@ -18981,12 +18962,8 @@ question = -16;
 schwa = 14;
 thorn = 65;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -61;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -94;
-"_part.LC-softsign-cy-bowl" = -94;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -129;
@@ -37447,17 +37424,10 @@ period.tf.ss14 = -140;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -115;
-"_part.LC-softsign-cy-bowl" = -113;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -141;
 };
 "_LC-question-upper" = {
 period = -149;
 period.tf.ss14 = -272;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -79;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -141;
@@ -37472,13 +37442,7 @@ period.tf.ss14 = -250;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -153;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
-"_part.SMCP-stem" = 0;
-};
-"_SMCP-zhedescender-cy-wings" = {
 "_part.SMCP-stem" = 0;
 };
 "_UC-El-cy-upper" = {
@@ -37490,14 +37454,8 @@ period.tf.ss14 = -250;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -153;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = 0;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = 0;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = 13;
 };
 "_UC-question-upper" = {
 period = -149;
@@ -37764,12 +37722,8 @@ question = -39;
 schwa = 17;
 thorn = 71;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -51;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -115;
-"_part.LC-softsign-cy-bowl" = -113;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -141;
@@ -56230,17 +56184,10 @@ period.tf.ss14 = -172;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -87;
-"_part.LC-softsign-cy-bowl" = -87;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -116;
 };
 "_LC-question-upper" = {
 period = -141;
 period.tf.ss14 = -270;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -182;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -139;
@@ -56255,14 +56202,8 @@ period.tf.ss14 = -270;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -153;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
 "_part.SMCP-stem" = 12;
-};
-"_SMCP-zhedescender-cy-wings" = {
-"_part.SMCP-stem" = -5;
 };
 "_UC-El-cy-upper" = {
 "_part.UC-Softsign-cy-bowl" = -139;
@@ -56273,14 +56214,8 @@ period.tf.ss14 = -270;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -153;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = 11;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = 75;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = 0;
 };
 "_UC-question-upper" = {
 period = -141;
@@ -56547,12 +56482,8 @@ question = 11;
 schwa = 0;
 thorn = 123;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -68;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -86;
-"_part.LC-softsign-cy-bowl" = -86;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -225;
@@ -75013,17 +74944,10 @@ period.tf.ss14 = -174;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -134;
-"_part.LC-softsign-cy-bowl" = -134;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -168;
 };
 "_LC-question-upper" = {
 period = -173;
 period.tf.ss14 = -314;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -199;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -175;
@@ -75038,14 +74962,8 @@ period.tf.ss14 = -308;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -185;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
 "_part.SMCP-stem" = 0;
-};
-"_SMCP-zhedescender-cy-wings" = {
-"_part.SMCP-stem" = -27;
 };
 "_UC-El-cy-upper" = {
 "_part.UC-Softsign-cy-bowl" = -175;
@@ -75056,14 +74974,8 @@ period.tf.ss14 = -308;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -185;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = -2;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = 5;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = -25;
 };
 "_UC-question-upper" = {
 period = -173;
@@ -75330,12 +75242,8 @@ question = -33;
 schwa = 0;
 thorn = -4;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -89;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -136;
-"_part.LC-softsign-cy-bowl" = -136;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -245;
@@ -93797,17 +93705,10 @@ period.tf.ss14 = -132;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -221;
-"_part.LC-softsign-cy-bowl" = -227;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -241;
 };
 "_LC-question-upper" = {
 period = -157;
 period.tf.ss14 = -229;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -220;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -272;
@@ -93822,14 +93723,8 @@ period.tf.ss14 = -213;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -270;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = -31;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
 "_part.SMCP-stem" = -11;
-};
-"_SMCP-zhedescender-cy-wings" = {
-"_part.SMCP-stem" = 0;
 };
 "_UC-El-cy-upper" = {
 "_part.UC-Softsign-cy-bowl" = -268;
@@ -93840,14 +93735,8 @@ period.tf.ss14 = -213;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -270;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = -31;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = -10;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = 4;
 };
 "_UC-question-upper" = {
 period = -157;
@@ -94114,12 +94003,8 @@ question = -35;
 schwa = -54;
 thorn = -78;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -107;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -221;
-"_part.LC-softsign-cy-bowl" = -221;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -236;
@@ -112582,17 +112467,10 @@ period.tf.ss14 = -131;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -261;
-"_part.LC-softsign-cy-bowl" = -217;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -212;
 };
 "_LC-question-upper" = {
 period = -184;
 period.tf.ss14 = -285;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -201;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -264;
@@ -112607,14 +112485,8 @@ period.tf.ss14 = -260;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -275;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
 "_part.SMCP-stem" = 0;
-};
-"_SMCP-zhedescender-cy-wings" = {
-"_part.SMCP-stem" = 20;
 };
 "_UC-El-cy-upper" = {
 "_part.UC-Softsign-cy-bowl" = -268;
@@ -112625,14 +112497,8 @@ period.tf.ss14 = -260;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -282;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = -15;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = 4;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = 35;
 };
 "_UC-question-upper" = {
 period = -184;
@@ -112899,12 +112765,8 @@ question = -28;
 schwa = -43;
 thorn = -96;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -107;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -256;
-"_part.LC-softsign-cy-bowl" = -203;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -230;
@@ -131367,17 +131229,10 @@ period.tf.ss14 = -148;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -196;
-"_part.LC-softsign-cy-bowl" = -187;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -198;
 };
 "_LC-question-upper" = {
 period = -151;
 period.tf.ss14 = -270;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -215;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -218;
@@ -131392,14 +131247,8 @@ period.tf.ss14 = -270;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -227;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
 "_part.SMCP-stem" = 0;
-};
-"_SMCP-zhedescender-cy-wings" = {
-"_part.SMCP-stem" = -16;
 };
 "_UC-El-cy-upper" = {
 "_part.UC-Softsign-cy-bowl" = -208;
@@ -131410,14 +131259,8 @@ period.tf.ss14 = -270;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -219;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = 0;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = 0;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = -12;
 };
 "_UC-question-upper" = {
 period = -151;
@@ -131684,12 +131527,8 @@ question = -54;
 schwa = -2;
 thorn = -27;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -73;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -196;
-"_part.LC-softsign-cy-bowl" = -184;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -250;
@@ -150167,17 +150006,10 @@ period.tf.ss14 = -185;
 };
 "_LC-el-cy-upper" = {
 "_part.LC-baseline-lower-stem" = -222;
-"_part.LC-softsign-cy-bowl" = -210;
-};
-"_LC-hardsign-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -220;
 };
 "_LC-question-upper" = {
 period = -184;
 period.tf.ss14 = -329;
-};
-"_LC-yat-cy-upper" = {
-"_part.LC-softsign-cy-bowl" = -251;
 };
 "_SMCP-el-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -263;
@@ -150192,14 +150024,8 @@ period.tf.ss14 = -320;
 "_SMCP-softsign-cy-stem" = {
 "_part.SMCP-softsign-cy-bowl" = -280;
 };
-"_SMCP-zhe-cy-wings" = {
-"_part.SMCP-stem" = 0;
-};
 "_SMCP-zhe-cy.loclBGR-wings" = {
 "_part.SMCP-stem" = -2;
-};
-"_SMCP-zhedescender-cy-wings" = {
-"_part.SMCP-stem" = -4;
 };
 "_UC-El-cy-upper" = {
 "_part.UC-Softsign-cy-bowl" = -263;
@@ -150210,14 +150036,8 @@ period.tf.ss14 = -320;
 "_UC-Softsign-cy-stem" = {
 "_part.UC-Softsign-cy-bowl" = -280;
 };
-"_UC-Zhe-cy-wings" = {
-"_part.UC-stem" = 0;
-};
 "_UC-Zhe-cy.loclBGR-wings" = {
 "_part.UC-stem" = -2;
-};
-"_UC-Zhedescender-cy-wings" = {
-"_part.UC-stem" = 0;
 };
 "_UC-question-upper" = {
 period = -184;
@@ -150484,12 +150304,8 @@ question = -45;
 schwa = -12;
 thorn = -21;
 };
-"_part.LC-baseline-lower-stem" = {
-"_part.LC-ka-cy-wings" = -81;
-};
 "_part.LC-xheight-upper-stem" = {
 "_part.LC-baseline-lower-stem" = -219;
-"_part.LC-softsign-cy-bowl" = -205;
 };
 "_part.SMCP-ge-cy-upper" = {
 "_part.SMCP-softsign-cy-bowl" = -281;

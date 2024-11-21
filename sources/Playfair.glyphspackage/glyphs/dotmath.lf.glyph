@@ -3,17 +3,65 @@ color = 5;
 glyphname = dotmath.lf;
 layers = (
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,308);
+},
+{
+name = "^exit";
+pos = (300,308);
+},
+{
+name = _Ldot;
+pos = (126,308);
+},
+{
+name = center;
+pos = (126,308);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(159,294,o),
+(186,321,o),
+(186,354,cs),
+(186,387,o),
+(159,414,o),
+(126,414,cs),
+(93,414,o),
+(66,387,o),
+(66,354,cs),
+(66,321,o),
+(93,294,o),
+(126,294,cs)
+);
 }
 );
 width = 252;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,308);
+},
+{
+name = "^exit";
+pos = (429,308);
+},
+{
+name = _Ldot;
+pos = (149,308);
+},
+{
+name = center;
+pos = (149,308);
+}
+);
 guides = (
 {
 pos = (-54,353);
@@ -22,36 +70,126 @@ pos = (-54,353);
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(188,294,o),
+(214,318,o),
+(214,354,cs),
+(214,390,o),
+(188,414,o),
+(149,414,cs),
+(110,414,o),
+(84,390,o),
+(84,354,cs),
+(84,318,o),
+(110,294,o),
+(149,294,cs)
+);
 }
 );
 width = 298;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,284);
+},
+{
+name = "^exit";
+pos = (429,284);
+},
+{
+name = _Ldot;
+pos = (141,284);
+},
+{
+name = center;
+pos = (141,284);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(204,270,o),
+(239,299,o),
+(239,354,cs),
+(239,409,o),
+(204,438,o),
+(141,438,cs),
+(77,438,o),
+(43,409,o),
+(43,354,cs),
+(43,299,o),
+(77,270,o),
+(141,270,cs)
+);
 }
 );
 width = 282;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,284);
+},
+{
+name = "^exit";
+pos = (429,284);
+},
+{
+name = _Ldot;
+pos = (173,284);
+},
+{
+name = center;
+pos = (173,284);
+}
+);
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(237,270,o),
+(281,299,o),
+(281,354,cs),
+(281,409,o),
+(237,438,o),
+(173,438,cs),
+(107,438,o),
+(65,409,o),
+(65,354,cs),
+(65,299,o),
+(107,270,o),
+(173,270,cs)
+);
 }
 );
 width = 346;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,283);
+},
+{
+name = "^exit";
+pos = (429,283);
+},
+{
+name = _Ldot;
+pos = (157,283);
+},
+{
+name = center;
+pos = (157,283);
+}
+);
 guides = (
 {
 pos = (260,354);
@@ -60,36 +198,126 @@ pos = (260,354);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(206,269,o),
+(242,305,o),
+(242,354,cs),
+(242,403,o),
+(206,439,o),
+(157,439,cs),
+(108,439,o),
+(72,403,o),
+(72,354,cs),
+(72,305,o),
+(108,269,o),
+(157,269,cs)
+);
 }
 );
 width = 314;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,283);
+},
+{
+name = "^exit";
+pos = (429,283);
+},
+{
+name = _Ldot;
+pos = (184,283);
+},
+{
+name = center;
+pos = (184,283);
+}
+);
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(243,269,o),
+(282,303,o),
+(282,354,cs),
+(282,405,o),
+(243,439,o),
+(184,439,cs),
+(125,439,o),
+(86,405,o),
+(86,354,cs),
+(86,303,o),
+(125,269,o),
+(184,269,cs)
+);
 }
 );
 width = 368;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,277);
+},
+{
+name = "^exit";
+pos = (429,277);
+},
+{
+name = _Ldot;
+pos = (151,277);
+},
+{
+name = center;
+pos = (151,277);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(217,263,o),
+(255,297,o),
+(255,354,cs),
+(255,412,o),
+(217,445,o),
+(151,445,cs),
+(85,445,o),
+(47,412,o),
+(47,354,cs),
+(47,296,o),
+(85,263,o),
+(151,263,cs)
+);
 }
 );
 width = 302;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,272);
+},
+{
+name = "^exit";
+pos = (429,272);
+},
+{
+name = _Ldot;
+pos = (184,272);
+},
+{
+name = center;
+pos = (184,272);
+}
+);
 guides = (
 {
 pos = (-44,354);
@@ -98,9 +326,21 @@ pos = (-44,354);
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 shapes = (
 {
-alignment = 3;
-pos = (0,89);
-ref = dotmath;
+closed = 1;
+nodes = (
+(256,258,o),
+(303,296,o),
+(303,354,cs),
+(303,412,o),
+(256,450,o),
+(184,450,cs),
+(111,450,o),
+(65,413,o),
+(65,354,cs),
+(65,295,o),
+(111,258,o),
+(184,258,cs)
+);
 }
 );
 width = 368;

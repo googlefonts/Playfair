@@ -4569,25 +4569,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "7BE1218C-7C7D-4079-80B1-0AA601613D58";
 name = "Needlepoint SemiCondensed Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -4667,25 +4648,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "AE5EC77E-DCE2-40ED-8571-6E3C60325E35";
 name = "Needlepoint SemiExpanded Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -4765,25 +4727,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "E532D3DE-FCA0-43F8-9A77-252682D4D050";
 name = "Needlepoint Black SemiCondensed Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -4863,25 +4806,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "DA222E32-EBA5-4BA7-AB7E-0C4E432C51B7";
 name = "Needlepoint Black SemiExpanded Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -4961,25 +4885,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "379BF633-BB09-40E6-90EC-8981D8AA7520";
 name = "Agate SemiCondensed Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -5059,25 +4964,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "B9B669DB-7B05-4E78-A74B-514B426B60CF";
 name = "Agate SemiExpanded Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -5157,25 +5043,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "8999EA3A-4C07-480D-BBF1-C9C07A6FF9B3";
 name = "Agate Black SemiCondensed Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -5255,25 +5122,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.UC-serif";
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,6);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = "_corner.UC-serif";
-origin = (0,7);
-type = Corner;
-}
-);
 layerId = "F3328ECF-EFB8-4F65-8C35-0B36571C6463";
 name = "Agate Black SemiExpanded Upright 8 Jul 24 at 16:06";
 partSelection = {
@@ -5296,8 +5144,6 @@ nodes = (
 width = 579;
 }
 );
-metricLeft = "_corner.UC-serif";
-metricRight = "=|_corner.UC-serif";
 partsSettings = (
 {
 bottomValue = 50;

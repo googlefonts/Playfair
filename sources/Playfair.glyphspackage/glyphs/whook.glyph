@@ -1106,7 +1106,6 @@ nodes = (
 width = 1258;
 }
 );
-metricLeft = "=_corner.UC-right-diagonal-serif";
 metricRight = r;
 unicode = 11379;
 }

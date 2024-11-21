@@ -852,6 +852,5 @@ nodes = (
 width = 645;
 }
 );
-metricLeft = "=_corner.LC-serif";
 metricRight = "=|_part.UC-T-top-bar";
 }

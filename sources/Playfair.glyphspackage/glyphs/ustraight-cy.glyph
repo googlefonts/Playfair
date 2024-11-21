@@ -2637,7 +2637,5 @@ nodes = (
 width = 669;
 }
 );
-metricLeft = "=_corner.UC-right-diagonal-serif";
-metricRight = "=|_corner.UC-right-diagonal-serif";
 unicode = 1199;
 }

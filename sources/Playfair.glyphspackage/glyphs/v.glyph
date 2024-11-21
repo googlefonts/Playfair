@@ -1913,8 +1913,6 @@ nodes = (
 width = 531;
 }
 );
-metricLeft = "=_corner.UC-right-diagonal-serif";
-metricRight = "=|_corner.UC-right-diagonal-serif";
 unicode = 118;
 userData = {
 KernOnName = v;

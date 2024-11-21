@@ -765,7 +765,6 @@ nodes = (
 width = 569;
 }
 );
-metricLeft = "_corner.UC-serif";
 metricRight = "=|";
 userData = {
 KernOnName = i.smcp;

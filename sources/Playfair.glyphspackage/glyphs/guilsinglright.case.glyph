@@ -7,9 +7,16 @@ layers = (
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-pos = (389,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(50,615,l),
+(226,357,l),
+(50,72,l),
+(51,72,l),
+(319,343,l),
+(319,344,l),
+(51,615,l)
+);
 }
 );
 width = 389;
@@ -18,9 +25,16 @@ width = 389;
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-pos = (406,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(50,572,l),
+(220,350,l),
+(50,111,l),
+(104,72,l),
+(326,318,l),
+(326,368,l),
+(101,615,l)
+);
 }
 );
 width = 406;
@@ -29,9 +43,16 @@ width = 406;
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 shapes = (
 {
-pos = (480,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(70,572,l),
+(275,351,l),
+(70,119,l),
+(117,76,l),
+(380,322,l),
+(380,372,l),
+(116,619,l)
+);
 }
 );
 width = 480;
@@ -40,9 +61,16 @@ width = 480;
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-pos = (440,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(50,619,l),
+(195,366,l),
+(50,72,l),
+(51,72,l),
+(390,345,l),
+(390,346,l),
+(51,619,l)
+);
 }
 );
 width = 440;
@@ -51,9 +79,16 @@ width = 440;
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 shapes = (
 {
-pos = (533,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(66,619,l),
+(257,366,l),
+(66,72,l),
+(67,72,l),
+(458,345,l),
+(458,346,l),
+(67,619,l)
+);
 }
 );
 width = 533;
@@ -62,9 +97,16 @@ width = 533;
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 shapes = (
 {
-pos = (452,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(66,615,l),
+(262,358,l),
+(66,72,l),
+(67,72,l),
+(362,343,l),
+(362,344,l),
+(67,615,l)
+);
 }
 );
 width = 452;
@@ -73,9 +115,16 @@ width = 452;
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-pos = (510,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(55,569,l),
+(217,361,l),
+(55,113,l),
+(103,72,l),
+(430,322,l),
+(430,372,l),
+(103,619,l)
+);
 }
 );
 width = 510;
@@ -84,9 +133,16 @@ width = 510;
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 shapes = (
 {
-pos = (593,86);
-ref = guilsinglleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(80,563,l),
+(278,361,l),
+(80,119,l),
+(128,72,l),
+(493,322,l),
+(493,372,l),
+(133,619,l)
+);
 }
 );
 width = 593;

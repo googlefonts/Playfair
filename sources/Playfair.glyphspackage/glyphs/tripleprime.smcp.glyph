@@ -3,89 +3,345 @@ color = 5;
 glyphname = tripleprime.smcp;
 layers = (
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (516,-86);
+}
+);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(301,622,l),
+(180,622,l),
+(44,324,l),
+(45,324,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,622,l),
+(352,622,l),
+(216,324,l),
+(217,324,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(645,622,l),
+(524,622,l),
+(388,324,l),
+(389,324,l)
+);
 }
 );
 width = 654;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (609,-86);
+}
+);
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(349,622,l),
+(222,622,l),
+(57,327,l),
+(58,327,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(552,622,l),
+(425,622,l),
+(260,327,l),
+(261,327,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(755,622,l),
+(628,622,l),
+(463,327,l),
+(464,327,l)
+);
 }
 );
 width = 768;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (750,-86);
+}
+);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(361,622,l),
+(150,622,l),
+(34,324,l),
+(35,324,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(611,622,l),
+(400,622,l),
+(284,324,l),
+(285,324,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(861,622,l),
+(650,622,l),
+(534,324,l),
+(535,324,l)
+);
 }
 );
 width = 860;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (801,-86);
+}
+);
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(413,622,l),
+(193,622,l),
+(42,324,l),
+(43,324,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(680,622,l),
+(460,622,l),
+(309,324,l),
+(310,324,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(947,622,l),
+(727,622,l),
+(576,324,l),
+(577,324,l)
+);
 }
 );
 width = 950;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (660,-86);
+}
+);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(301,622,l),
+(180,622,l),
+(26,335,l),
+(80,305,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(521,622,l),
+(400,622,l),
+(246,335,l),
+(300,305,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(741,622,l),
+(620,622,l),
+(466,335,l),
+(520,305,l)
+);
 }
 );
 width = 750;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (720,-86);
+}
+);
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(370,622,l),
+(238,622,l),
+(41,335,l),
+(94,295,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(610,622,l),
+(478,622,l),
+(281,335,l),
+(334,295,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(850,622,l),
+(718,622,l),
+(521,335,l),
+(574,295,l)
+);
 }
 );
 width = 864;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (810,-86);
+}
+);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(361,622,l),
+(150,622,l),
+(34,324,l),
+(90,298,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(631,622,l),
+(420,622,l),
+(304,324,l),
+(360,298,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(901,622,l),
+(690,622,l),
+(574,324,l),
+(630,298,l)
+);
 }
 );
 width = 900;
 },
 {
+anchors = (
+{
+name = "^entry";
+pos = (0,-86);
+},
+{
+name = "^exit";
+pos = (885,-86);
+}
+);
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 shapes = (
 {
-alignment = 3;
-pos = (0,-86);
-ref = tripleprime;
+closed = 1;
+nodes = (
+(436,622,l),
+(211,622,l),
+(49,334,l),
+(99,298,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(731,622,l),
+(506,622,l),
+(344,334,l),
+(394,298,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1026,622,l),
+(801,622,l),
+(639,334,l),
+(689,298,l)
+);
 }
 );
 width = 1030;

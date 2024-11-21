@@ -1022,15 +1022,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,19);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "1DA10F1A-6078-43FE-BCE6-86571D03C85F";
 name = "Upwards droplet";
 shapes = (
@@ -1256,15 +1247,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "7A8EAE23-5733-43F0-86F5-57C9532BAADE";
 name = "10 Aug 24 at 10:54";
 shapes = (
@@ -1395,15 +1377,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "07DA795E-FAA9-4B90-B85B-7CE7C2A4DC11";
 name = "10 Aug 24 at 10:54";
 shapes = (
@@ -1514,15 +1487,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "65658F89-26AF-44E5-A5F9-E33B076D95D9";
 name = "10 Aug 24 at 10:54";
 shapes = (
@@ -1633,15 +1597,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "C8D82833-703A-4E6F-B743-650785453628";
 name = "10 Aug 24 at 10:54";
 shapes = (
@@ -1752,15 +1707,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "B0348FFF-BD51-421B-8C19-56688EC1B47A";
 name = "10 Aug 24 at 10:54";
 shapes = (
@@ -1879,15 +1825,6 @@ nodes = (
 guides = (
 {
 pos = (-71,539);
-}
-);
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
 }
 );
 layerId = "E3A684FC-9F4B-4CC2-80FC-2EAAE10E7641";
@@ -2010,15 +1947,6 @@ guides = (
 pos = (-92,543);
 }
 );
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
-}
-);
 layerId = "8CE45891-E437-4041-828E-8FED3B78AFF0";
 name = "10 Aug 24 at 10:54";
 shapes = (
@@ -2137,15 +2065,6 @@ nodes = (
 guides = (
 {
 pos = (-85,543);
-}
-);
-hints = (
-{
-name = "_corner.LC-single-sided-serif";
-options = 1;
-origin = (0,31);
-scale = (-1,1);
-type = Corner;
 }
 );
 layerId = "D5FC9459-D956-4A8D-9328-C716E7323867";

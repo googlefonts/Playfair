@@ -1160,13 +1160,6 @@ nodes = (
 };
 hints = (
 {
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
-{
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
 origin = (0,7);
@@ -1349,13 +1342,6 @@ nodes = (
 );
 };
 hints = (
-{
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
 {
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
@@ -1540,13 +1526,6 @@ nodes = (
 };
 hints = (
 {
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
-{
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
 origin = (0,7);
@@ -1729,13 +1708,6 @@ nodes = (
 );
 };
 hints = (
-{
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
 {
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
@@ -1920,13 +1892,6 @@ nodes = (
 };
 hints = (
 {
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
-{
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
 origin = (0,7);
@@ -2109,13 +2074,6 @@ nodes = (
 );
 };
 hints = (
-{
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
 {
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
@@ -2300,13 +2258,6 @@ nodes = (
 };
 hints = (
 {
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
-{
 name = "_cap.LC-diagonal-out-serif";
 options = 2;
 origin = (0,7);
@@ -2489,13 +2440,6 @@ nodes = (
 );
 };
 hints = (
-{
-name = "_cap.LC-thin-diagonal-flare";
-options = 2;
-origin = (0,3);
-scale = (-0.7,1);
-type = Cap;
-},
 {
 name = "_cap.LC-diagonal-out-serif";
 options = 2;

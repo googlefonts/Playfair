@@ -701,7 +701,6 @@ nodes = (
 width = 579;
 }
 );
-metricLeft = "=_corner.UC-serif";
 metricRight = "=|";
 unicode = 73;
 userData = {

@@ -459,5 +459,4 @@ width = 640;
 }
 );
 metricLeft = "=_part.UC-T-top-bar";
-metricRight = "=|_corner.LC-serif";
 }

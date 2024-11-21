@@ -1052,6 +1052,5 @@ nodes = (
 width = 1101;
 }
 );
-metricLeft = "_corner.UC-serif";
 metricRight = "=|";
 }

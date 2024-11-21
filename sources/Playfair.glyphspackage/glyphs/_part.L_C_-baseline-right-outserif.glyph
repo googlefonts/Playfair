@@ -1536,7 +1536,6 @@ nodes = (
 width = 422;
 }
 );
-metricRight = "=|_corner.LC-serif";
 partsSettings = (
 {
 bottomValue = -100;

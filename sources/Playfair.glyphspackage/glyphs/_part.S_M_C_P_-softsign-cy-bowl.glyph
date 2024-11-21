@@ -1392,7 +1392,6 @@ nodes = (
 width = 829;
 }
 );
-metricLeft = "_corner.UC-serif";
 partsSettings = (
 {
 bottomValue = 50;
