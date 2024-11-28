@@ -7,11 +7,11 @@ layers = (
 anchors = (
 {
 name = "#entry";
-pos = (526,256);
+pos = (109,256);
 },
 {
 name = "#exit";
-pos = (526,256);
+pos = (199,256);
 },
 {
 name = "%entry";
@@ -30,16 +30,8 @@ name = "^exit";
 pos = (290,0);
 },
 {
-name = _stem;
-pos = (109,256);
-},
-{
 name = bar;
 pos = (109,512);
-},
-{
-name = "bottom-right";
-pos = (526,0);
 },
 {
 name = center;
@@ -47,7 +39,7 @@ pos = (643,255);
 },
 {
 name = stem;
-pos = (436,256);
+pos = (109,256);
 },
 {
 name = thorn;
@@ -117,20 +109,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(526,0,l),
-(526,256,l),
-(436,256,l),
-(436,50,l),
-(436,17,o),
-(432,-3,o),
-(423,-18,c),
-(424,-19,l),
-(443,10,o),
-(483,36,o),
-(526,45,c)
-);
+anchor = "#exit";
+pos = (338,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -179,11 +160,11 @@ width = 929;
 anchors = (
 {
 name = "#entry";
-pos = (649,256);
+pos = (180,256);
 },
 {
 name = "#exit";
-pos = (649,256);
+pos = (270,256);
 },
 {
 name = "%entry";
@@ -202,16 +183,8 @@ name = "^exit";
 pos = (431,0);
 },
 {
-name = _stem;
-pos = (180,256);
-},
-{
 name = bar;
 pos = (180,512);
-},
-{
-name = "bottom-right";
-pos = (649,0);
 },
 {
 name = center;
@@ -219,7 +192,7 @@ pos = (764,255);
 },
 {
 name = stem;
-pos = (559,256);
+pos = (180,256);
 },
 {
 name = thorn;
@@ -289,20 +262,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(649,0,l),
-(649,256,l),
-(559,256,l),
-(559,165,l),
-(559,101,o),
-(549,76,o),
-(509,44,c),
-(560,-14,l),
-(589,13,o),
-(618,34,o),
-(649,52,c)
-);
+anchor = "#exit";
+pos = (391,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -351,15 +313,15 @@ width = 1075;
 anchors = (
 {
 name = "#entry";
-pos = (776,256);
+pos = (223,256);
 },
 {
 name = "#exit";
-pos = (776,256);
+pos = (313,256);
 },
 {
 name = "%entry";
-pos = (-116,0);
+pos = (-116.2,0);
 },
 {
 name = "%exit";
@@ -374,16 +336,8 @@ name = "^exit";
 pos = (511,0);
 },
 {
-name = _stem;
-pos = (223,256);
-},
-{
 name = bar;
 pos = (223,512);
-},
-{
-name = "bottom-right";
-pos = (776,0);
 },
 {
 name = center;
@@ -391,7 +345,7 @@ pos = (933,255);
 },
 {
 name = stem;
-pos = (686,256);
+pos = (223,256);
 },
 {
 name = thorn;
@@ -461,20 +415,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(776,0,l),
-(776,256,l),
-(686,256,l),
-(686,185,l),
-(686,115,o),
-(674,91,o),
-(617,44,c),
-(662,-14,l),
-(696,12,o),
-(731,33,o),
-(776,55,c)
-);
+anchor = "#exit";
+pos = (478,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -523,11 +466,11 @@ width = 1326;
 anchors = (
 {
 name = "#entry";
-pos = (598,260);
+pos = (81,260);
 },
 {
 name = "#exit";
-pos = (598,260);
+pos = (261,260);
 },
 {
 name = "%entry";
@@ -546,16 +489,8 @@ name = "^exit";
 pos = (328,0);
 },
 {
-name = _stem;
-pos = (81,260);
-},
-{
 name = bar;
 pos = (81,520);
-},
-{
-name = "bottom-right";
-pos = (598,0);
 },
 {
 name = center;
@@ -563,7 +498,7 @@ pos = (671,261);
 },
 {
 name = stem;
-pos = (418,260);
+pos = (81,260);
 },
 {
 name = thorn;
@@ -633,20 +568,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(598,0,l),
-(598,260,l),
-(418,260,l),
-(418,49,l),
-(418,16,o),
-(414,-4,o),
-(405,-19,c),
-(406,-20,l),
-(444,12,o),
-(534,36,o),
-(598,13,c)
-);
+anchor = "#exit";
+pos = (344,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -695,11 +619,11 @@ width = 965;
 anchors = (
 {
 name = "#entry";
-pos = (668,260);
+pos = (108,260);
 },
 {
 name = "#exit";
-pos = (668,260);
+pos = (288,260);
 },
 {
 name = "%entry";
@@ -718,16 +642,8 @@ name = "^exit";
 pos = (379,0);
 },
 {
-name = _stem;
-pos = (108,260);
-},
-{
 name = bar;
 pos = (108,520);
-},
-{
-name = "bottom-right";
-pos = (668,0);
 },
 {
 name = center;
@@ -735,7 +651,7 @@ pos = (775,261);
 },
 {
 name = stem;
-pos = (488,260);
+pos = (108,260);
 },
 {
 name = thorn;
@@ -805,20 +721,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(668,0,l),
-(668,260,l),
-(488,260,l),
-(488,89,l),
-(488,36,o),
-(484,3,o),
-(472,-19,c),
-(473,-20,l),
-(514,12,o),
-(602,36,o),
-(668,33,c)
-);
+anchor = "#exit";
+pos = (390,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -867,11 +772,11 @@ width = 1123;
 anchors = (
 {
 name = "#entry";
-pos = (616,256);
+pos = (136,256);
 },
 {
 name = "#exit";
-pos = (616,256);
+pos = (226,256);
 },
 {
 name = "%entry";
@@ -890,16 +795,8 @@ name = "^exit";
 pos = (341,0);
 },
 {
-name = _stem;
-pos = (136,256);
-},
-{
 name = bar;
 pos = (136,512);
-},
-{
-name = "bottom-right";
-pos = (616,0);
 },
 {
 name = center;
@@ -907,7 +804,7 @@ pos = (767,255);
 },
 {
 name = stem;
-pos = (526,256);
+pos = (136,256);
 },
 {
 name = thorn;
@@ -977,20 +874,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(616,0,l),
-(616,256,l),
-(526,256,l),
-(526,50,l),
-(526,19,o),
-(522,-2,o),
-(513,-18,c),
-(514,-19,l),
-(532,18,o),
-(572,55,o),
-(616,73,c)
-);
+anchor = "#exit";
+pos = (404,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -1039,39 +925,31 @@ width = 1108;
 anchors = (
 {
 name = "#entry";
-pos = (653,260);
+pos = (109.6,260);
 },
 {
 name = "#exit";
-pos = (653,260);
+pos = (289.6,260);
 },
 {
 name = "%entry";
-pos = (-170,0);
+pos = (-170.1,0);
 },
 {
 name = "%exit";
-pos = (110,0);
+pos = (109.6,0);
 },
 {
 name = "^entry";
-pos = (3,0);
+pos = (2.6,0);
 },
 {
 name = "^exit";
-pos = (387,0);
-},
-{
-name = _stem;
-pos = (110,260);
+pos = (386.6,0);
 },
 {
 name = bar;
 pos = (110,520);
-},
-{
-name = "bottom-right";
-pos = (653,0);
 },
 {
 name = center;
@@ -1079,7 +957,7 @@ pos = (723,261);
 },
 {
 name = stem;
-pos = (473,260);
+pos = (109.6,260);
 },
 {
 name = thorn;
@@ -1149,20 +1027,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(653,0,l),
-(653,260,l),
-(473,260,l),
-(473,163,l),
-(473,103,o),
-(465,75,o),
-(438,44,c),
-(489,-14,l),
-(527,18,o),
-(592,31,o),
-(653,18,c)
-);
+anchor = "#exit";
+pos = (369,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -1211,11 +1078,11 @@ width = 1010;
 anchors = (
 {
 name = "#entry";
-pos = (747,260);
+pos = (138.6,260);
 },
 {
 name = "#exit";
-pos = (747,260);
+pos = (318.6,260);
 },
 {
 name = "%entry";
@@ -1223,27 +1090,19 @@ pos = (-135,0);
 },
 {
 name = "%exit";
-pos = (139,0);
+pos = (138.6,0);
 },
 {
 name = "^entry";
-pos = (3,0);
+pos = (2.6,0);
 },
 {
 name = "^exit";
-pos = (439,0);
-},
-{
-name = _stem;
-pos = (139,260);
+pos = (438.6,0);
 },
 {
 name = bar;
 pos = (139,520);
-},
-{
-name = "bottom-right";
-pos = (747,0);
 },
 {
 name = center;
@@ -1251,7 +1110,7 @@ pos = (871,261);
 },
 {
 name = stem;
-pos = (567,260);
+pos = (138.6,260);
 },
 {
 name = thorn;
@@ -1321,20 +1180,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(747,0,l),
-(747,260,l),
-(567,260,l),
-(567,163,l),
-(567,103,o),
-(558,75,o),
-(529,45,c),
-(579,-14,l),
-(632,20,o),
-(686,36,o),
-(747,37,c)
-);
+anchor = "#exit";
+pos = (437,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -1383,11 +1231,11 @@ width = 1246;
 anchors = (
 {
 name = "#entry";
-pos = (526,256);
+pos = (109,256);
 },
 {
 name = "#exit";
-pos = (526,256);
+pos = (199,256);
 },
 {
 name = "%entry";
@@ -1402,16 +1250,8 @@ name = "^exit";
 pos = (290,0);
 },
 {
-name = "_bottom-right";
-pos = (199,0);
-},
-{
 name = bar;
 pos = (109,512);
-},
-{
-name = "bottom-right";
-pos = (526,0);
 },
 {
 name = center;
@@ -1419,7 +1259,7 @@ pos = (643,255);
 },
 {
 name = stem;
-pos = (436,256);
+pos = (109,256);
 },
 {
 name = thorn;
@@ -1496,20 +1336,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(526,0,l),
-(526,256,l),
-(436,256,l),
-(436,50,l),
-(436,17,o),
-(432,-3,o),
-(423,-18,c),
-(424,-19,l),
-(443,10,o),
-(483,36,o),
-(526,45,c)
-);
+anchor = "#exit";
+pos = (338,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -1558,11 +1387,11 @@ width = 929;
 anchors = (
 {
 name = "#entry";
-pos = (616,256);
+pos = (136,256);
 },
 {
 name = "#exit";
-pos = (616,256);
+pos = (226,256);
 },
 {
 name = "%entry";
@@ -1577,16 +1406,8 @@ name = "^exit";
 pos = (341,0);
 },
 {
-name = "_bottom-right";
-pos = (226,0);
-},
-{
 name = bar;
 pos = (136,512);
-},
-{
-name = "bottom-right";
-pos = (616,0);
 },
 {
 name = center;
@@ -1594,7 +1415,7 @@ pos = (767,255);
 },
 {
 name = stem;
-pos = (526,256);
+pos = (136,256);
 },
 {
 name = thorn;
@@ -1671,20 +1492,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(616,0,l),
-(616,256,l),
-(526,256,l),
-(526,50,l),
-(526,19,o),
-(522,-2,o),
-(513,-18,c),
-(514,-19,l),
-(532,18,o),
-(572,55,o),
-(616,73,c)
-);
+anchor = "#exit";
+pos = (404,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -1733,11 +1543,11 @@ width = 1108;
 anchors = (
 {
 name = "#entry";
-pos = (598,260);
+pos = (81,260);
 },
 {
 name = "#exit";
-pos = (598,260);
+pos = (261,260);
 },
 {
 name = "%entry";
@@ -1752,16 +1562,8 @@ name = "^exit";
 pos = (328,0);
 },
 {
-name = "_bottom-right";
-pos = (261,0);
-},
-{
 name = bar;
 pos = (81,520);
-},
-{
-name = "bottom-right";
-pos = (598,0);
 },
 {
 name = center;
@@ -1769,7 +1571,7 @@ pos = (671,261);
 },
 {
 name = stem;
-pos = (418,260);
+pos = (81,260);
 },
 {
 name = thorn;
@@ -1846,20 +1648,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(598,0,l),
-(598,260,l),
-(418,260,l),
-(418,49,l),
-(418,16,o),
-(414,-4,o),
-(405,-19,c),
-(406,-20,l),
-(444,12,o),
-(534,36,o),
-(598,13,c)
-);
+anchor = "#exit";
+pos = (344,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -1908,11 +1699,11 @@ width = 965;
 anchors = (
 {
 name = "#entry";
-pos = (668,260);
+pos = (108,260);
 },
 {
 name = "#exit";
-pos = (668,260);
+pos = (288,260);
 },
 {
 name = "%entry";
@@ -1927,16 +1718,8 @@ name = "^exit";
 pos = (379,0);
 },
 {
-name = "_bottom-right";
-pos = (288,0);
-},
-{
 name = bar;
 pos = (108,520);
-},
-{
-name = "bottom-right";
-pos = (668,0);
 },
 {
 name = center;
@@ -1944,7 +1727,7 @@ pos = (775,261);
 },
 {
 name = stem;
-pos = (488,260);
+pos = (108,260);
 },
 {
 name = thorn;
@@ -2021,20 +1804,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(668,0,l),
-(668,260,l),
-(488,260,l),
-(488,89,l),
-(488,36,o),
-(484,3,o),
-(472,-19,c),
-(473,-20,l),
-(514,12,o),
-(602,36,o),
-(668,33,c)
-);
+anchor = "#exit";
+pos = (390,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -2083,11 +1855,11 @@ width = 1123;
 anchors = (
 {
 name = "#entry";
-pos = (649,256);
+pos = (180,256);
 },
 {
 name = "#exit";
-pos = (649,256);
+pos = (270,256);
 },
 {
 name = "%entry";
@@ -2102,16 +1874,8 @@ name = "^exit";
 pos = (431,0);
 },
 {
-name = "_bottom-right";
-pos = (270,0);
-},
-{
 name = bar;
 pos = (180,512);
-},
-{
-name = "bottom-right";
-pos = (649,0);
 },
 {
 name = center;
@@ -2119,7 +1883,7 @@ pos = (764,255);
 },
 {
 name = stem;
-pos = (559,256);
+pos = (180,256);
 },
 {
 name = thorn;
@@ -2196,20 +1960,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(649,0,l),
-(649,256,l),
-(559,256,l),
-(559,165,l),
-(559,101,o),
-(549,76,o),
-(509,44,c),
-(560,-14,l),
-(589,13,o),
-(618,34,o),
-(649,52,c)
-);
+anchor = "#exit";
+pos = (391,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -2258,11 +2011,11 @@ width = 1075;
 anchors = (
 {
 name = "#entry";
-pos = (776,256);
+pos = (223,256);
 },
 {
 name = "#exit";
-pos = (776,256);
+pos = (313,256);
 },
 {
 name = "%entry";
@@ -2277,16 +2030,8 @@ name = "^exit";
 pos = (511,0);
 },
 {
-name = "_bottom-right";
-pos = (313,0);
-},
-{
 name = bar;
 pos = (223,512);
-},
-{
-name = "bottom-right";
-pos = (776,0);
 },
 {
 name = center;
@@ -2294,7 +2039,7 @@ pos = (933,255);
 },
 {
 name = stem;
-pos = (686,256);
+pos = (223,256);
 },
 {
 name = thorn;
@@ -2371,20 +2116,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(776,0,l),
-(776,256,l),
-(686,256,l),
-(686,185,l),
-(686,115,o),
-(674,91,o),
-(617,44,c),
-(662,-14,l),
-(696,12,o),
-(731,33,o),
-(776,55,c)
-);
+anchor = "#exit";
+pos = (478,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -2433,11 +2167,11 @@ width = 1326;
 anchors = (
 {
 name = "#entry";
-pos = (653,260);
+pos = (110,260);
 },
 {
 name = "#exit";
-pos = (653,260);
+pos = (290,260);
 },
 {
 name = "%entry";
@@ -2452,16 +2186,8 @@ name = "^exit";
 pos = (387,0);
 },
 {
-name = "_bottom-right";
-pos = (290,0);
-},
-{
 name = bar;
 pos = (110,520);
-},
-{
-name = "bottom-right";
-pos = (653,0);
 },
 {
 name = center;
@@ -2469,7 +2195,7 @@ pos = (723,261);
 },
 {
 name = stem;
-pos = (473,260);
+pos = (110,260);
 },
 {
 name = thorn;
@@ -2546,20 +2272,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(653,0,l),
-(653,260,l),
-(473,260,l),
-(473,163,l),
-(473,103,o),
-(465,75,o),
-(438,44,c),
-(489,-14,l),
-(527,18,o),
-(592,31,o),
-(653,18,c)
-);
+anchor = "#exit";
+pos = (369,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;
@@ -2608,11 +2323,11 @@ width = 1010;
 anchors = (
 {
 name = "#entry";
-pos = (747,260);
+pos = (139,260);
 },
 {
 name = "#exit";
-pos = (747,260);
+pos = (319,260);
 },
 {
 name = "%entry";
@@ -2627,16 +2342,8 @@ name = "^exit";
 pos = (439,0);
 },
 {
-name = "_bottom-right";
-pos = (319,0);
-},
-{
 name = bar;
 pos = (139,520);
-},
-{
-name = "bottom-right";
-pos = (747,0);
 },
 {
 name = center;
@@ -2644,7 +2351,7 @@ pos = (871,261);
 },
 {
 name = stem;
-pos = (567,260);
+pos = (139,260);
 },
 {
 name = thorn;
@@ -2721,20 +2428,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(747,0,l),
-(747,260,l),
-(567,260,l),
-(567,163,l),
-(567,103,o),
-(558,75,o),
-(529,45,c),
-(579,-14,l),
-(632,20,o),
-(686,36,o),
-(747,37,c)
-);
+anchor = "#exit";
+pos = (437,0);
+ref = "_LC-baseline-left-instroke";
 },
 {
 closed = 1;

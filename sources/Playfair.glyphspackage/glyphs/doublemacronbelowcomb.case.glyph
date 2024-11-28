@@ -16,13 +16,10 @@ pos = (30,-231);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-closed = 1;
-nodes = (
-(894,-155,l),
-(894,-154,l),
-(30,-154,l),
-(30,-155,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 924;
@@ -41,13 +38,10 @@ pos = (30,-231);
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 shapes = (
 {
-closed = 1;
-nodes = (
-(954,-155,l),
-(954,-154,l),
-(30,-154,l),
-(30,-155,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 984;
@@ -66,13 +60,10 @@ pos = (30,-231);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-closed = 1;
-nodes = (
-(974,-155,l),
-(974,-154,l),
-(30,-154,l),
-(30,-155,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 1004;
@@ -91,13 +82,10 @@ pos = (30,-231);
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1066,-155,l),
-(1066,-154,l),
-(30,-154,l),
-(30,-155,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 1096;
@@ -116,13 +104,10 @@ pos = (30,-231);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(854,-180,l),
-(854,-110,l),
-(30,-110,l),
-(30,-180,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 884;
@@ -141,13 +126,10 @@ pos = (30,-231);
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 shapes = (
 {
-closed = 1;
-nodes = (
-(968,-180,l),
-(968,-110,l),
-(30,-110,l),
-(30,-180,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 998;
@@ -166,13 +148,10 @@ pos = (30,-231);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1014,-180,l),
-(1014,-110,l),
-(30,-110,l),
-(30,-180,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 1044;
@@ -191,13 +170,10 @@ pos = (30,-231);
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1168,-180,l),
-(1168,-110,l),
-(30,-110,l),
-(30,-180,l)
-);
+alignment = -1;
+pos = (-30,0);
+ref = macronbelowcomb.case;
+scale = (2,1);
 }
 );
 width = 1198;

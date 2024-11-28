@@ -444,7 +444,6 @@ nodes = (
 width = 562;
 }
 );
-metricRight = "=_part.LC-j-descender";
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

@@ -8,27 +8,31 @@ layers = (
 anchors = (
 {
 name = "#entry";
-pos = (105,256);
+pos = (416,256);
 },
 {
 name = "#exit";
 pos = (506,256);
 },
 {
+name = "%entry";
+pos = (195,0);
+},
+{
 name = "%exit";
 pos = (416,0);
+},
+{
+name = "^entry";
+pos = (311,0);
 },
 {
 name = "^exit";
 pos = (597,0);
 },
 {
-name = "_lower-left";
-pos = (105,0);
-},
-{
 name = bottom;
-pos = (316,0);
+pos = (-18,-231);
 },
 {
 name = reversedExit;
@@ -52,7 +56,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(105,256,l),
 (195,256,l),
 (195,514,l),
 (195,526,l),
@@ -66,7 +69,8 @@ nodes = (
 (38,512,l),
 (90,506,o),
 (105,490,o),
-(105,441,c)
+(105,441,c),
+(105,256,l)
 );
 },
 {
@@ -138,27 +142,31 @@ width = 612;
 anchors = (
 {
 name = "#entry";
-pos = (131,256);
+pos = (506,256);
 },
 {
 name = "#exit";
 pos = (596,256);
 },
 {
+name = "%entry";
+pos = (222,0);
+},
+{
 name = "%exit";
 pos = (506,0);
+},
+{
+name = "^entry";
+pos = (375,0);
 },
 {
 name = "^exit";
 pos = (711,0);
 },
 {
-name = "_lower-left";
-pos = (131,0);
-},
-{
 name = bottom;
-pos = (376,0);
+pos = (-28,-231);
 },
 {
 name = reversedExit;
@@ -182,7 +190,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(131,256,l),
 (221,256,l),
 (221,514,l),
 (221,526,l),
@@ -196,7 +203,8 @@ nodes = (
 (47,512,l),
 (111,506,o),
 (131,486,o),
-(131,431,c)
+(131,431,c),
+(131,256,l)
 );
 },
 {
@@ -268,27 +276,31 @@ width = 727;
 anchors = (
 {
 name = "#entry";
-pos = (77,260);
+pos = (388,260);
 },
 {
 name = "#exit";
 pos = (568,260);
 },
 {
+name = "%entry";
+pos = (199,0);
+},
+{
 name = "%exit";
 pos = (388,0);
+},
+{
+name = "^entry";
+pos = (311,0);
 },
 {
 name = "^exit";
 pos = (635,0);
 },
 {
-name = "_lower-left";
-pos = (77,0);
-},
-{
 name = bottom;
-pos = (334,0);
+pos = (10,-231);
 },
 {
 name = reversedExit;
@@ -312,7 +324,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(77,260,l),
 (257,260,l),
 (257,519,l),
 (257,530,l),
@@ -326,7 +337,8 @@ nodes = (
 (29,517,l),
 (66,512,o),
 (77,495,o),
-(77,446,c)
+(77,446,c),
+(77,260,l)
 );
 },
 {
@@ -398,27 +410,31 @@ width = 644;
 anchors = (
 {
 name = "#entry";
-pos = (103,260);
+pos = (486,260);
 },
 {
 name = "#exit";
 pos = (666,260);
 },
 {
+name = "%entry";
+pos = (246,0);
+},
+{
 name = "%exit";
 pos = (486,0);
+},
+{
+name = "^entry";
+pos = (383,0);
 },
 {
 name = "^exit";
 pos = (757,0);
 },
 {
-name = "_lower-left";
-pos = (103,0);
-},
-{
 name = bottom;
-pos = (391,0);
+pos = (-2,-231);
 },
 {
 name = reversedExit;
@@ -442,7 +458,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(103,260,l),
 (283,260,l),
 (283,519,l),
 (283,530,l),
@@ -456,7 +471,8 @@ nodes = (
 (39,517,l),
 (87,513,o),
 (103,492,o),
-(103,436,c)
+(103,436,c),
+(103,260,l)
 );
 },
 {
@@ -528,27 +544,31 @@ width = 771;
 anchors = (
 {
 name = "#entry";
-pos = (176,256);
+pos = (492,256);
 },
 {
 name = "#exit";
 pos = (582,256);
 },
 {
+name = "%entry";
+pos = (154,0);
+},
+{
 name = "%exit";
 pos = (492,0);
+},
+{
+name = "^entry";
+pos = (316,0);
 },
 {
 name = "^exit";
 pos = (743,0);
 },
 {
-name = "_lower-left";
-pos = (176,0);
-},
-{
 name = bottom;
-pos = (387,0);
+pos = (32,-231);
 },
 {
 name = reversedExit;
@@ -572,7 +592,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(176,256,l),
 (266,256,l),
 (266,514,l),
 (266,526,l),
@@ -586,7 +605,8 @@ nodes = (
 (95,439,l),
 (154,434,o),
 (176,413,o),
-(176,352,c)
+(176,352,c),
+(176,256,l)
 );
 },
 {
@@ -658,27 +678,31 @@ width = 758;
 anchors = (
 {
 name = "#entry";
-pos = (218,256);
+pos = (620,256);
 },
 {
 name = "#exit";
 pos = (710,256);
 },
 {
+name = "%entry";
+pos = (240,0);
+},
+{
 name = "%exit";
 pos = (620,0);
+},
+{
+name = "^entry";
+pos = (402,0);
 },
 {
 name = "^exit";
 pos = (908,0);
 },
 {
-name = "_lower-left";
-pos = (218,0);
-},
-{
 name = bottom;
-pos = (477,0);
+pos = (26,-231);
 },
 {
 name = reversedExit;
@@ -702,7 +726,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(218,256,l),
 (308,256,l),
 (308,514,l),
 (308,526,l),
@@ -716,7 +739,8 @@ nodes = (
 (116,438,l),
 (199,430,o),
 (218,408,o),
-(218,327,c)
+(218,327,c),
+(218,256,l)
 );
 },
 {
@@ -788,27 +812,31 @@ width = 928;
 anchors = (
 {
 name = "#entry";
-pos = (107,260);
+pos = (435,260);
 },
 {
 name = "#exit";
 pos = (615,260);
 },
 {
+name = "%entry";
+pos = (167,0);
+},
+{
 name = "%exit";
 pos = (435,0);
+},
+{
+name = "^entry";
+pos = (328,0);
 },
 {
 name = "^exit";
 pos = (712,0);
 },
 {
-name = "_lower-left";
-pos = (107,0);
-},
-{
 name = bottom;
-pos = (358,0);
+pos = (25,-231);
 },
 {
 name = reversedExit;
@@ -832,7 +860,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(107,260,l),
 (287,260,l),
 (287,519,l),
 (287,530,l),
@@ -846,7 +873,8 @@ nodes = (
 (45,446,l),
 (98,439,o),
 (107,428,o),
-(107,382,c)
+(107,382,c),
+(107,260,l)
 );
 },
 {
@@ -918,27 +946,31 @@ width = 721;
 anchors = (
 {
 name = "#entry";
-pos = (136,260);
+pos = (565,260);
 },
 {
 name = "#exit";
 pos = (745,260);
 },
 {
+name = "%entry";
+pos = (269,0);
+},
+{
 name = "%exit";
 pos = (565,0);
+},
+{
+name = "^entry";
+pos = (429,0);
 },
 {
 name = "^exit";
 pos = (865,0);
 },
 {
-name = "_lower-left";
-pos = (136,0);
-},
-{
 name = bottom;
-pos = (460,0);
+pos = (3,-231);
 },
 {
 name = reversedExit;
@@ -962,7 +994,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(136,260,l),
 (316,260,l),
 (316,519,l),
 (316,530,l),
@@ -976,7 +1007,8 @@ nodes = (
 (64,446,l),
 (119,441,o),
 (136,420,o),
-(136,353,c)
+(136,353,c),
+(136,260,l)
 );
 },
 {

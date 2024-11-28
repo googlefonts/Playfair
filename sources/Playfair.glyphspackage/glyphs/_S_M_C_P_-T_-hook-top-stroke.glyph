@@ -452,7 +452,6 @@ nodes = (
 width = 880;
 }
 );
-metricLeft = "_corner.SMCP-T-upper-left-hook";
 metricRight = "_SMCP-T-top-stroke";
 userData = {
 KernOnSpecialSpacing = {

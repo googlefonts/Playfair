@@ -812,7 +812,6 @@ nodes = (
 width = 1107;
 }
 );
-metricLeft = "_corner.UC-upper-left-hook";
 metricRight = B;
 unicode = 385;
 }

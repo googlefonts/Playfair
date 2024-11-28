@@ -828,7 +828,6 @@ nodes = (
 width = 436;
 }
 );
-metricRight = "=_part.UC-T-top-bar";
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

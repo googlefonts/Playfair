@@ -3,329 +3,89 @@ color = 8;
 glyphname = periodcentered.smcp;
 layers = (
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,256);
-},
-{
-name = "^exit";
-pos = (300,256);
-},
-{
-name = _Ldot;
-pos = (126,256);
-},
-{
-name = center;
-pos = (126,256);
-}
-);
 layerId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
 shapes = (
 {
-closed = 1;
-nodes = (
-(159,242,o),
-(186,269,o),
-(186,302,cs),
-(186,335,o),
-(159,362,o),
-(126,362,cs),
-(93,362,o),
-(66,335,o),
-(66,302,cs),
-(66,269,o),
-(93,242,o),
-(126,242,cs)
-);
+alignment = 3;
+pos = (0,256);
+ref = period;
 }
 );
 width = 252;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,256);
-},
-{
-name = "^exit";
-pos = (429,256);
-},
-{
-name = _Ldot;
-pos = (157,256);
-},
-{
-name = center;
-pos = (157,256);
-}
-);
 layerId = "7300F074-2CFD-43CC-B20F-1BF1EAE6C2C7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(206,242,o),
-(242,278,o),
-(242,327,cs),
-(242,376,o),
-(206,412,o),
-(157,412,cs),
-(108,412,o),
-(72,376,o),
-(72,327,cs),
-(72,278,o),
-(108,242,o),
-(157,242,cs)
-);
+alignment = 3;
+pos = (0,256);
+ref = period;
 }
 );
 width = 314;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,256);
-},
-{
-name = "^exit";
-pos = (429,256);
-},
-{
-name = _Ldot;
-pos = (184,256);
-},
-{
-name = center;
-pos = (184,256);
-}
-);
 layerId = "2895B92B-45F5-4972-B85C-1A160E6E6488";
 shapes = (
 {
-closed = 1;
-nodes = (
-(243,242,o),
-(282,276,o),
-(282,327,cs),
-(282,378,o),
-(243,412,o),
-(184,412,cs),
-(125,412,o),
-(86,378,o),
-(86,327,cs),
-(86,276,o),
-(125,242,o),
-(184,242,cs)
-);
+alignment = 3;
+pos = (0,256);
+ref = period;
 }
 );
 width = 368;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,234);
-},
-{
-name = "^exit";
-pos = (429,234);
-},
-{
-name = _Ldot;
-pos = (141,234);
-},
-{
-name = center;
-pos = (141,234);
-}
-);
 layerId = "F497C50F-30EB-4580-9148-0005B36D0333";
 shapes = (
 {
-closed = 1;
-nodes = (
-(204,220,o),
-(239,249,o),
-(239,304,cs),
-(239,359,o),
-(204,388,o),
-(141,388,cs),
-(77,388,o),
-(43,359,o),
-(43,304,cs),
-(43,249,o),
-(77,220,o),
-(141,220,cs)
-);
+alignment = 3;
+pos = (0,234);
+ref = period;
 }
 );
 width = 282;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,234);
-},
-{
-name = "^exit";
-pos = (429,234);
-},
-{
-name = _Ldot;
-pos = (173,234);
-},
-{
-name = center;
-pos = (173,234);
-}
-);
 layerId = "41FE8A15-28AA-4FFF-A503-D6748EB37864";
 shapes = (
 {
-closed = 1;
-nodes = (
-(237,220,o),
-(281,249,o),
-(281,304,cs),
-(281,359,o),
-(237,388,o),
-(173,388,cs),
-(107,388,o),
-(65,359,o),
-(65,304,cs),
-(65,249,o),
-(107,220,o),
-(173,220,cs)
-);
+alignment = 3;
+pos = (0,234);
+ref = period;
 }
 );
 width = 346;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,256);
-},
-{
-name = "^exit";
-pos = (429,256);
-},
-{
-name = _Ldot;
-pos = (149,256);
-},
-{
-name = center;
-pos = (149,256);
-}
-);
 layerId = "2AEC198B-4747-4E5F-80A7-B5A71C2761F9";
 shapes = (
 {
-closed = 1;
-nodes = (
-(188,242,o),
-(214,266,o),
-(214,302,cs),
-(214,338,o),
-(188,362,o),
-(149,362,cs),
-(110,362,o),
-(84,338,o),
-(84,302,cs),
-(84,266,o),
-(110,242,o),
-(149,242,cs)
-);
+alignment = 3;
+pos = (0,256);
+ref = period;
 }
 );
 width = 298;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,234);
-},
-{
-name = "^exit";
-pos = (429,234);
-},
-{
-name = _Ldot;
-pos = (151,234);
-},
-{
-name = center;
-pos = (151,234);
-}
-);
 layerId = "29EF49B2-C370-4E88-B36E-A4ACD23E3F3A";
 shapes = (
 {
-closed = 1;
-nodes = (
-(217,220,o),
-(255,254,o),
-(255,311,cs),
-(255,369,o),
-(217,402,o),
-(151,402,cs),
-(85,402,o),
-(47,369,o),
-(47,311,cs),
-(47,253,o),
-(85,220,o),
-(151,220,cs)
-);
+alignment = 3;
+pos = (0,234);
+ref = period;
 }
 );
 width = 302;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (0,234);
-},
-{
-name = "^exit";
-pos = (429,234);
-},
-{
-name = _Ldot;
-pos = (184,234);
-},
-{
-name = center;
-pos = (184,234);
-}
-);
 layerId = "58AEE805-6805-4A0B-A273-5ABBCB55D365";
 shapes = (
 {
-closed = 1;
-nodes = (
-(256,220,o),
-(303,258,o),
-(303,316,cs),
-(303,374,o),
-(256,412,o),
-(184,412,cs),
-(111,412,o),
-(65,375,o),
-(65,316,cs),
-(65,257,o),
-(111,220,o),
-(184,220,cs)
-);
+alignment = 3;
+pos = (0,234);
+ref = period;
 }
 );
 width = 368;

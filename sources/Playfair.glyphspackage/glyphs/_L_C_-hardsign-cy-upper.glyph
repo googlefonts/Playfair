@@ -458,5 +458,4 @@ nodes = (
 width = 640;
 }
 );
-metricLeft = "=_part.UC-T-top-bar";
 }

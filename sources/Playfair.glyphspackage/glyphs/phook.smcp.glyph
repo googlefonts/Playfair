@@ -756,6 +756,5 @@ nodes = (
 width = 1033;
 }
 );
-metricLeft = "_corner.UC-upper-left-hook";
 metricRight = p.smcp;
 }
