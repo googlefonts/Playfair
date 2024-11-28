@@ -2740,27 +2740,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 360;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -2970,27 +2949,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 360;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -3194,27 +3152,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 900;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -3414,27 +3351,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 900;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -3640,27 +3556,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 360;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -3855,27 +3750,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 360;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -4070,27 +3944,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 900;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (
@@ -4295,27 +4148,6 @@ value = 0;
 {
 name = italicAngle;
 value = "15,6";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 900;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
 }
 );
 guides = (

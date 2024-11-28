@@ -2641,23 +2641,6 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 360;
-}
-);
 }
 );
 guides = (
@@ -2906,23 +2889,6 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 360;
-}
-);
 }
 );
 guides = (
@@ -3180,23 +3146,6 @@ pos = 518;
 size = 30;
 }
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 guides = (
@@ -3444,23 +3393,6 @@ size = 40;
 {
 pos = 518;
 size = 30;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 1200;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 900;
 }
 );
 }
@@ -3719,23 +3651,6 @@ size = 40;
 {
 pos = 493;
 size = 40;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 360;
 }
 );
 }
@@ -4004,23 +3919,6 @@ pos = 493;
 size = 40;
 }
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 360;
-}
-);
 }
 );
 guides = (
@@ -4283,23 +4181,6 @@ size = 40;
 {
 pos = 518;
 size = 30;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 88;
-},
-{
-Axis = Weight;
-Location = 900;
 }
 );
 }
@@ -4567,23 +4448,6 @@ size = 40;
 {
 pos = 518;
 size = 30;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = "Optical size";
-Location = 5;
-},
-{
-Axis = Width;
-Location = 113;
-},
-{
-Axis = Weight;
-Location = 900;
 }
 );
 }
