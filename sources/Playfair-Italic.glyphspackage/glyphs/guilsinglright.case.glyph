@@ -7,34 +7,18 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(369,362,l),
-(369,363,l),
-(156,633,l),
-(155,633,l),
-(273,349,l),
-(44,91,l),
-(45,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
-width = 409;
+width = 410;
 },
 {
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(362,338,l),
-(376,388,l),
-(200,634,l),
-(145,604,l),
-(263,359,l),
-(49,135,l),
-(93,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
 width = 420;
@@ -43,52 +27,28 @@ width = 420;
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-closed = 1;
-nodes = (
-(417,362,l),
-(416,363,l),
-(172,633,l),
-(171,633,l),
-(314,348,l),
-(70,91,l),
-(71,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
-width = 477;
+width = 478;
 },
 {
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-closed = 1;
-nodes = (
-(441,364,l),
-(441,365,l),
-(158,638,l),
-(157,638,l),
-(242,344,l),
-(45,91,l),
-(46,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
-width = 462;
+width = 461;
 },
 {
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-closed = 1;
-nodes = (
-(422,338,l),
-(436,388,l),
-(219,634,l),
-(165,596,l),
-(324,359,l),
-(80,140,l),
-(121,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
 width = 497;
@@ -97,55 +57,31 @@ width = 497;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-closed = 1;
-nodes = (
-(473,338,l),
-(487,388,l),
-(205,638,l),
-(149,602,l),
-(265,349,l),
-(71,140,l),
-(112,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
-width = 530;
+width = 531;
 },
 {
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-closed = 1;
-nodes = (
-(515,364,l),
-(514,365,l),
-(173,638,l),
-(172,638,l),
-(310,344,l),
-(73,91,l),
-(74,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
-width = 561;
+width = 560;
 },
 {
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-closed = 1;
-nodes = (
-(544,338,l),
-(558,388,l),
-(229,638,l),
-(173,591,l),
-(334,349,l),
-(103,147,l),
-(147,91,l)
-);
+pos = (29,105);
+ref = guilsinglright;
 }
 );
-width = 623;
+width = 624;
 }
 );
 metricLeft = guilsinglright;

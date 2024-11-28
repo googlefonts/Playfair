@@ -1,5 +1,5 @@
 {
-.appVersion = "3324";
+.appVersion = "3326";
 .formatVersion = 3;
 axes = (
 {
@@ -19287,46 +19287,13 @@ y = -34;
 period = -128;
 period.tf.ss14 = -247;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -149;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -149;
-};
 "_SMCP-question-upper" = {
 period = -128;
 period.tf.ss14 = -243;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -155;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -189;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -145;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -145;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -151;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -182;
-};
 "_UC-question-upper" = {
 period = -128;
 period.tf.ss14 = -247;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -53;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -160;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -166;
 };
 a = {
 AE = 25;
@@ -38882,46 +38849,13 @@ y = -46;
 period = -152;
 period.tf.ss14 = -301;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -182;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -177;
-};
 "_SMCP-question-upper" = {
 period = -152;
 period.tf.ss14 = -296;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -182;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -240;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -179;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -174;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -180;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -225;
-};
 "_UC-question-upper" = {
 period = -152;
 period.tf.ss14 = -300;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -85;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -205;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -216;
 };
 a = {
 AE = 8;
@@ -58477,46 +58411,13 @@ y = -86;
 period = -144;
 period.tf.ss14 = -270;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -134;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -143;
-};
 "_SMCP-question-upper" = {
 period = -144;
 period.tf.ss14 = -264;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -150;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -188;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -134;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -143;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -150;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -211;
-};
 "_UC-question-upper" = {
 period = -144;
 period.tf.ss14 = -267;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -61;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -188;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -199;
 };
 a = {
 AE = 67;
@@ -78072,46 +77973,13 @@ y = -77;
 period = -177;
 period.tf.ss14 = -336;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -174;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -176;
-};
 "_SMCP-question-upper" = {
 period = -177;
 period.tf.ss14 = -353;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -182;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -210;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -174;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -176;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -182;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -258;
-};
 "_UC-question-upper" = {
 period = -177;
 period.tf.ss14 = -334;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -77;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -218;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -243;
 };
 a = {
 AE = 0;
@@ -97667,46 +97535,13 @@ y = -28;
 period = -161;
 period.tf.ss14 = -249;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -227;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -212;
-};
 "_SMCP-question-upper" = {
 period = -156;
 period.tf.ss14 = -244;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -225;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -134;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -227;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -212;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -225;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -160;
-};
 "_UC-question-upper" = {
 period = -161;
 period.tf.ss14 = -248;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -98;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -183;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -187;
 };
 a = {
 AE = 63;
@@ -117262,46 +117097,13 @@ y = -15;
 period = -188;
 period.tf.ss14 = -298;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -229;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -205;
-};
 "_SMCP-question-upper" = {
 period = -188;
 period.tf.ss14 = -278;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -213;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -147;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -232;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -209;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -219;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -163;
-};
 "_UC-question-upper" = {
 period = -188;
 period.tf.ss14 = -299;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -96;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -187;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -211;
 };
 a = {
 AE = 117;
@@ -136857,46 +136659,13 @@ y = -33;
 period = -205;
 period.tf.ss14 = -294;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -144;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -153;
-};
 "_SMCP-question-upper" = {
 period = -182;
 period.tf.ss14 = -265;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -167;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -138;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -144;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -153;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -167;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -193;
-};
 "_UC-question-upper" = {
 period = -205;
 period.tf.ss14 = -296;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -92;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -164;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -172;
 };
 a = {
 AE = 97;
@@ -156452,46 +156221,13 @@ y = -25;
 period = -238;
 period.tf.ss14 = -330;
 };
-"_SMCP-el-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -175;
-};
-"_SMCP-hardsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -172;
-};
 "_SMCP-question-upper" = {
 period = -187;
 period.tf.ss14 = -271;
 };
-"_SMCP-softsign-cy-stem" = {
-"_part.SMCP-softsign-cy-bowl" = -180;
-};
-"_SMCP-yat-cy-bar" = {
-"_part.SMCP-softsign-cy-bowl" = -101;
-};
-"_UC-El-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -175;
-};
-"_UC-Hardsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -172;
-};
-"_UC-Softsign-cy-stem" = {
-"_part.UC-Softsign-cy-bowl" = -181;
-};
-"_UC-Yat-cy-bar" = {
-"_part.UC-Softsign-cy-bowl" = -162;
-};
 "_UC-question-upper" = {
 period = -230;
 period.tf.ss14 = -317;
-};
-"_part.LC-n-shoulder-top" = {
-"_part.LC-n-shoulder-top" = -109;
-};
-"_part.SMCP-ge-cy-upper" = {
-"_part.SMCP-softsign-cy-bowl" = -112;
-};
-"_part.UC-Ge-cy-upper" = {
-"_part.UC-Softsign-cy-bowl" = -189;
 };
 a = {
 AE = 144;
@@ -161460,6 +161196,9 @@ value = "Playfair is a trademark of Claus Eggers Sørensen.";
 );
 }
 );
+settings = {
+disablesAutomaticAlignment = 1;
+};
 stems = (
 {
 horizontal = 1;

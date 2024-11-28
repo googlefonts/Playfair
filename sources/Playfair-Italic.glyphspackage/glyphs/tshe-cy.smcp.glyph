@@ -761,7 +761,7 @@ nodes = (
 );
 }
 );
-width = 975;
+width = 974;
 },
 {
 anchors = (
@@ -1145,7 +1145,7 @@ nodes = (
 );
 }
 );
-width = 1099;
+width = 1098;
 },
 {
 anchors = (
@@ -1345,7 +1345,7 @@ nodes = (
 );
 }
 );
-width = 1191;
+width = 1190;
 },
 {
 anchors = (
@@ -1537,7 +1537,7 @@ nodes = (
 );
 }
 );
-width = 1323;
+width = 1322;
 },
 {
 anchors = (
@@ -2126,7 +2126,7 @@ nodes = (
 );
 }
 );
-width = 975;
+width = 974;
 },
 {
 anchors = (
@@ -2333,7 +2333,7 @@ nodes = (
 );
 }
 );
-width = 1191;
+width = 1190;
 },
 {
 anchors = (
@@ -2930,7 +2930,7 @@ nodes = (
 );
 }
 );
-width = 1099;
+width = 1098;
 },
 {
 anchors = (
@@ -3129,7 +3129,7 @@ nodes = (
 );
 }
 );
-width = 1323;
+width = 1322;
 }
 );
 metricLeft = t.smcp;

@@ -380,7 +380,6 @@ nodes = (
 width = 493;
 }
 );
-metricRight = "=|_cap.LC-instroke";
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

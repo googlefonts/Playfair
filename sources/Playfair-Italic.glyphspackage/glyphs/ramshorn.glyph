@@ -2588,7 +2588,6 @@ nodes = (
 width = 797;
 }
 );
-metricLeft = "_cap.LC-instroke";
 metricRight = r;
 unicode = 612;
 }

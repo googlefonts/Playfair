@@ -4,329 +4,81 @@ glyphname = periodcentered.tf.ss14;
 kernRight = KO_periodcentered.tf.ss14;
 layers = (
 {
-anchors = (
-{
-name = "^entry";
-pos = (138,219);
-},
-{
-name = "^exit";
-pos = (433,219);
-},
-{
-name = _Ldot;
-pos = (278,219);
-},
-{
-name = center;
-pos = (266,219);
-}
-);
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(309,205,o),
-(338,235,o),
-(338,269,cs),
-(338,301,o),
-(314,325,o),
-(282,325,cs),
-(248,325,o),
-(218,296,o),
-(218,261,cs),
-(218,230,o),
-(243,205,o),
-(274,205,cs)
-);
+pos = (148,0);
+ref = periodcentered;
 }
 );
 width = 555;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (162,219);
-},
-{
-name = "^exit";
-pos = (496,219);
-},
-{
-name = _Ldot;
-pos = (326,219);
-},
-{
-name = center;
-pos = (314,219);
-}
-);
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-closed = 1;
-nodes = (
-(362,205,o),
-(391,231,o),
-(391,269,cs),
-(391,303,o),
-(368,325,o),
-(330,325,cs),
-(289,325,o),
-(261,298,o),
-(261,259,cs),
-(261,226,o),
-(285,205,o),
-(322,205,cs)
-);
+pos = (172,0);
+ref = periodcentered;
 }
 );
 width = 652;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (146,192);
-},
-{
-name = "^exit";
-pos = (481,192);
-},
-{
-name = _Ldot;
-pos = (309,192);
-},
-{
-name = center;
-pos = (288,192);
-}
-);
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-closed = 1;
-nodes = (
-(362,178,o),
-(407,217,o),
-(407,268,cs),
-(407,313,o),
-(369,346,o),
-(315,346,cs),
-(256,346,o),
-(211,307,o),
-(211,256,cs),
-(211,210,o),
-(248,178,o),
-(303,178,cs)
-);
+pos = (163,0);
+ref = periodcentered;
 }
 );
 width = 615;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (163,192);
-},
-{
-name = "^exit";
-pos = (555,192);
-},
-{
-name = _Ldot;
-pos = (359,192);
-},
-{
-name = center;
-pos = (338,192);
-}
-);
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-closed = 1;
-nodes = (
-(416,178,o),
-(463,216,o),
-(463,265,cs),
-(463,312,o),
-(420,345,o),
-(362,345,cs),
-(299,345,o),
-(253,307,o),
-(253,258,cs),
-(253,210,o),
-(295,178,o),
-(354,178,cs)
-);
+pos = (180,0);
+ref = periodcentered;
 }
 );
 width = 715;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (124,219);
-},
-{
-name = "^exit";
-pos = (477,219);
-},
-{
-name = _Ldot;
-pos = (304,219);
-},
-{
-name = center;
-pos = (285,219);
-}
-);
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(349,205,o),
-(389,245,o),
-(389,296,cs),
-(389,343,o),
-(357,375,o),
-(310,375,cs),
-(259,375,o),
-(219,335,o),
-(219,284,cs),
-(219,238,o),
-(252,205,o),
-(298,205,cs)
-);
+pos = (134,0);
+ref = periodcentered;
 }
 );
 width = 607;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (153,219);
-},
-{
-name = "^exit";
-pos = (587,219);
-},
-{
-name = _Ldot;
-pos = (360,219);
-},
-{
-name = center;
-pos = (341,219);
-}
-);
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-closed = 1;
-nodes = (
-(414,205,o),
-(458,244,o),
-(458,296,cs),
-(458,343,o),
-(421,375,o),
-(366,375,cs),
-(306,375,o),
-(262,336,o),
-(262,284,cs),
-(262,237,o),
-(299,205,o),
-(354,205,cs)
-);
+pos = (163,0);
+ref = periodcentered;
 }
 );
 width = 720;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (87,219);
-},
-{
-name = "^exit";
-pos = (518,219);
-},
-{
-name = _Ldot;
-pos = (312,219);
-},
-{
-name = center;
-pos = (290,219);
-}
-);
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-closed = 1;
-nodes = (
-(368,205,o),
-(416,247,o),
-(416,302,cs),
-(416,352,o),
-(375,387,o),
-(318,387,cs),
-(255,387,o),
-(208,345,o),
-(208,290,cs),
-(208,240,o),
-(249,205,o),
-(306,205,cs)
-);
+pos = (97,0);
+ref = periodcentered;
 }
 );
 width = 623;
 },
 {
-anchors = (
-{
-name = "^entry";
-pos = (123,219);
-},
-{
-name = "^exit";
-pos = (640,219);
-},
-{
-name = _Ldot;
-pos = (383,219);
-},
-{
-name = center;
-pos = (360,219);
-}
-);
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-closed = 1;
-nodes = (
-(447,205,o),
-(502,249,o),
-(502,307,cs),
-(502,360,o),
-(456,397,o),
-(391,397,cs),
-(319,397,o),
-(266,353,o),
-(266,295,cs),
-(266,242,o),
-(312,205,o),
-(377,205,cs)
-);
+pos = (133,0);
+ref = periodcentered;
 }
 );
 width = 767;

@@ -467,5 +467,4 @@ nodes = (
 width = 723;
 }
 );
-metricLeft = "=|_part.UC-T-top-bar";
 }

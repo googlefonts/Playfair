@@ -778,6 +778,28 @@ nodes = (
 width = 788;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (303,256);
+},
+{
+name = "#exit";
+pos = (576,256);
+},
+{
+name = bottom;
+pos = (388,0);
+},
+{
+name = stem;
+pos = (489,256);
+},
+{
+name = top;
+pos = (432,512);
+}
+);
 associatedMasterId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 background = {
 anchors = (
@@ -942,11 +964,25 @@ pos = (-55,0);
 ref = "_LC-baseline-stem";
 },
 {
-piece = {
-Thinning = -100;
-};
-pos = (255,0);
-ref = "_part.LC-n-shoulder-top";
+closed = 1;
+nodes = (
+(576,256,l),
+(600,340,ls),
+(633,454,o),
+(591,528,o),
+(498,528,cs),
+(428,528,o),
+(371,486,o),
+(325,399,c),
+(325,351,l),
+(359,410,o),
+(404,441,o),
+(454,441,cs),
+(510,441,o),
+(528,397,o),
+(506,317,cs),
+(489,256,l)
+);
 },
 {
 anchor = "#exit";
@@ -957,6 +993,28 @@ ref = "_LC-baseline-outstroke";
 width = 594;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (304,256);
+},
+{
+name = "#exit";
+pos = (625,256);
+},
+{
+name = bottom;
+pos = (430,0);
+},
+{
+name = stem;
+pos = (538,256);
+},
+{
+name = top;
+pos = (444,512);
+}
+);
 associatedMasterId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 background = {
 anchors = (
@@ -1113,11 +1171,25 @@ pos = (-55,0);
 ref = "_LC-baseline-stem";
 },
 {
-piece = {
-Thinning = -100;
-};
-pos = (255,0);
-ref = "_part.LC-n-shoulder-top";
+closed = 1;
+nodes = (
+(625,256,l),
+(641,313,ls),
+(676,439,o),
+(628,528,o),
+(520,528,cs),
+(437,528,o),
+(367,477,o),
+(319,379,c),
+(319,331,l),
+(361,403,o),
+(415,441,o),
+(477,441,cs),
+(549,441,o),
+(577,393,o),
+(553,309,cs),
+(538,256,l)
+);
 },
 {
 anchor = "#exit";
@@ -1286,6 +1358,28 @@ nodes = (
 width = 788;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (335,260);
+},
+{
+name = "#exit";
+pos = (607,260);
+},
+{
+name = bottom;
+pos = (359,0);
+},
+{
+name = stem;
+pos = (420,260);
+},
+{
+name = top;
+pos = (413,520);
+}
+);
 associatedMasterId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 background = {
 anchors = (
@@ -1450,11 +1544,25 @@ pos = (-55,0);
 ref = "_LC-baseline-stem";
 },
 {
-piece = {
-Thinning = -100;
-};
-pos = (255,0);
-ref = "_part.LC-n-shoulder-top";
+closed = 1;
+nodes = (
+(607,260,l),
+(630,343,ls),
+(662,456,o),
+(619,533,o),
+(519,533,cs),
+(446,533,o),
+(393,493,o),
+(358,414,c),
+(368,386,l),
+(383,426,o),
+(403,446,o),
+(429,446,cs),
+(457,446,o),
+(465,425,o),
+(454,385,cs),
+(420,260,l)
+);
 },
 {
 anchor = "#exit";
@@ -1781,6 +1889,28 @@ nodes = (
 width = 927;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (337,260);
+},
+{
+name = "#exit";
+pos = (682,260);
+},
+{
+name = bottom;
+pos = (411,0);
+},
+{
+name = stem;
+pos = (495,260);
+},
+{
+name = top;
+pos = (439,519);
+}
+);
 associatedMasterId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 background = {
 anchors = (
@@ -1945,11 +2075,25 @@ pos = (-55,0);
 ref = "_LC-baseline-stem";
 },
 {
-piece = {
-Thinning = -100;
-};
-pos = (255,0);
-ref = "_part.LC-n-shoulder-top";
+closed = 1;
+nodes = (
+(682,260,l),
+(693,299,ls),
+(733,445,o),
+(678,533,o),
+(550,533,cs),
+(467,533,o),
+(405,496,o),
+(351,413,c),
+(369,385,l),
+(386,421,o),
+(425,446,o),
+(467,446,cs),
+(518,446,o),
+(535,409,o),
+(516,339,cs),
+(495,260,l)
+);
 },
 {
 anchor = "#exit";

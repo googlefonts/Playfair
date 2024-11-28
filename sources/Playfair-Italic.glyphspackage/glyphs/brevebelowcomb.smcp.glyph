@@ -3,12 +3,6 @@ color = 5;
 glyphname = brevebelowcomb.smcp;
 layers = (
 {
-anchors = (
-{
-name = _bottom;
-pos = (143,0);
-}
-);
 background = {
 anchors = (
 {
@@ -41,34 +35,12 @@ nodes = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(162,-239,o),
-(232,-193,o),
-(291,-98,c),
-(290,-97,l),
-(247,-149,o),
-(180,-177,o),
-(99,-177,cs),
-(13,-177,o),
-(-50,-147,o),
-(-68,-97,c),
-(-69,-98,l),
-(-61,-189,o),
-(-9,-239,o),
-(79,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 458;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (171,0);
-}
-);
 background = {
 anchors = (
 {
@@ -101,34 +73,12 @@ nodes = (
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-closed = 1;
-nodes = (
-(210,-239,o),
-(289,-193,o),
-(357,-98,c),
-(356,-97,l),
-(292,-153,o),
-(225,-177,o),
-(134,-177,cs),
-(38,-177,o),
-(-30,-150,o),
-(-68,-97,c),
-(-69,-98,l),
-(-49,-187,o),
-(20,-239,o),
-(118,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 518;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (195,0);
-}
-);
 background = {
 anchors = (
 {
@@ -161,34 +111,13 @@ nodes = (
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-closed = 1;
-nodes = (
-(230,-239,o),
-(319,-176,o),
-(378,-56,c),
-(377,-55,l),
-(329,-103,o),
-(247,-130,o),
-(149,-130,cs),
-(50,-130,o),
-(-29,-101,o),
-(-57,-55,c),
-(-58,-56,l),
-(-61,-171,o),
-(5,-239,o),
-(119,-239,cs)
-);
+alignment = 1;
+ref = brevebelowcomb.case;
 }
 );
 width = 496;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (247,0);
-}
-);
 background = {
 anchors = (
 {
@@ -221,34 +150,12 @@ nodes = (
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-closed = 1;
-nodes = (
-(266,-239,o),
-(364,-175,o),
-(425,-56,c),
-(424,-55,l),
-(377,-104,o),
-(297,-130,o),
-(191,-130,cs),
-(84,-130,o),
-(-2,-104,o),
-(-57,-55,c),
-(-58,-56,l),
-(-62,-167,o),
-(17,-239,o),
-(145,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 634;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (144,0);
-}
-);
 background = {
 anchors = (
 {
@@ -281,34 +188,12 @@ nodes = (
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(200,-239,o),
-(279,-184,o),
-(309,-85,c),
-(258,-62,l),
-(230,-128,o),
-(185,-160,o),
-(121,-160,cs),
-(57,-160,o),
-(20,-130,o),
-(-2,-62,c),
-(-58,-84,l),
-(-37,-188,o),
-(18,-239,o),
-(108,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 498;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (165,0);
-}
-);
 background = {
 anchors = (
 {
@@ -341,34 +226,12 @@ nodes = (
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-closed = 1;
-nodes = (
-(242,-239,o),
-(334,-180,o),
-(369,-85,c),
-(318,-62,l),
-(282,-128,o),
-(224,-160,o),
-(141,-160,cs),
-(60,-160,o),
-(12,-130,o),
-(-16,-62,c),
-(-72,-84,l),
-(-47,-188,o),
-(20,-239,o),
-(128,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 558;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (189,0);
-}
-);
 background = {
 anchors = (
 {
@@ -401,34 +264,12 @@ nodes = (
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-closed = 1;
-nodes = (
-(234,-239,o),
-(313,-191,o),
-(374,-91,c),
-(328,-55,l),
-(275,-108,o),
-(224,-130,o),
-(152,-130,cs),
-(78,-130,o),
-(32,-107,o),
-(-1,-55,c),
-(-64,-78,l),
-(-48,-182,o),
-(21,-239,o),
-(132,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 548;
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (220,0);
-}
-);
 background = {
 anchors = (
 {
@@ -461,23 +302,7 @@ nodes = (
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-closed = 1;
-nodes = (
-(262,-239,o),
-(351,-190,o),
-(421,-91,c),
-(380,-55,l),
-(323,-107,o),
-(261,-130,o),
-(178,-130,cs),
-(95,-130,o),
-(34,-105,o),
-(-6,-55,c),
-(-66,-84,l),
-(-43,-182,o),
-(37,-239,o),
-(153,-239,cs)
-);
+ref = brevebelowcomb.case;
 }
 );
 width = 634;

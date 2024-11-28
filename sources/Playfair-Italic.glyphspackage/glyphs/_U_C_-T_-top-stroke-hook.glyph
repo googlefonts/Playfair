@@ -357,7 +357,6 @@ width = 903;
 }
 );
 metricLeft = T;
-metricRight = "_part.UC-T-top-bar";
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

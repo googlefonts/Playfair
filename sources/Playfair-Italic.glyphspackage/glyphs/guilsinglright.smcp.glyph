@@ -7,16 +7,8 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(354,307,l),
-(354,308,l),
-(141,578,l),
-(140,578,l),
-(258,294,l),
-(29,36,l),
-(30,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 410;
@@ -25,16 +17,8 @@ width = 410;
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(347,283,l),
-(361,333,l),
-(185,579,l),
-(130,549,l),
-(248,304,l),
-(34,80,l),
-(78,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 421;
@@ -43,16 +27,8 @@ width = 421;
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-closed = 1;
-nodes = (
-(402,307,l),
-(401,308,l),
-(157,578,l),
-(156,578,l),
-(299,293,l),
-(55,36,l),
-(56,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 478;
@@ -61,16 +37,8 @@ width = 478;
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-closed = 1;
-nodes = (
-(425,309,l),
-(425,310,l),
-(142,583,l),
-(141,583,l),
-(226,289,l),
-(29,36,l),
-(30,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 461;
@@ -79,16 +47,8 @@ width = 461;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-closed = 1;
-nodes = (
-(407,283,l),
-(421,333,l),
-(204,579,l),
-(150,541,l),
-(309,304,l),
-(65,85,l),
-(106,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 498;
@@ -97,16 +57,8 @@ width = 498;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-closed = 1;
-nodes = (
-(458,283,l),
-(472,333,l),
-(190,583,l),
-(134,547,l),
-(250,294,l),
-(56,85,l),
-(97,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 531;
@@ -115,16 +67,8 @@ width = 531;
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-closed = 1;
-nodes = (
-(499,309,l),
-(498,310,l),
-(157,583,l),
-(156,583,l),
-(294,289,l),
-(57,36,l),
-(58,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 560;
@@ -133,16 +77,8 @@ width = 560;
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-closed = 1;
-nodes = (
-(529,283,l),
-(543,333,l),
-(214,583,l),
-(158,536,l),
-(319,294,l),
-(88,92,l),
-(132,36,l)
-);
+pos = (14,50);
+ref = guilsinglright;
 }
 );
 width = 624;

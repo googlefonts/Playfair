@@ -6,16 +6,8 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(317,535,l),
-(495,415,l),
-(495,416,l),
-(364,631,l),
-(363,631,l),
-(110,414,l),
-(110,413,l)
-);
+pos = (-28,-101);
+ref = asciicircum.case;
 }
 );
 width = 536;
@@ -24,34 +16,18 @@ width = 536;
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-closed = 1;
-nodes = (
-(300,411,l),
-(451,303,l),
-(497,347,l),
-(366,517,l),
-(308,517,l),
-(71,355,l),
-(101,302,l)
-);
+pos = (-28,-101);
+ref = asciicircum.case;
 }
 );
-width = 535;
+width = 536;
 },
 {
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-closed = 1;
-nodes = (
-(376,536,l),
-(610,415,l),
-(610,416,l),
-(418,632,l),
-(417,632,l),
-(120,415,l),
-(120,414,l)
-);
+pos = (-29,-101);
+ref = asciicircum.case;
 }
 );
 width = 644;
@@ -60,16 +36,8 @@ width = 644;
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-closed = 1;
-nodes = (
-(281,466,l),
-(495,383,l),
-(495,384,l),
-(355,634,l),
-(354,634,l),
-(77,382,l),
-(77,381,l)
-);
+pos = (-28,-100);
+ref = asciicircum.case;
 }
 );
 width = 523;
@@ -78,16 +46,8 @@ width = 523;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-closed = 1;
-nodes = (
-(384,501,l),
-(575,393,l),
-(615,442,l),
-(450,607,l),
-(392,607,l),
-(118,449,l),
-(145,392,l)
-);
+pos = (-28,-101);
+ref = asciicircum.case;
 }
 );
 width = 652;
@@ -96,16 +56,8 @@ width = 652;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-closed = 1;
-nodes = (
-(295,485,l),
-(474,379,l),
-(524,423,l),
-(398,612,l),
-(328,612,l),
-(103,422,l),
-(135,379,l)
-);
+pos = (-28,-101);
+ref = asciicircum.case;
 }
 );
 width = 535;
@@ -114,16 +66,8 @@ width = 535;
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-closed = 1;
-nodes = (
-(352,467,l),
-(626,383,l),
-(626,384,l),
-(428,634,l),
-(427,634,l),
-(98,382,l),
-(98,381,l)
-);
+pos = (-28,-100);
+ref = asciicircum.case;
 }
 );
 width = 672;
@@ -132,16 +76,8 @@ width = 672;
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-closed = 1;
-nodes = (
-(372,485,l),
-(601,379,l),
-(651,423,l),
-(473,612,l),
-(403,612,l),
-(117,422,l),
-(149,379,l)
-);
+pos = (-28,-101);
+ref = asciicircum.case;
 }
 );
 width = 685;
