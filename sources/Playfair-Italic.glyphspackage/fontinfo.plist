@@ -104,10 +104,6 @@ name = afrcBars;
 );
 customParameters = (
 {
-name = openTypeOS2VendorID;
-value = FTH;
-},
-{
 name = fsType;
 value = (
 );
@@ -121,10 +117,7 @@ name = "Use Extension Kerning";
 value = 1;
 },
 {
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
+disabled = 1;
 name = "Feature for Feature Variations";
 value = rlig;
 },
@@ -161026,6 +161019,10 @@ language = dflt;
 value = "Playfair is a trademark of Claus Eggers Sørensen.";
 }
 );
+},
+{
+key = vendorID;
+value = FTH;
 }
 );
 settings = {

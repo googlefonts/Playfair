@@ -127,10 +127,6 @@ name = CombiningSmallCapsTopAccents;
 );
 customParameters = (
 {
-name = openTypeOS2VendorID;
-value = FTH;
-},
-{
 name = fsType;
 value = (
 );
@@ -144,10 +140,7 @@ name = "Use Extension Kerning";
 value = 1;
 },
 {
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
+disabled = 1;
 name = "Feature for Feature Variations";
 value = rlig;
 },
@@ -154645,7 +154638,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2005–2023 The Playfair Project Authors (https://github.com/clauseggers/Playfair)";
+value = "Copyright 2005 The Playfair Project Authors (https://github.com/clauseggers/Playfair)";
 }
 );
 },
@@ -154696,6 +154689,10 @@ language = dflt;
 value = "Playfair is a trademark of Claus Eggers Sørensen.";
 }
 );
+},
+{
+key = vendorID;
+value = FTH;
 }
 );
 settings = {
