@@ -9,6 +9,10 @@ axisOrder:
 familyName: Playfair
 buildStatic: false
 cleanUp: true
+fvarInstanceAxisDflts:
+  wdth: 100
+  opsz: 12
+  wght: 400
 stat:
   Playfair[opsz,wdth,wght].ttf:
   - name: Optical size
