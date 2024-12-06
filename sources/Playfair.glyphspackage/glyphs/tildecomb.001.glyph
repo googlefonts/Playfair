@@ -1,6 +1,6 @@
 {
 color = 4;
-glyphname = tildecomb;
+glyphname = tildecomb.001;
 layers = (
 {
 anchors = (
@@ -10,7 +10,27 @@ pos = (191,512);
 },
 {
 name = top;
-pos = (191,758);
+pos = (191,752);
+},
+{
+name = top_low_1;
+pos = (191,732);
+},
+{
+name = top_low_2;
+pos = (191,712);
+},
+{
+name = top_low_3;
+pos = (191,692);
+},
+{
+name = top_low_4;
+pos = (191,672);
+},
+{
+name = top_low_5;
+pos = (191,652);
 }
 );
 guides = (
@@ -57,7 +77,27 @@ pos = (215,512);
 },
 {
 name = top;
-pos = (215,776);
+pos = (215,752);
+},
+{
+name = top_low_1;
+pos = (215,732);
+},
+{
+name = top_low_2;
+pos = (215,712);
+},
+{
+name = top_low_3;
+pos = (215,692);
+},
+{
+name = top_low_4;
+pos = (215,672);
+},
+{
+name = top_low_5;
+pos = (215,652);
 }
 );
 guides = (
@@ -104,7 +144,27 @@ pos = (253,512);
 },
 {
 name = top;
-pos = (253,776);
+pos = (253,752);
+},
+{
+name = top_low_1;
+pos = (253,732);
+},
+{
+name = top_low_2;
+pos = (253,712);
+},
+{
+name = top_low_3;
+pos = (253,692);
+},
+{
+name = top_low_4;
+pos = (253,672);
+},
+{
+name = top_low_5;
+pos = (253,652);
 }
 );
 guides = (
@@ -151,7 +211,27 @@ pos = (210,520);
 },
 {
 name = top;
-pos = (210,786);
+pos = (210,760);
+},
+{
+name = top_low_1;
+pos = (210,740);
+},
+{
+name = top_low_2;
+pos = (210,720);
+},
+{
+name = top_low_3;
+pos = (210,700);
+},
+{
+name = top_low_4;
+pos = (210,680);
+},
+{
+name = top_low_5;
+pos = (210,660);
 }
 );
 guides = (
@@ -198,7 +278,27 @@ pos = (255,520);
 },
 {
 name = top;
-pos = (255,786);
+pos = (255,760);
+},
+{
+name = top_low_1;
+pos = (255,740);
+},
+{
+name = top_low_2;
+pos = (255,720);
+},
+{
+name = top_low_3;
+pos = (255,700);
+},
+{
+name = top_low_4;
+pos = (255,680);
+},
+{
+name = top_low_5;
+pos = (255,660);
 }
 );
 guides = (
@@ -245,7 +345,27 @@ pos = (222,512);
 },
 {
 name = top;
-pos = (222,758);
+pos = (222,752);
+},
+{
+name = top_low_1;
+pos = (222,732);
+},
+{
+name = top_low_2;
+pos = (222,712);
+},
+{
+name = top_low_3;
+pos = (222,692);
+},
+{
+name = top_low_4;
+pos = (222,672);
+},
+{
+name = top_low_5;
+pos = (222,652);
 }
 );
 guides = (
@@ -288,11 +408,31 @@ width = 444;
 anchors = (
 {
 name = _top;
-pos = (225,520);
+pos = (224,520);
 },
 {
 name = top;
-pos = (225,782);
+pos = (224,760);
+},
+{
+name = top_low_1;
+pos = (224,740);
+},
+{
+name = top_low_2;
+pos = (224,720);
+},
+{
+name = top_low_3;
+pos = (224,700);
+},
+{
+name = top_low_4;
+pos = (224,680);
+},
+{
+name = top_low_5;
+pos = (224,660);
 }
 );
 guides = (
@@ -335,11 +475,31 @@ width = 450;
 anchors = (
 {
 name = _top;
-pos = (272,520);
+pos = (270,520);
 },
 {
 name = top;
-pos = (272,782);
+pos = (270,760);
+},
+{
+name = top_low_1;
+pos = (270,740);
+},
+{
+name = top_low_2;
+pos = (270,720);
+},
+{
+name = top_low_3;
+pos = (270,700);
+},
+{
+name = top_low_4;
+pos = (270,680);
+},
+{
+name = top_low_5;
+pos = (270,660);
 }
 );
 guides = (
@@ -379,7 +539,6 @@ nodes = (
 width = 543;
 }
 );
-unicode = 771;
 userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;

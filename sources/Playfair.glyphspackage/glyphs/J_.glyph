@@ -5,6 +5,16 @@ kernLeft = KO_J;
 kernRight = KO_N;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (171,0);
+},
+{
+name = top;
+pos = (171,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -24,6 +34,16 @@ ref = "_UC-J-descender-stump";
 width = 341;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (251,0);
+},
+{
+name = top;
+pos = (251,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -43,6 +63,16 @@ ref = "_UC-J-descender-stump";
 width = 501;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (289,0);
+},
+{
+name = top;
+pos = (289,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -62,6 +92,16 @@ ref = "_UC-J-descender-stump";
 width = 578;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (209,0);
+},
+{
+name = top;
+pos = (209,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -81,6 +121,16 @@ ref = "_UC-J-descender-stump";
 width = 417;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (236,0);
+},
+{
+name = top;
+pos = (236,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -100,6 +150,16 @@ ref = "_UC-J-descender-stump";
 width = 471;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (197,0);
+},
+{
+name = top;
+pos = (197,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -119,6 +179,16 @@ ref = "_UC-J-descender-stump";
 width = 393;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (242,0);
+},
+{
+name = top;
+pos = (242,708);
+}
+);
 guides = (
 {
 angle = 90;
@@ -138,6 +208,16 @@ ref = "_UC-J-descender-stump";
 width = 483;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (294,0);
+},
+{
+name = top;
+pos = (294,708);
+}
+);
 guides = (
 {
 angle = 90;

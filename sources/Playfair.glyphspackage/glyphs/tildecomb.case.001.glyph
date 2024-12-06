@@ -1,6 +1,6 @@
 {
 color = 4;
-glyphname = tildecomb.case;
+glyphname = tildecomb.case.001;
 layers = (
 {
 anchors = (
@@ -10,7 +10,27 @@ pos = (211,708);
 },
 {
 name = top;
-pos = (211,910);
+pos = (211,940);
+},
+{
+name = top_low_1;
+pos = (211,920);
+},
+{
+name = top_low_2;
+pos = (211,900);
+},
+{
+name = top_low_3;
+pos = (211,880);
+},
+{
+name = top_low_4;
+pos = (211,860);
+},
+{
+name = top_low_5;
+pos = (211,840);
 }
 );
 guides = (
@@ -60,7 +80,27 @@ pos = (231,708);
 },
 {
 name = top;
-pos = (231,914);
+pos = (231,940);
+},
+{
+name = top_low_1;
+pos = (231,920);
+},
+{
+name = top_low_2;
+pos = (231,900);
+},
+{
+name = top_low_3;
+pos = (231,880);
+},
+{
+name = top_low_4;
+pos = (231,860);
+},
+{
+name = top_low_5;
+pos = (231,840);
 }
 );
 guides = (
@@ -113,7 +153,27 @@ pos = (249,708);
 },
 {
 name = top;
-pos = (249,915);
+pos = (249,940);
+},
+{
+name = top_low_1;
+pos = (249,920);
+},
+{
+name = top_low_2;
+pos = (249,900);
+},
+{
+name = top_low_3;
+pos = (249,880);
+},
+{
+name = top_low_4;
+pos = (249,860);
+},
+{
+name = top_low_5;
+pos = (249,840);
 }
 );
 guides = (
@@ -163,7 +223,27 @@ pos = (251,708);
 },
 {
 name = top;
-pos = (251,956);
+pos = (251,940);
+},
+{
+name = top_low_1;
+pos = (251,920);
+},
+{
+name = top_low_2;
+pos = (251,900);
+},
+{
+name = top_low_3;
+pos = (251,880);
+},
+{
+name = top_low_4;
+pos = (251,860);
+},
+{
+name = top_low_5;
+pos = (251,840);
 }
 );
 guides = (
@@ -209,11 +289,31 @@ width = 501;
 anchors = (
 {
 name = _top;
-pos = (271,708);
+pos = (270,708);
 },
 {
 name = top;
-pos = (271,956);
+pos = (270,940);
+},
+{
+name = top_low_1;
+pos = (270,920);
+},
+{
+name = top_low_2;
+pos = (270,900);
+},
+{
+name = top_low_3;
+pos = (270,880);
+},
+{
+name = top_low_4;
+pos = (270,860);
+},
+{
+name = top_low_5;
+pos = (270,840);
 }
 );
 guides = (
@@ -263,7 +363,27 @@ pos = (242,708);
 },
 {
 name = top;
-pos = (242,910);
+pos = (242,940);
+},
+{
+name = top_low_1;
+pos = (242,920);
+},
+{
+name = top_low_2;
+pos = (242,900);
+},
+{
+name = top_low_3;
+pos = (242,880);
+},
+{
+name = top_low_4;
+pos = (242,860);
+},
+{
+name = top_low_5;
+pos = (242,840);
 }
 );
 guides = (
@@ -313,7 +433,27 @@ pos = (251,708);
 },
 {
 name = top;
-pos = (251,953);
+pos = (251,940);
+},
+{
+name = top_low_1;
+pos = (251,920);
+},
+{
+name = top_low_2;
+pos = (251,900);
+},
+{
+name = top_low_3;
+pos = (251,880);
+},
+{
+name = top_low_4;
+pos = (251,860);
+},
+{
+name = top_low_5;
+pos = (251,840);
 }
 );
 guides = (
@@ -363,7 +503,27 @@ pos = (279,708);
 },
 {
 name = top;
-pos = (279,954);
+pos = (279,940);
+},
+{
+name = top_low_1;
+pos = (279,920);
+},
+{
+name = top_low_2;
+pos = (279,900);
+},
+{
+name = top_low_3;
+pos = (279,880);
+},
+{
+name = top_low_4;
+pos = (279,860);
+},
+{
+name = top_low_5;
+pos = (279,840);
 }
 );
 guides = (

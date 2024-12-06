@@ -740,14 +740,18 @@ lookup AFRC_LKP_3 {
 tag = afrc;
 },
 {
-code = "lookupflag IgnoreMarks;
+code = "# Automatic Code Start
+
+lookupflag IgnoreMarks;
 pos @afrcFigures fracinit ${bar1.afrc:width/5};
 pos @afrcBars @afrcFigures ${bar1.afrc:width/5};
 ";
 tag = kern;
 },
 {
-code = "pos @afrcNumerators' lookup MARK_LKP_1 @afrcBars @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators;
+code = "# Automatic Code Start
+
+pos @afrcNumerators' lookup MARK_LKP_1 @afrcBars @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators;
 
 pos @afrcNumerators' lookup MARK_LKP_2 @afrcNumerators @afrcBars @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators;
 pos @afrcNumerators' lookup MARK_LKP_2 @afrcBars @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators @afrcDenominators;
@@ -816,7 +820,9 @@ pos @afrcDenominators' lookup MARK_LKP_19;
 tag = mark;
 },
 {
-code = "pos mark @afrcNumerators <anchor ${bar1.afrc:width} 0> mark @MARK_CLASS_0 <anchor 0 0> mark @MARK_CLASS_1;
+code = "# Automatic Code Start
+
+pos mark @afrcNumerators <anchor ${bar1.afrc:width} 0> mark @MARK_CLASS_0 <anchor 0 0> mark @MARK_CLASS_1;
 pos mark @afrcDenominators <anchor 0 0> mark @MARK_CLASS_0 <anchor ${bar1.afrc:width} 0> mark @MARK_CLASS_1;
 ";
 tag = mkmk;
