@@ -156,7 +156,7 @@ pos = (168,0);
 ref = "_UC-Kadescender-cy-wing";
 }
 );
-width = 700;
+width = 695;
 },
 {
 anchors = (
@@ -336,7 +336,7 @@ pos = (262,0);
 ref = "_UC-Kadescender-cy-wing";
 }
 );
-width = 790;
+width = 789;
 },
 {
 anchors = (
@@ -644,7 +644,7 @@ pos = (258,0);
 ref = "_UC-Kadescender-cy-wing";
 }
 );
-width = 812;
+width = 813;
 },
 {
 anchors = (
@@ -798,7 +798,7 @@ pos = (307,0);
 ref = "_UC-Kadescender-cy-wing";
 }
 );
-width = 921;
+width = 920;
 },
 {
 anchors = (
@@ -1132,7 +1132,7 @@ pos = (297,0);
 ref = "_UC-Kadescender-cy-wing";
 }
 );
-width = 963;
+width = 969;
 },
 {
 anchors = (
@@ -1312,7 +1312,7 @@ pos = (344,0);
 ref = "_UC-Kadescender-cy-wing";
 }
 );
-width = 1040;
+width = 1043;
 }
 );
 metricLeft = I;

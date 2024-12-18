@@ -286,7 +286,7 @@ pos = (285,0);
 ref = "_LC-j-descender";
 }
 );
-width = 688;
+width = 689;
 },
 {
 anchors = (
@@ -429,7 +429,7 @@ pos = (341,0);
 ref = "_LC-j-descender";
 }
 );
-width = 692;
+width = 693;
 },
 {
 anchors = (
@@ -572,7 +572,7 @@ pos = (310,0);
 ref = "_LC-j-descender";
 }
 );
-width = 653;
+width = 654;
 },
 {
 anchors = (
@@ -714,7 +714,7 @@ pos = (341,0);
 ref = "_LC-j-descender";
 }
 );
-width = 782;
+width = 781;
 },
 {
 anchors = (

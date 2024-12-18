@@ -20,7 +20,7 @@ pos = (-28,-101);
 ref = asciicircum.case;
 }
 );
-width = 536;
+width = 535;
 },
 {
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";

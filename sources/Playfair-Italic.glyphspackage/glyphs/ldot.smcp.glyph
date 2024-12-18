@@ -29,7 +29,7 @@ pos = (583,314);
 ref = period;
 }
 );
-width = 735;
+width = 805;
 },
 {
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
@@ -57,7 +57,7 @@ pos = (494,314);
 ref = period;
 }
 );
-width = 691;
+width = 703;
 },
 {
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
@@ -71,7 +71,7 @@ pos = (679,314);
 ref = period;
 }
 );
-width = 875;
+width = 960;
 },
 {
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
@@ -99,7 +99,7 @@ pos = (586,314);
 ref = period;
 }
 );
-width = 851;
+width = 855;
 },
 {
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
@@ -113,7 +113,7 @@ pos = (610,314);
 ref = period;
 }
 );
-width = 921;
+width = 936;
 }
 );
 metricLeft = l.smcp;

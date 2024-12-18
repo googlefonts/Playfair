@@ -8,21 +8,21 @@ layers = (
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-pos = (24,85);
+pos = (23,85);
 ref = hyphen;
 }
 );
-width = 501;
+width = 500;
 },
 {
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-pos = (24,85);
+pos = (23,85);
 ref = hyphen;
 }
 );
-width = 501;
+width = 500;
 },
 {
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
@@ -48,11 +48,11 @@ width = 469;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-pos = (24,85);
+pos = (23,85);
 ref = hyphen;
 }
 );
-width = 603;
+width = 602;
 },
 {
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";

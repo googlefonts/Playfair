@@ -6,26 +6,26 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (255,708);
+pos = (257,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (131,708);
+pos = (133,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (131,385);
+pos = (133,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (260,690);
+pos = (262,690);
 ref = commaaccentcomb;
 }
 );
@@ -33,7 +33,7 @@ ref = commaaccentcomb;
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
-pos = (276,989);
+pos = (278,989);
 ref = commaaccentcomb;
 }
 );
@@ -43,26 +43,26 @@ width = 264;
 anchors = (
 {
 name = _top;
-pos = (279,708);
+pos = (240,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (136,708);
+pos = (97,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (156,385);
+pos = (117,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (280,708);
+pos = (241,708);
 ref = commaaccentcomb;
 }
 );
@@ -70,7 +70,7 @@ ref = commaaccentcomb;
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-pos = (292,1046);
+pos = (253,1046);
 ref = commaaccentcomb;
 }
 );
@@ -80,26 +80,26 @@ width = 278;
 anchors = (
 {
 name = _top;
-pos = (298,708);
+pos = (251,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (160,708);
+pos = (113,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (206,385);
+pos = (159,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (330,708);
+pos = (283,708);
 ref = commaaccentcomb;
 }
 );
@@ -107,7 +107,7 @@ ref = commaaccentcomb;
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-pos = (292,1046);
+pos = (245,1046);
 ref = commaaccentcomb;
 }
 );
@@ -117,26 +117,26 @@ width = 310;
 anchors = (
 {
 name = _top;
-pos = (274,708);
+pos = (253,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (140,708);
+pos = (119,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (140,385);
+pos = (119,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (280,698);
+pos = (259,698);
 ref = commaaccentcomb;
 }
 );
@@ -144,36 +144,36 @@ ref = commaaccentcomb;
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-pos = (280,1002);
+pos = (259,1002);
 ref = commaaccentcomb;
 }
 );
-width = 278;
+width = 277;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (307,708);
+pos = (287,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (157,708);
+pos = (137,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (170,385);
+pos = (150,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (320,698);
+pos = (300,698);
 ref = commaaccentcomb;
 }
 );
@@ -181,7 +181,7 @@ ref = commaaccentcomb;
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
-pos = (280,1002);
+pos = (260,1002);
 ref = commaaccentcomb;
 }
 );
@@ -191,30 +191,30 @@ width = 342;
 anchors = (
 {
 name = _top;
-pos = (273,708);
+pos = (271,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (157,708);
+pos = (155,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (165,385);
+pos = (163,385);
 },
 {
 angle = 90;
-pos = (165,385);
+pos = (163,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (313,693);
+pos = (311,693);
 ref = commaaccentcomb;
 }
 );
@@ -222,7 +222,7 @@ ref = commaaccentcomb;
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
-pos = (277,992);
+pos = (275,992);
 ref = commaaccentcomb;
 }
 );
@@ -232,26 +232,26 @@ width = 306;
 anchors = (
 {
 name = _top;
-pos = (326,708);
+pos = (267,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (134,708);
+pos = (75,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (139,385);
+pos = (80,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (279,702);
+pos = (220,702);
 ref = commaaccentcomb;
 }
 );
@@ -259,36 +259,36 @@ ref = commaaccentcomb;
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
-pos = (288,1030);
+pos = (229,1030);
 ref = commaaccentcomb;
 }
 );
-width = 348;
+width = 349;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (359,708);
+pos = (288,708);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-pos = (142,708);
+pos = (71,708);
 }
 );
 guides = (
 {
 angle = 90;
-pos = (162,385);
+pos = (91,385);
 }
 );
 shapes = (
 {
 angle = 180;
-pos = (333,702);
+pos = (262,702);
 ref = commaaccentcomb;
 }
 );
@@ -296,7 +296,7 @@ ref = commaaccentcomb;
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-pos = (288,1030);
+pos = (217,1030);
 ref = commaaccentcomb;
 }
 );

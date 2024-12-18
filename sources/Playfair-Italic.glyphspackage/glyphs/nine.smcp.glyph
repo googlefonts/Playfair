@@ -47,7 +47,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (712,708);
+pos = (711,708);
 ref = six.smcp;
 }
 );
@@ -56,11 +56,11 @@ layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
 angle = 180;
-pos = (692,608);
+pos = (691,608);
 ref = six.smcp;
 }
 );
-width = 665;
+width = 664;
 },
 {
 background = {
@@ -107,7 +107,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (726,708);
+pos = (725,708);
 ref = six.smcp;
 }
 );
@@ -116,11 +116,11 @@ layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
 angle = 180;
-pos = (703,608);
+pos = (702,608);
 ref = six.smcp;
 }
 );
-width = 678;
+width = 677;
 },
 {
 background = {

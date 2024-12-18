@@ -71,7 +71,7 @@ pos = (259,0);
 ref = "_UC-J-descender";
 }
 );
-width = 659;
+width = 669;
 },
 {
 background = {
@@ -140,7 +140,7 @@ pos = (348,0);
 ref = "_UC-J-descender";
 }
 );
-width = 749;
+width = 789;
 },
 {
 background = {
@@ -210,7 +210,7 @@ pos = (328,0);
 ref = "_UC-J-descender";
 }
 );
-width = 772;
+width = 793;
 },
 {
 background = {
@@ -348,35 +348,35 @@ pos = (462,0);
 ref = "_UC-J-descender";
 }
 );
-width = 916;
+width = 977;
 },
 {
 background = {
 guides = (
 {
 angle = 74.4;
-pos = (121,116);
+pos = (120,116);
 },
 {
 angle = 74.4;
-pos = (144,116);
+pos = (143,116);
 },
 {
 angle = 74.4;
-pos = (711,592);
+pos = (710,592);
 },
 {
 angle = 74.4;
-pos = (734,592);
+pos = (733,592);
 }
 );
 shapes = (
 {
-pos = (5,0);
+pos = (4,0);
 ref = N;
 },
 {
-pos = (357,0);
+pos = (356,0);
 ref = "Eng-hook";
 }
 );
@@ -384,41 +384,41 @@ ref = "Eng-hook";
 guides = (
 {
 angle = 74.4;
-pos = (121,116);
+pos = (120,116);
 },
 {
 angle = 74.4;
-pos = (144,116);
+pos = (143,116);
 },
 {
 angle = 74.4;
-pos = (711,592);
+pos = (710,592);
 },
 {
 angle = 74.4;
-pos = (734,592);
+pos = (733,592);
 }
 );
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
+pos = (-1,0);
 ref = "_UC-upper-stem-instroke";
 },
 {
-pos = (1,0);
 ref = "_UC-bottom-stem-normal-wide";
 },
 {
-pos = (279,0);
+pos = (278,0);
 ref = "_UC-Eng-arch";
 },
 {
 anchor = stem;
-pos = (230,0);
+pos = (229,0);
 ref = "_UC-J-descender";
 }
 );
-width = 789;
+width = 788;
 },
 {
 background = {
@@ -487,7 +487,7 @@ pos = (295,0);
 ref = "_UC-J-descender";
 }
 );
-width = 909;
+width = 919;
 },
 {
 background = {
@@ -556,7 +556,7 @@ pos = (360,0);
 ref = "_UC-J-descender";
 }
 );
-width = 978;
+width = 998;
 }
 );
 metricLeft = I;

@@ -149,7 +149,7 @@ pos = (53,0);
 ref = "_LC-baseline-outstroke";
 }
 );
-width = 281;
+width = 280;
 },
 {
 anchors = (
@@ -294,7 +294,7 @@ pos = (93,0);
 ref = "_LC-baseline-outstroke";
 }
 );
-width = 391;
+width = 390;
 },
 {
 anchors = (
@@ -439,7 +439,7 @@ pos = (79,0);
 ref = "_LC-baseline-outstroke";
 }
 );
-width = 337;
+width = 336;
 },
 {
 anchors = (
@@ -584,7 +584,7 @@ pos = (30,0);
 ref = "_LC-baseline-outstroke";
 }
 );
-width = 328;
+width = 327;
 },
 {
 anchors = (
@@ -723,7 +723,7 @@ pos = (119,0);
 ref = "_LC-baseline-outstroke";
 }
 );
-width = 448;
+width = 447;
 },
 {
 anchors = (
@@ -1144,7 +1144,7 @@ pos = (83,0);
 ref = "_LC-baseline-outstroke";
 }
 );
-width = 451;
+width = 452;
 },
 {
 anchors = (

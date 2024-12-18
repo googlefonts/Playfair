@@ -95,7 +95,7 @@ pos = (386,0);
 ref = "uc-o-horn";
 }
 );
-width = 770;
+width = 824;
 },
 {
 background = {
@@ -237,7 +237,7 @@ pos = (492,0);
 ref = "uc-o-horn";
 }
 );
-width = 957;
+width = 976;
 },
 {
 background = {
@@ -285,7 +285,7 @@ pos = (389,0);
 ref = "uc-o-horn";
 }
 );
-width = 790;
+width = 798;
 },
 {
 background = {
@@ -380,7 +380,7 @@ pos = (511,0);
 ref = "uc-o-horn";
 }
 );
-width = 1010;
+width = 1024;
 }
 );
 metricLeft = O;

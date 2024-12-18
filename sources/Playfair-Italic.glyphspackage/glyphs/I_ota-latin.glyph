@@ -58,7 +58,7 @@ pos = (90,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 389;
+width = 442;
 },
 {
 background = {
@@ -116,7 +116,7 @@ pos = (121,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 463;
+width = 522;
 },
 {
 background = {
@@ -174,7 +174,7 @@ pos = (78,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 428;
+width = 486;
 },
 {
 background = {
@@ -232,7 +232,7 @@ pos = (110,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 492;
+width = 561;
 },
 {
 background = {
@@ -290,7 +290,7 @@ pos = (182,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 548;
+width = 665;
 },
 {
 background = {
@@ -348,7 +348,7 @@ pos = (227,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 631;
+width = 748;
 },
 {
 background = {
@@ -406,7 +406,7 @@ pos = (100,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 564;
+width = 692;
 },
 {
 background = {
@@ -464,7 +464,7 @@ pos = (165,0);
 ref = "_UC-Iota-latin-outstroke";
 }
 );
-width = 674;
+width = 822;
 }
 );
 metricLeft = I;

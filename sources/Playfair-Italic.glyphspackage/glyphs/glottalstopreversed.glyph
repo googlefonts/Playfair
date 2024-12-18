@@ -3,6 +3,12 @@ color = 4;
 glyphname = glottalstopreversed;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (390,773);
+}
+);
 background = {
 hints = (
 {
@@ -129,6 +135,12 @@ nodes = (
 width = 450;
 },
 {
+anchors = (
+{
+name = top;
+pos = (420,773);
+}
+);
 background = {
 hints = (
 {
@@ -255,6 +267,12 @@ nodes = (
 width = 523;
 },
 {
+anchors = (
+{
+name = top;
+pos = (450,773);
+}
+);
 background = {
 hints = (
 {
@@ -381,6 +399,12 @@ nodes = (
 width = 530;
 },
 {
+anchors = (
+{
+name = top;
+pos = (480,773);
+}
+);
 background = {
 hints = (
 {
@@ -507,6 +531,12 @@ nodes = (
 width = 629;
 },
 {
+anchors = (
+{
+name = top;
+pos = (450,773);
+}
+);
 background = {
 hints = (
 {
@@ -633,6 +663,12 @@ nodes = (
 width = 572;
 },
 {
+anchors = (
+{
+name = top;
+pos = (490,773);
+}
+);
 background = {
 hints = (
 {
@@ -759,6 +795,12 @@ nodes = (
 width = 668;
 },
 {
+anchors = (
+{
+name = top;
+pos = (470,773);
+}
+);
 background = {
 hints = (
 {
@@ -885,6 +927,12 @@ nodes = (
 width = 604;
 },
 {
+anchors = (
+{
+name = top;
+pos = (540,773);
+}
+);
 background = {
 hints = (
 {

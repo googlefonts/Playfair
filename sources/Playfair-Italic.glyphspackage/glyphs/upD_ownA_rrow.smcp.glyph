@@ -27,24 +27,24 @@ width = 509;
 {
 guides = (
 {
-pos = (-74,307);
+pos = (-75,307);
 },
 {
-pos = (-74,28);
+pos = (-75,28);
 },
 {
-pos = (-74,587);
+pos = (-75,587);
 }
 );
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
 alignment = 3;
-pos = (7,24);
+pos = (6,24);
 ref = upDownArrow;
 }
 );
-width = 619;
+width = 618;
 },
 {
 guides = (

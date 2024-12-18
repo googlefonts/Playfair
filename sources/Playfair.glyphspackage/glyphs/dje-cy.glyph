@@ -74,7 +74,7 @@ pos = (164,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 613;
+width = 584;
 },
 {
 anchors = (
@@ -153,7 +153,7 @@ pos = (225,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 752;
+width = 666;
 },
 {
 anchors = (
@@ -232,7 +232,7 @@ pos = (267,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 916;
+width = 819;
 },
 {
 anchors = (
@@ -306,7 +306,7 @@ pos = (226,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 640;
+width = 608;
 },
 {
 anchors = (
@@ -386,7 +386,7 @@ pos = (252,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 758;
+width = 714;
 },
 {
 anchors = (
@@ -460,7 +460,7 @@ pos = (190,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 724;
+width = 674;
 },
 {
 anchors = (
@@ -541,7 +541,7 @@ pos = (248,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 704;
+width = 642;
 },
 {
 anchors = (
@@ -622,7 +622,7 @@ pos = (275,0);
 ref = "_LC-dje-cy-down-stroke";
 }
 );
-width = 861;
+width = 784;
 },
 {
 associatedMasterId = "DF17D77B-A5C4-4843-826A-BC0F1C4CB224";
@@ -1156,6 +1156,5 @@ width = 812;
 }
 );
 metricLeft = "tshe-cy";
-metricRight = jdotless;
 unicode = 1106;
 }

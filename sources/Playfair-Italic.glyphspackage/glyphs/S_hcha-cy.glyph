@@ -88,7 +88,7 @@ pos = (797,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1192;
+width = 1191;
 },
 {
 background = {
@@ -166,7 +166,7 @@ pos = (825,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1214;
+width = 1213;
 },
 {
 background = {
@@ -219,7 +219,7 @@ pos = (982,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1435;
+width = 1433;
 },
 {
 background = {
@@ -280,7 +280,7 @@ pos = (848,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1263;
+width = 1262;
 },
 {
 background = {
@@ -305,35 +305,35 @@ pos = (975,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1399;
+width = 1398;
 },
 {
 background = {
 guides = (
 {
 angle = 74.4;
-pos = (31,106);
+pos = (30,106);
 },
 {
 angle = 74.4;
-pos = (339,106);
+pos = (338,106);
 },
 {
 angle = 74.4;
-pos = (798,-100);
+pos = (797,-100);
 },
 {
 angle = 74.4;
-pos = (647,106);
+pos = (646,106);
 }
 );
 shapes = (
 {
-pos = (-36,0);
+pos = (-37,0);
 ref = "_UC-Sha-cy_base";
 },
 {
-pos = (1089,0);
+pos = (1088,0);
 ref = "_cap.UC-descender-cy";
 }
 );
@@ -341,32 +341,33 @@ ref = "_cap.UC-descender-cy";
 guides = (
 {
 angle = 74.4;
-pos = (31,106);
+pos = (30,106);
 },
 {
 angle = 74.4;
-pos = (339,106);
+pos = (338,106);
 },
 {
 angle = 74.4;
-pos = (798,-100);
+pos = (797,-100);
 },
 {
 angle = 74.4;
-pos = (647,106);
+pos = (646,106);
 }
 );
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
+pos = (-1,0);
 ref = "_UC-Sha-cy_base";
 },
 {
-pos = (1080,0);
+pos = (1079,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1558;
+width = 1556;
 }
 );
 metricLeft = I;

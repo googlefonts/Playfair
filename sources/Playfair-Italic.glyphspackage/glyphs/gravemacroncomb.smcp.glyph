@@ -48,7 +48,7 @@ pos = (-28,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 429;
+width = 428;
 },
 {
 guides = (
@@ -64,7 +64,7 @@ pos = (-28,-100);
 ref = gravemacroncomb.case;
 }
 );
-width = 476;
+width = 475;
 },
 {
 guides = (
@@ -107,20 +107,20 @@ width = 501;
 {
 guides = (
 {
-pos = (0,662);
+pos = (1,662);
 },
 {
-pos = (-21,869);
+pos = (-20,869);
 },
 {
-pos = (367,774);
+pos = (368,774);
 }
 );
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
 alignment = 3;
-pos = (-28,-100);
+pos = (-27,-100);
 ref = gravemacroncomb.case;
 }
 );
@@ -129,17 +129,17 @@ width = 443;
 {
 guides = (
 {
-pos = (-21,869);
+pos = (-20,869);
 },
 {
-pos = (115,774);
+pos = (116,774);
 }
 );
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
 alignment = 3;
-pos = (-28,-100);
+pos = (-27,-100);
 ref = gravemacroncomb.case;
 }
 );

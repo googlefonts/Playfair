@@ -48,7 +48,7 @@ pos = (-28,-100);
 ref = acutemacroncomb.case;
 }
 );
-width = 375;
+width = 374;
 },
 {
 guides = (
@@ -64,7 +64,7 @@ pos = (-28,-100);
 ref = acutemacroncomb.case;
 }
 );
-width = 422;
+width = 421;
 },
 {
 guides = (

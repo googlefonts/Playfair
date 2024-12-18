@@ -416,6 +416,7 @@ lookup ccmp_latn_2;
 tag = ccmp;
 },
 {
+automatic = 1;
 code = "script latn;
 language AZE;
 lookup locl_latn_0 {
@@ -512,8 +513,11 @@ lookup locl_cyrl_1 {
 	sub be-cy by be-cy.loclSRB;
 	sub ef-cy by ef-cy.loclSRB;
 } locl_cyrl_1;
-
-# Ukranian double yi alternate
+";
+tag = locl;
+},
+{
+code = "# Ukranian double yi alternate
 script cyrl;
 language UKR;
 lookup UkrainianYiYiFirst {
@@ -539,8 +543,8 @@ language SKS;
 lookup samiEng;
 language SSM;
 lookup samiEng;
-
 ";
+disabled = 1;
 notes = "Glyphs can’t generate sub iacute.smcp j.smcp by iacute_j.smcp.loclNLD; automatically. Done manually in SMCP-feature.
 
 Added yi-cy double substitution for Ukranian:
@@ -19296,7 +19300,6 @@ parenright = -177;
 "es-cy" = 12;
 hyphen = 48;
 hyphentwo = -45;
-"ie-cy" = 12;
 "o-cy" = 12;
 period.tf.ss14 = -134;
 "u-cy" = 0;
@@ -75459,7 +75462,7 @@ parenright = -236;
 "es-cy" = 44;
 hyphen = 50;
 hyphentwo = -51;
-"ie-cy" = 45;
+"ie-cy" = 0;
 "o-cy" = 43;
 period.tf.ss14 = -165;
 "u-cy" = -14;
@@ -94181,7 +94184,7 @@ parenright = -185;
 "es-cy" = 11;
 hyphen = 0;
 hyphentwo = -86;
-"ie-cy" = 11;
+"ie-cy" = 0;
 "o-cy" = 11;
 period.tf.ss14 = -143;
 "u-cy" = -13;
@@ -131627,7 +131630,7 @@ parenright = -188;
 "es-cy" = 16;
 hyphen = 62;
 hyphentwo = -33;
-"ie-cy" = 15;
+"ie-cy" = 0;
 "o-cy" = 15;
 period.tf.ss14 = -147;
 "u-cy" = -58;
@@ -150366,7 +150369,7 @@ parenright = -213;
 "es-cy" = 11;
 hyphen = 47;
 hyphentwo = -48;
-"ie-cy" = 10;
+"ie-cy" = 0;
 "o-cy" = 9;
 period.tf.ss14 = -185;
 "u-cy" = -53;

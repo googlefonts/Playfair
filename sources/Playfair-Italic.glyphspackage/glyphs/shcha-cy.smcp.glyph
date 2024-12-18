@@ -228,7 +228,7 @@ pos = (789,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1184;
+width = 1183;
 },
 {
 background = {
@@ -595,7 +595,7 @@ pos = (981,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1432;
+width = 1431;
 },
 {
 background = {
@@ -821,7 +821,7 @@ pos = (945,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1399;
+width = 1398;
 },
 {
 background = {
@@ -934,7 +934,7 @@ pos = (1080,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1558;
+width = 1557;
 }
 );
 metricLeft = i.smcp;

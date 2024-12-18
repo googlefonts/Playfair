@@ -4,6 +4,12 @@ export = 0;
 glyphname = eopen.flattened;
 layers = (
 {
+anchors = (
+{
+name = ogonek;
+pos = (182,3);
+}
+);
 background = {
 anchors = (
 {
@@ -160,6 +166,12 @@ nodes = (
 width = 442;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (282,3);
+}
+);
 background = {
 shapes = (
 {
@@ -238,6 +250,12 @@ nodes = (
 width = 618;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (282,3);
+}
+);
 background = {
 shapes = (
 {
@@ -374,6 +392,12 @@ nodes = (
 width = 500;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (282,3);
+}
+);
 background = {
 shapes = (
 {
@@ -452,6 +476,12 @@ nodes = (
 width = 612;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (182,3);
+}
+);
 background = {
 shapes = (
 {
@@ -588,6 +618,12 @@ nodes = (
 width = 453;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (282,3);
+}
+);
 background = {
 shapes = (
 {
@@ -666,6 +702,12 @@ nodes = (
 width = 609;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (282,3);
+}
+);
 background = {
 shapes = (
 {
@@ -802,6 +844,12 @@ nodes = (
 width = 544;
 },
 {
+anchors = (
+{
+name = ogonek;
+pos = (382,3);
+}
+);
 background = {
 shapes = (
 {

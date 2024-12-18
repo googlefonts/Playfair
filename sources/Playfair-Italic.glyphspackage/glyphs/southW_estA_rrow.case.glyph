@@ -6,20 +6,20 @@ layers = (
 {
 guides = (
 {
-pos = (-79,357);
+pos = (-78,357);
 },
 {
-pos = (-79,655);
+pos = (-78,655);
 },
 {
-pos = (-79,59);
+pos = (-78,59);
 }
 );
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
 alignment = 3;
-pos = (25,90);
+pos = (26,90);
 ref = southWestArrow;
 }
 );
@@ -28,42 +28,42 @@ width = 634;
 {
 guides = (
 {
-pos = (-74,357);
+pos = (-73,357);
 },
 {
-pos = (-74,655);
+pos = (-73,655);
 },
 {
-pos = (-74,59);
+pos = (-73,59);
 }
 );
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
 shapes = (
 {
 alignment = 3;
-pos = (23,83);
+pos = (24,83);
 ref = southWestArrow;
 }
 );
-width = 738;
+width = 739;
 },
 {
 guides = (
 {
-pos = (-79,355);
+pos = (-80,355);
 },
 {
-pos = (-79,653);
+pos = (-80,653);
 },
 {
-pos = (-79,57);
+pos = (-80,57);
 }
 );
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
 alignment = 3;
-pos = (25,88);
+pos = (24,88);
 ref = southWestArrow;
 }
 );
@@ -72,20 +72,20 @@ width = 643;
 {
 guides = (
 {
-pos = (-126,355);
+pos = (-127,355);
 },
 {
-pos = (-126,653);
+pos = (-127,653);
 },
 {
-pos = (-126,57);
+pos = (-127,57);
 }
 );
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
 shapes = (
 {
 alignment = 3;
-pos = (23,81);
+pos = (22,81);
 ref = southWestArrow;
 }
 );
@@ -94,24 +94,24 @@ width = 643;
 {
 guides = (
 {
-pos = (-86,356);
+pos = (-87,356);
 },
 {
-pos = (-86,59);
+pos = (-87,59);
 },
 {
-pos = (-86,655);
+pos = (-87,655);
 }
 );
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
 alignment = 3;
-pos = (25,90);
+pos = (24,90);
 ref = southWestArrow;
 }
 );
-width = 642;
+width = 640;
 },
 {
 guides = (
@@ -138,20 +138,20 @@ width = 738;
 {
 guides = (
 {
-pos = (-81,356);
+pos = (-82,356);
 },
 {
-pos = (-81,59);
+pos = (-82,59);
 },
 {
-pos = (-81,655);
+pos = (-82,655);
 }
 );
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
 alignment = 3;
-pos = (25,89);
+pos = (24,89);
 ref = southWestArrow;
 }
 );
@@ -177,7 +177,7 @@ pos = (23,81);
 ref = southWestArrow;
 }
 );
-width = 738;
+width = 739;
 }
 );
 metricLeft = "=|northEastArrow.case";

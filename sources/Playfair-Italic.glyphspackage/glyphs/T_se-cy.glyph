@@ -9,16 +9,16 @@ background = {
 guides = (
 {
 angle = 74.4;
-pos = (875,707);
+pos = (876,707);
 }
 );
 shapes = (
 {
-pos = (60,0);
+pos = (61,0);
 ref = "_Tse-Dzhe-cy_base";
 },
 {
-pos = (560,0);
+pos = (561,0);
 ref = "_cap.UC-descender-cy";
 }
 );
@@ -26,24 +26,24 @@ ref = "_cap.UC-descender-cy";
 guides = (
 {
 angle = 74.4;
-pos = (887,707);
+pos = (888,707);
 }
 );
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
+pos = (1,0);
 ref = "_UC-Tse-Dzhe-cy_upper";
 },
 {
-pos = (-1,0);
 ref = "_UC-Tse-cy_lower";
 },
 {
-pos = (425,0);
+pos = (426,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 739;
+width = 740;
 },
 {
 background = {
@@ -349,28 +349,28 @@ background = {
 guides = (
 {
 angle = 74.4;
-pos = (30,81);
+pos = (29,81);
 },
 {
 angle = 74.4;
-pos = (448,82);
+pos = (447,82);
 },
 {
 angle = 74.4;
-pos = (613,-76);
+pos = (612,-76);
 },
 {
 angle = 74.4;
-pos = (1149,638);
+pos = (1148,638);
 }
 );
 shapes = (
 {
-pos = (-30,0);
+pos = (-31,0);
 ref = "_Tse-Dzhe-cy_base";
 },
 {
-pos = (688,0);
+pos = (687,0);
 ref = "_cap.UC-descender-cy";
 }
 );
@@ -378,36 +378,36 @@ ref = "_cap.UC-descender-cy";
 guides = (
 {
 angle = 74.4;
-pos = (30,81);
+pos = (29,81);
 },
 {
 angle = 74.4;
-pos = (448,82);
+pos = (447,82);
 },
 {
 angle = 74.4;
-pos = (613,-76);
+pos = (612,-76);
 },
 {
 angle = 74.4;
-pos = (1149,638);
+pos = (1148,638);
 }
 );
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
+pos = (-1,0);
 ref = "_UC-Tse-Dzhe-cy_upper";
 },
 {
-pos = (1,0);
 ref = "_UC-Tse-cy_lower";
 },
 {
-pos = (659,0);
+pos = (658,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 1136;
+width = 1135;
 }
 );
 metricLeft = I;

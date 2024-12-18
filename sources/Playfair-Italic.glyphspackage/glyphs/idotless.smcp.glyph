@@ -576,7 +576,7 @@ shapes = (
 ref = i.smcp;
 }
 );
-width = 593;
+width = 595;
 }
 );
 metricLeft = I;

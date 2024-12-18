@@ -244,7 +244,7 @@ pos = (-28,-100);
 ref = hungarumlautcomb.case;
 }
 );
-width = 461;
+width = 481;
 },
 {
 background = {
@@ -427,7 +427,7 @@ pos = (-28,-100);
 ref = hungarumlautcomb.case;
 }
 );
-width = 489;
+width = 488;
 },
 {
 background = {

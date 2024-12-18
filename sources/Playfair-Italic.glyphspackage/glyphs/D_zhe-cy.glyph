@@ -8,15 +8,15 @@ layers = (
 background = {
 shapes = (
 {
-pos = (132,0);
+pos = (133,0);
 ref = "_Tse-Dzhe-cy_base";
 },
 {
-pos = (350,0);
+pos = (351,0);
 ref = "_UC-Dzhe-tail-cy";
 },
 {
-pos = (673,0);
+pos = (674,0);
 ref = "_UC_cy-baseline-right-serif";
 }
 );
@@ -24,18 +24,18 @@ ref = "_UC_cy-baseline-right-serif";
 layerId = "8A8107C8-C076-4746-AE01-7D15750BBEFC";
 shapes = (
 {
+pos = (1,0);
 ref = "_UC-Tse-Dzhe-cy_upper";
 },
 {
-pos = (-1,0);
 ref = "_UC-Dzhe-cy_lower";
 },
 {
-pos = (180,0);
+pos = (181,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 739;
+width = 740;
 },
 {
 background = {
@@ -104,7 +104,7 @@ pos = (251,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 921;
+width = 922;
 },
 {
 background = {
@@ -157,7 +157,7 @@ pos = (207,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 881;
+width = 883;
 },
 {
 background = {
@@ -190,7 +190,7 @@ pos = (177,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 831;
+width = 833;
 },
 {
 background = {
@@ -242,7 +242,7 @@ pos = (342,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 1133;
+width = 1134;
 },
 {
 background = {
@@ -302,7 +302,7 @@ pos = (207,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 880;
+width = 881;
 },
 {
 background = {
@@ -334,35 +334,35 @@ pos = (239,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );
-width = 1008;
+width = 1009;
 },
 {
 background = {
 guides = (
 {
 angle = 74.4;
-pos = (-18,81);
+pos = (-19,81);
 },
 {
 angle = 74.4;
-pos = (406,244);
+pos = (405,244);
 },
 {
 angle = 74.4;
-pos = (-122,0);
+pos = (-123,0);
 }
 );
 shapes = (
 {
-pos = (-54,0);
+pos = (-55,0);
 ref = "_Tse-Dzhe-cy_base";
 },
 {
-pos = (227,0);
+pos = (226,0);
 ref = "_UC-Dzhe-tail-cy";
 },
 {
-pos = (733,0);
+pos = (732,0);
 ref = "_UC_cy-baseline-right-serif";
 }
 );
@@ -370,28 +370,28 @@ ref = "_UC_cy-baseline-right-serif";
 guides = (
 {
 angle = 74.4;
-pos = (-18,81);
+pos = (-19,81);
 },
 {
 angle = 74.4;
-pos = (406,244);
+pos = (405,244);
 },
 {
 angle = 74.4;
-pos = (-122,0);
+pos = (-123,0);
 }
 );
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
+pos = (-1,0);
 ref = "_UC-Tse-Dzhe-cy_upper";
 },
 {
-pos = (1,0);
 ref = "_UC-Dzhe-cy_lower";
 },
 {
-pos = (286,0);
+pos = (285,0);
 ref = "_UC-Dzhe-cy-descender";
 }
 );

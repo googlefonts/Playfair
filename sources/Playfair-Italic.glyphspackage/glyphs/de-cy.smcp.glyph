@@ -273,7 +273,7 @@ pos = (416,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 759;
+width = 758;
 },
 {
 background = {
@@ -372,7 +372,7 @@ pos = (285,0);
 ref = "_UC-descender-cy";
 }
 );
-width = 674;
+width = 673;
 },
 {
 background = {

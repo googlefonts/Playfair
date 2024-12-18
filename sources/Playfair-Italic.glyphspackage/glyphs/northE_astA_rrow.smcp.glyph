@@ -17,7 +17,7 @@ pos = (11,40);
 ref = northEastArrow;
 }
 );
-width = 634;
+width = 633;
 },
 {
 guides = (
@@ -33,7 +33,7 @@ pos = (13,48);
 ref = northEastArrow;
 }
 );
-width = 738;
+width = 737;
 },
 {
 guides = (
@@ -65,7 +65,7 @@ pos = (13,48);
 ref = northEastArrow;
 }
 );
-width = 643;
+width = 642;
 },
 {
 guides = (
@@ -81,7 +81,7 @@ pos = (11,39);
 ref = northEastArrow;
 }
 );
-width = 641;
+width = 642;
 },
 {
 guides = (
@@ -102,18 +102,18 @@ width = 738;
 {
 guides = (
 {
-pos = (-63,306);
+pos = (-64,306);
 }
 );
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
 alignment = 3;
-pos = (11,39);
+pos = (10,39);
 ref = northEastArrow;
 }
 );
-width = 642;
+width = 641;
 },
 {
 guides = (

@@ -7,7 +7,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (513,608);
+pos = (512,608);
 ref = question.smcp;
 }
 );
@@ -17,11 +17,11 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (514,608);
+pos = (513,608);
 ref = question.smcp;
 }
 );
-width = 487;
+width = 486;
 },
 {
 background = {
@@ -49,7 +49,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (618,608);
+pos = (617,608);
 ref = question.smcp;
 }
 );
@@ -59,18 +59,18 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (619,608);
+pos = (618,608);
 ref = question.smcp;
 }
 );
-width = 592;
+width = 591;
 },
 {
 background = {
 shapes = (
 {
 angle = 180;
-pos = (553,608);
+pos = (552,608);
 ref = question.smcp;
 }
 );
@@ -80,7 +80,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (554,608);
+pos = (553,608);
 ref = question.smcp;
 }
 );
@@ -126,7 +126,7 @@ pos = (618,608);
 ref = question.smcp;
 }
 );
-width = 593;
+width = 594;
 },
 {
 background = {
@@ -168,7 +168,7 @@ pos = (736,608);
 ref = question.smcp;
 }
 );
-width = 711;
+width = 712;
 }
 );
 metricLeft = "=|question.smcp";

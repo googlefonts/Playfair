@@ -531,6 +531,7 @@ lookup samiEng;
 language SSM;
 lookup samiEng;
 ";
+disabled = 1;
 notes = "Glyphs can’t generate sub iacute.smcp j.smcp by iacute_j.smcp.loclNLD; automatically. Done manually in SMCP-feature.
 
 Added yi-cy double substitution for Ukranian:

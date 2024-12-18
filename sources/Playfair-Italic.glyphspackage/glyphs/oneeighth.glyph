@@ -17,7 +17,7 @@ pos = (296,0);
 ref = eight.dnom;
 }
 );
-width = 640;
+width = 684;
 },
 {
 layerId = "5E6FC44F-063A-4BB8-8A6A-56847DCA2C64";
@@ -34,7 +34,7 @@ pos = (336,0);
 ref = eight.dnom;
 }
 );
-width = 749;
+width = 797;
 },
 {
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
@@ -51,7 +51,7 @@ pos = (347,0);
 ref = eight.dnom;
 }
 );
-width = 711;
+width = 761;
 },
 {
 layerId = "DBDC962B-575F-4FAA-B6DE-86A7E0EB6EB2";
@@ -68,7 +68,7 @@ pos = (443,0);
 ref = eight.dnom;
 }
 );
-width = 912;
+width = 975;
 },
 {
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
@@ -85,7 +85,7 @@ pos = (506,0);
 ref = eight.dnom;
 }
 );
-width = 861;
+width = 906;
 },
 {
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
@@ -102,7 +102,7 @@ pos = (547,0);
 ref = eight.dnom;
 }
 );
-width = 969;
+width = 1018;
 },
 {
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
@@ -119,7 +119,7 @@ pos = (511,0);
 ref = eight.dnom;
 }
 );
-width = 937;
+width = 981;
 },
 {
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
@@ -136,7 +136,7 @@ pos = (665,0);
 ref = eight.dnom;
 }
 );
-width = 1182;
+width = 1242;
 }
 );
 metricLeft = one.numr;

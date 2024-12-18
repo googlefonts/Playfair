@@ -15,18 +15,18 @@ pos = (85,306);
 ref = period;
 }
 );
-width = 256;
+width = 255;
 },
 {
 guides = (
 {
-pos = (-10,356);
+pos = (-9,356);
 }
 );
 layerId = "4637ED20-F3CC-4D04-82BF-886AF47DA6B7";
 shapes = (
 {
-pos = (82,295);
+pos = (83,295);
 ref = period;
 }
 );
@@ -50,32 +50,32 @@ width = 304;
 {
 guides = (
 {
-pos = (-21,356);
+pos = (-22,356);
 }
 );
 layerId = "19651320-9895-44C9-9F41-285CE0F17596";
 shapes = (
 {
-pos = (78,279);
+pos = (77,279);
 ref = period;
 }
 );
-width = 289;
+width = 288;
 },
 {
 guides = (
 {
-pos = (-8,356);
+pos = (-7,356);
 }
 );
 layerId = "1F135AE2-2C2A-4A39-A9C7-F637F318501B";
 shapes = (
 {
-pos = (85,306);
+pos = (86,306);
 ref = period;
 }
 );
-width = 376;
+width = 377;
 },
 {
 guides = (
@@ -110,17 +110,17 @@ width = 354;
 {
 guides = (
 {
-pos = (-4,356);
+pos = (-3,356);
 }
 );
 layerId = "1C7E9FC1-FC8D-462F-A78D-B91E7BB50AFE";
 shapes = (
 {
-pos = (82,295);
+pos = (83,295);
 ref = period;
 }
 );
-width = 479;
+width = 480;
 }
 );
 metricLeft = period;

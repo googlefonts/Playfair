@@ -49,7 +49,7 @@ pos = (397,0);
 ref = "o-horncomb.smcp";
 }
 );
-width = 750;
+width = 751;
 },
 {
 background = {
@@ -97,7 +97,7 @@ pos = (362,0);
 ref = "o-horncomb.smcp";
 }
 );
-width = 790;
+width = 791;
 },
 {
 background = {
@@ -145,7 +145,7 @@ pos = (457,0);
 ref = "o-horncomb.smcp";
 }
 );
-width = 880;
+width = 881;
 },
 {
 background = {
@@ -240,7 +240,7 @@ pos = (445,0);
 ref = "o-horncomb.smcp";
 }
 );
-width = 985;
+width = 989;
 },
 {
 background = {

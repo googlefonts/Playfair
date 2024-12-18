@@ -112,7 +112,7 @@ pos = (414,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 742;
+width = 738;
 },
 {
 background = {
@@ -225,7 +225,7 @@ pos = (500,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 875;
+width = 876;
 },
 {
 background = {
@@ -337,7 +337,7 @@ pos = (424,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 825;
+width = 830;
 },
 {
 background = {
@@ -441,7 +441,7 @@ pos = (535,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 1003;
+width = 1010;
 },
 {
 background = {
@@ -553,7 +553,7 @@ pos = (414,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 852;
+width = 859;
 },
 {
 background = {
@@ -665,20 +665,20 @@ pos = (536,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 1040;
+width = 1119;
 },
 {
 background = {
 guides = (
 {
 angle = 74.4;
-pos = (1241,425);
+pos = (1240,425);
 },
 {
-pos = (993,180);
+pos = (992,180);
 },
 {
-pos = (993,180);
+pos = (992,180);
 }
 );
 hints = (
@@ -717,36 +717,36 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(957,-228,l),
-(1058,-231,l),
-(1241,425,ls),
-(1295,618,o),
-(1237,722,o),
-(1077,722,cs),
-(974,722,o),
-(905,679,o),
-(832,572,c),
-(860,534,l),
-(892,600,o),
-(939,635,o),
-(995,635,cs),
-(1062,635,o),
-(1083,586,o),
-(1056,490,cs),
-(855,-231,l)
+(956,-228,l),
+(1057,-231,l),
+(1240,425,ls),
+(1294,618,o),
+(1236,722,o),
+(1076,722,cs),
+(973,722,o),
+(904,679,o),
+(831,572,c),
+(859,534,l),
+(891,600,o),
+(938,635,o),
+(994,635,cs),
+(1061,635,o),
+(1082,586,o),
+(1055,490,cs),
+(854,-231,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(620,3,l),
-(721,0,l),
-(919,708,l),
-(894,706,o),
-(851,705,o),
-(817,705,c),
-(716,708,l),
-(518,0,l)
+(619,3,l),
+(720,0,l),
+(918,708,l),
+(893,706,o),
+(850,705,o),
+(816,705,c),
+(715,708,l),
+(517,0,l)
 );
 }
 );
@@ -754,31 +754,31 @@ nodes = (
 guides = (
 {
 angle = 74.4;
-pos = (1241,425);
+pos = (1240,425);
 },
 {
-pos = (293,180);
+pos = (292,180);
 }
 );
 layerId = "5936EB7C-5C81-433B-ABAB-ADB37EE98828";
 shapes = (
 {
+pos = (-1,0);
 ref = "_UC-upper-stem-instroke";
 },
 {
-pos = (1,0);
 ref = "_UC-bottom-stem-normal-wide";
 },
 {
-pos = (279,0);
+pos = (278,0);
 ref = "_UC-Eng-arch";
 },
 {
-pos = (424,0);
+pos = (423,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 826;
+width = 899;
 },
 {
 background = {
@@ -890,7 +890,7 @@ pos = (549,0);
 ref = "_UC-long-leg-descender";
 }
 );
-width = 1038;
+width = 1150;
 }
 );
 metricLeft = I;

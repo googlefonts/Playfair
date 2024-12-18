@@ -265,7 +265,7 @@ pos = (257,0);
 ref = "_UC-bottom-stem-narrow-normal";
 }
 );
-width = 737;
+width = 738;
 },
 {
 background = {
@@ -377,7 +377,7 @@ pos = (368,0);
 ref = "_UC-bottom-stem-narrow-normal";
 }
 );
-width = 760;
+width = 762;
 },
 {
 background = {
@@ -489,7 +489,7 @@ pos = (336,0);
 ref = "_UC-bottom-stem-narrow-normal";
 }
 );
-width = 753;
+width = 755;
 },
 {
 background = {
@@ -601,7 +601,7 @@ pos = (309,0);
 ref = "_UC-bottom-stem-narrow-normal";
 }
 );
-width = 867;
+width = 868;
 },
 {
 background = {
@@ -1017,7 +1017,7 @@ pos = (443,0);
 ref = "_UC-bottom-stem-narrow-normal";
 }
 );
-width = 986;
+width = 987;
 }
 );
 metricRight = I;
