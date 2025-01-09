@@ -1,0 +1,40 @@
+The original repository is https://github.com/clauseggers/Playfair
+
+The sources can't be exported with the Google Fonts tools (fontmaker and gftools builder). The principal blockers are:
+- masters names
+- special layers (not supported by GlyphsLib)
+- smart and corner components (not supported by GlyphsLib)
+
+
+On the .glyphs files, to do each time we want to export the fonts:
+
+About fonts infos:
+
+- Rename files names (same name as in the config.yaml)
+- Fonts infos: (copyright, licence, variable font origin, axis mapping, remove italic axis). Check or copy/paste the previous version infos.
+- Rename masters. Example: Needlepoint SemiCondensed Upright -> 1200pt SemiCondensed Light
+- Change 113 to 114 for master values (width)
+- Copy paste right instances (from the previous file)
+- Win metrics to update
+- Add '# Automatic Code Start' in features, see: https://github.com/googlefonts/fontmake/issues/1137#issuecomment-2508122490
+
+
+
+About outlines:
+- Delete all the corner components and choose "decompose" (it changed some of the metrics)
+- Decomposed a part of Th.ss10, that were causing interpolation issue.
+- Decomposed _LC-descender-wide-normal
+- Decomposed bhook/bstroke/lambdastroke-latin/u/Zhe-cy/Tshe-cy/Zhedescender-cy/Tshe-cy.ss07/zhe-cy.smcp/tshe-cy.smcp/zhedescender-cy.smcp/tshe-cy.smcp.ss07/Tshe-cy.BRACKET.varAlt01/Tshe-cy.ss07.BRACKET.varAlt01/tshe-cy.smcp.BRACKET.varAlt01/tshe-cy.smcp.ss07.BRACKET.varAlt01
+- Removed all the smart components + decomposed the corresponding glyphs
+- Removed and decomposed:
+- _SMCP-ka-cy-wings _SMCP-kadescender-cy-wings _SMCP-zhe-cy-wings _SMCP-zhedescender-cy-wings _UC-Zhe-cy-wings _UC-Zhedescender-cy-wings _UC-K-wing _UC-Ka-cy-wings _UC-Kadescender-cy-wing 
+- Same in Italic + removed brace layers in Ѫ/yusbig-cy.smcp
+- Removed all brace layers
+
+
+Fix fontbakery fails:
+- Win metrics
+- slashshort and slashlong non exported
+- remove soft hyphen
+- caret ligature
+- Check anchors and add missing anchors

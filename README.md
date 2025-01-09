@@ -1,3 +1,20 @@
+## Important!
+
+*Note from Emma Marichal (GF font engineer and onboarder) / 08.01.2025*
+
+This repository is a fork of https://github.com/clauseggers/Playfair. The sources needs to be synchronized in terms of design. Here is the Google Fonts version, following the GF specs.
+
+
+Fonts can't be exported with the Google Fonts tools (fontmake and gftools builder). The principal blockers are:
+
+* masters names
+* special layers (not supported by GlyphsLib)
+* smart and corner components (not supported by GlyphsLib)
+
+If you want to export the fonts from the last Playfair version (https://github.com/clauseggers/Playfair), please follow instructions in sources > process-to-read.txt.
+
+
+
 ![**Playfair 2.2** banner](images/Playfair_2_2_banner.svg?)
 
 ![**Playfair 2.2** Glyph repertoire animation](images/playfair_glyph_repertoire_rom_ita.gif)
