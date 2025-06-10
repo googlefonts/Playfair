@@ -97,7 +97,7 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 PyYAML==6.0.1
 regex==2024.5.15
-requests==2.32.3
+requests==2.32.4
 resvg-cli==0.22.0.post3
 rich==13.7.1
 ruamel.yaml==0.18.6
