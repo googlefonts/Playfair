@@ -29,7 +29,7 @@ Deprecated==1.2.14
 diffenator2==0.4.5
 docopt==0.6.2
 et-xmlfile==1.1.0
-filelock==3.14.0
+filelock==3.20.1
 font-v==2.1.0
 fontbakery==0.13.0a6
 fontFeatures==1.8.0
