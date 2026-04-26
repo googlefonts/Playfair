@@ -44,7 +44,7 @@ gflanguages==0.6.1
 gfsubsets==2024.5.9
 gftools @ git+https://github.com/googlefonts/gftools@f7057fa03dcdad8782f520edf9fdb8507deb464a
 gitdb==4.0.11
-GitPython==3.1.43
+GitPython==3.1.47
 glyphsets==1.0.0
 glyphsLib==6.9.5
 h11==0.14.0
